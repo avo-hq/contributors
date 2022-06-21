@@ -1,5 +1,5 @@
 module.exports = {
-  basePath: '',
+  basePath: '/contributors',
   projectName: 'Avo',
 
   siteMetadata: {
