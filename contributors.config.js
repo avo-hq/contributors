@@ -1,33 +1,20 @@
 module.exports = {
   basePath: '',
-  projectName: 'Chatwoot',
+  projectName: 'Avo',
 
   siteMetadata: {
-    title: 'Chatwoot Contributors',
+    title: 'Avo Contributors',
   },
 
   pageTitle: 'We thank all our contributors',
   pageDescription:
-    'Chatwoot would not have been what it is today without the help of our amazing contributors.',
-  githubLink: 'https://github.com/chatwoot/chatwoot',
-  contributingGuide: 'https://www.chatwoot.com/docs/contributing-guide',
-  sponsorsLink: 'https://github.com/sponsors/chatwoot',
+    'Avo would not have been what it is today without the help of our amazing contributors.',
+  githubLink: 'https://github.com/avo-hq/avo',
+  contributingGuide: 'https://github.com/avo-hq/avo/blob/main/CONTRIBUTING.MD',
+  sponsorsLink: 'https://github.com/sponsors/adrianthedev',
 
   github: {
-    org: 'chatwoot',
-    repoNames: [
-      'charts',
-      'chatwoot-mobile-app',
-      'chatwoot-react-native-widget',
-      'chatwoot',
-      'cloudron-chatwoot',
-      'docs',
-      'gatsby-plugin-chatwoot',
-      'ios-sdk',
-      'node',
-      'twitty',
-      'utils',
-      'wp-plugin',
-    ],
+    org: 'avo-hq',
+    repoNames: ['avo', 'docs', 'avodemo', 'avobookr'],
   },
 };
