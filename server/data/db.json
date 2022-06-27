@@ -786,6 +786,14 @@
     },
     {
       "author": 1334409,
+      "message": "flatpickr mobile",
+      "sha": "d69bf1d73b33f7d79377d046d2891ad596177317",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2022-06-27T11:14:34Z"
+    },
+    {
+      "author": 1334409,
       "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs",
       "sha": "3e3a2399bf7cc1ed613a23d21cf2807111ebce5f",
       "orgName": "avo-hq",
@@ -1577,12 +1585,12 @@
       "createdAt": "2022-04-12T07:35:38Z"
     },
     {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "d3e46cdecc89c187319301d7485212ad2c54630e",
+      "author": 23002310,
+      "message": "fix: date field format in mobile browsers (#998)",
+      "sha": "6b2ba4181a8a3942a5f906a212696eed4ca3883f",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2022-04-10T16:37:07Z"
+      "repoName": "avo",
+      "createdAt": "2022-06-27T11:28:50Z"
     },
     {
       "author": 1334409,
@@ -2378,11 +2386,11 @@
     },
     {
       "author": 1334409,
-      "message": "fix: xss vulnerability in search (#821)",
-      "sha": "ebcb92e5895df343b987ada4dfa66bf05219c356",
+      "message": "wip",
+      "sha": "d3e46cdecc89c187319301d7485212ad2c54630e",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-12T11:57:11Z"
+      "repoName": "docs",
+      "createdAt": "2022-04-10T16:37:07Z"
     },
     {
       "author": 1334409,
@@ -3177,12 +3185,12 @@
       "createdAt": "2021-09-23T02:20:00Z"
     },
     {
-      "author": 49699333,
-      "message": "chore(deps): bump prismjs from 1.24.0 to 1.25.0\n\nBumps [prismjs](https://github.com/PrismJS/prism) from 1.24.0 to 1.25.0.\n- [Release notes](https://github.com/PrismJS/prism/releases)\n- [Changelog](https://github.com/PrismJS/prism/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/PrismJS/prism/compare/v1.24.0...v1.25.0)\n\n---\nupdated-dependencies:\n- dependency-name: prismjs\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
-      "sha": "68e19c166ffd365d03782d6486879a7392f6ea39",
+      "author": 1334409,
+      "message": "fix: xss vulnerability in search (#821)",
+      "sha": "ebcb92e5895df343b987ada4dfa66bf05219c356",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2021-09-20T22:04:12Z"
+      "repoName": "avo",
+      "createdAt": "2022-04-12T11:57:11Z"
     },
     {
       "author": 1334409,
@@ -3977,12 +3985,12 @@
       "createdAt": "2022-02-17T16:18:04Z"
     },
     {
-      "author": 1334409,
-      "message": "fix: date object alters date based on timezone (#669)",
-      "sha": "8b3cbf6abded408cbe214561422766d655870b60",
+      "author": 49699333,
+      "message": "chore(deps): bump prismjs from 1.24.0 to 1.25.0\n\nBumps [prismjs](https://github.com/PrismJS/prism) from 1.24.0 to 1.25.0.\n- [Release notes](https://github.com/PrismJS/prism/releases)\n- [Changelog](https://github.com/PrismJS/prism/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/PrismJS/prism/compare/v1.24.0...v1.25.0)\n\n---\nupdated-dependencies:\n- dependency-name: prismjs\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+      "sha": "68e19c166ffd365d03782d6486879a7392f6ea39",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-17T12:41:21Z"
+      "repoName": "docs",
+      "createdAt": "2021-09-20T22:04:12Z"
     },
     {
       "author": 1334409,
@@ -4777,12 +4785,12 @@
       "createdAt": "2021-04-12T16:31:49Z"
     },
     {
-      "author": 60558866,
-      "message": "added some underscores to the paths in the eject files section",
-      "sha": "27210177f1432d926bf4b75ce898903023e21403",
+      "author": 1334409,
+      "message": "fix: date object alters date based on timezone (#669)",
+      "sha": "8b3cbf6abded408cbe214561422766d655870b60",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2021-04-12T12:53:50Z"
+      "repoName": "avo",
+      "createdAt": "2022-02-17T12:41:21Z"
     },
     {
       "author": 1334409,
@@ -5577,12 +5585,12 @@
       "createdAt": "2021-09-09T12:01:02Z"
     },
     {
-      "author": 23171533,
-      "message": "Bump Avo to v1.13.1",
-      "sha": "3bb7b2c3ff3bbcc7bc2b31bdf3d08a757a55cd8d",
+      "author": 60558866,
+      "message": "added some underscores to the paths in the eject files section",
+      "sha": "27210177f1432d926bf4b75ce898903023e21403",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-09-01T10:24:52Z"
+      "repoName": "docs",
+      "createdAt": "2021-04-12T12:53:50Z"
     },
     {
       "author": 1334409,
@@ -6823,6 +6831,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 23171533,
+      "message": "Bump Avo to v1.13.1",
+      "sha": "3bb7b2c3ff3bbcc7bc2b31bdf3d08a757a55cd8d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-09-01T10:24:52Z"
     },
     {
       "author": 23171533,
@@ -13430,9 +13446,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1424,
+      "commitsCount": 1425,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-06-26T14:35:52Z"
+      "lastCommitAt": "2022-06-27T11:14:34Z"
     },
     {
       "id": 9854,
@@ -13473,6 +13489,14 @@
       "commitsCount": 3,
       "firstCommitAt": "2021-06-17T19:42:30Z",
       "lastCommitAt": "2022-05-16T18:29:25Z"
+    },
+    {
+      "id": 23002310,
+      "login": "hassyyy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23002310?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2022-06-27T11:28:50Z",
+      "lastCommitAt": "2022-06-27T11:28:50Z"
     },
     {
       "id": 38864576,
@@ -13611,14 +13635,6 @@
       "lastCommitAt": "2021-05-21T01:53:20Z"
     },
     {
-      "id": 60558866,
-      "login": "stijoh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60558866?v=4",
-      "commitsCount": 2,
-      "firstCommitAt": "2021-04-12T12:53:50Z",
-      "lastCommitAt": "2021-04-12T13:23:52Z"
-    },
-    {
       "id": 11912368,
       "login": "jony1993",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11912368?v=4",
@@ -13665,6 +13681,14 @@
       "commitsCount": 1,
       "firstCommitAt": "2021-10-27T15:48:17Z",
       "lastCommitAt": "2021-10-27T15:48:17Z"
+    },
+    {
+      "id": 60558866,
+      "login": "stijoh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60558866?v=4",
+      "commitsCount": 2,
+      "firstCommitAt": "2021-04-12T12:53:50Z",
+      "lastCommitAt": "2021-04-12T13:23:52Z"
     },
     {
       "id": 4685,
