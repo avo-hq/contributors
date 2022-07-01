@@ -786,6 +786,14 @@
     },
     {
       "author": 1334409,
+      "message": "force_locale updates",
+      "sha": "74ddd3c96301e9904c4d74b110949ab8008dbc7b",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2022-06-30T20:08:26Z"
+    },
+    {
+      "author": 1334409,
       "message": "Merge pull request #41 from brandondrew/patch-2",
       "sha": "3926206d6b0a555d2c4140964eb3e07ddc12f526",
       "orgName": "avo-hq",
@@ -1578,11 +1586,19 @@
     },
     {
       "author": 1334409,
-      "message": "spell check",
-      "sha": "9b5ff299a433eec2772c906a25cbc4e7cda6d9af",
+      "message": "fix: add force_locale param and use URI helpers to generate paths (#1003)",
+      "sha": "2d744f6491e06cc015105a779db4111ac8e45d84",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2022-04-14T09:22:13Z"
+      "repoName": "avo",
+      "createdAt": "2022-06-30T20:59:03Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: add common params to the menu builder (#1007)",
+      "sha": "4df75547c5c0afef76ce0176adc6d8a687f4c4ca",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-30T20:17:09Z"
     },
     {
       "author": 6984619,
@@ -2370,19 +2386,11 @@
     },
     {
       "author": 1334409,
-      "message": "feature: text-align right and center on index view (#823)",
-      "sha": "d7cc68a54ba2f89d8fe0be84cf985d791bd30217",
+      "message": "spell check",
+      "sha": "9b5ff299a433eec2772c906a25cbc4e7cda6d9af",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-12T16:53:32Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump nokogiri from 1.13.3 to 1.13.4 (#820)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "c1d814879b3583994b89fee8dea7f68ea4433ae5",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-12T15:04:40Z"
+      "repoName": "docs",
+      "createdAt": "2022-04-14T09:22:13Z"
     },
     {
       "author": 1334409,
@@ -3178,11 +3186,19 @@
     },
     {
       "author": 1334409,
-      "message": "add text filter",
-      "sha": "9d360de4517a8ff0bfd2ac5a9762b8dcfc1b2ef7",
+      "message": "feature: text-align right and center on index view (#823)",
+      "sha": "d7cc68a54ba2f89d8fe0be84cf985d791bd30217",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2021-10-28T19:01:00Z"
+      "repoName": "avo",
+      "createdAt": "2022-04-12T16:53:32Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump nokogiri from 1.13.3 to 1.13.4 (#820)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "c1d814879b3583994b89fee8dea7f68ea4433ae5",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-12T15:04:40Z"
     },
     {
       "author": 1334409,
@@ -3970,19 +3986,11 @@
     },
     {
       "author": 1334409,
-      "message": "chore: update pundit include (#664)",
-      "sha": "46facafc020b4e63ff40a239a98034a109f1c165",
+      "message": "add text filter",
+      "sha": "9d360de4517a8ff0bfd2ac5a9762b8dcfc1b2ef7",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-17T20:02:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: some fields are hidden on the has_many view (#674)",
-      "sha": "cf6058744893d9b0cd3a26ead19fa7c90dd540df",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-17T18:40:12Z"
+      "repoName": "docs",
+      "createdAt": "2021-10-28T19:01:00Z"
     },
     {
       "author": 1334409,
@@ -4778,11 +4786,19 @@
     },
     {
       "author": 1334409,
-      "message": "chore: add spell_checker docs",
-      "sha": "8f1eafac05cc962d9f48641f9f2ae10680905ae8",
+      "message": "chore: update pundit include (#664)",
+      "sha": "46facafc020b4e63ff40a239a98034a109f1c165",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2021-04-14T16:27:35Z"
+      "repoName": "avo",
+      "createdAt": "2022-02-17T20:02:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: some fields are hidden on the has_many view (#674)",
+      "sha": "cf6058744893d9b0cd3a26ead19fa7c90dd540df",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-17T18:40:12Z"
     },
     {
       "author": 1334409,
@@ -5569,20 +5585,12 @@
       "createdAt": "2021-09-16T06:10:19Z"
     },
     {
-      "author": 49699333,
-      "message": "chore(deps): bump axios from 0.21.1 to 0.21.2 (#508)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "71e90bc4a932f6da107fdc3a3a832d0a0f00a65f",
+      "author": 1334409,
+      "message": "chore: add spell_checker docs",
+      "sha": "8f1eafac05cc962d9f48641f9f2ae10680905ae8",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-09-16T06:09:48Z"
-    },
-    {
-      "author": 23171533,
-      "message": "Bump Avo to v1.13.2",
-      "sha": "64d46a85e4dc59eaaeabb8da47a8f9611d2d74dc",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-09-09T12:02:12Z"
+      "repoName": "docs",
+      "createdAt": "2021-04-14T16:27:35Z"
     },
     {
       "author": 1334409,
@@ -6377,12 +6385,20 @@
       "createdAt": "2020-08-14T13:22:05Z"
     },
     {
-      "author": 1334409,
-      "message": "remove next prev from pages and bring back tailwidn plugin",
-      "sha": "56c5e62e6590a92537d6492479949c6a35a86452",
+      "author": 49699333,
+      "message": "chore(deps): bump axios from 0.21.1 to 0.21.2 (#508)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "71e90bc4a932f6da107fdc3a3a832d0a0f00a65f",
       "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:18:33Z"
+      "repoName": "avo",
+      "createdAt": "2021-09-16T06:09:48Z"
+    },
+    {
+      "author": 23171533,
+      "message": "Bump Avo to v1.13.2",
+      "sha": "64d46a85e4dc59eaaeabb8da47a8f9611d2d74dc",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-09-09T12:02:12Z"
     },
     {
       "author": 23171533,
@@ -7170,19 +7186,11 @@
     },
     {
       "author": 1334409,
-      "message": "refactor: smaller id columns (#387)",
-      "sha": "89d99ba6f9a11020e1faebfef83bfc4eb98e4b17",
+      "message": "remove next prev from pages and bring back tailwidn plugin",
+      "sha": "56c5e62e6590a92537d6492479949c6a35a86452",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-05-08T12:41:25Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.5.3",
-      "sha": "dc7ab62cdc5ac48b5c8e87a916e3781c0e78cbc2",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-05-07T12:48:37Z"
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:18:33Z"
     },
     {
       "author": 1334409,
@@ -7671,6 +7679,22 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: smaller id columns (#387)",
+      "sha": "89d99ba6f9a11020e1faebfef83bfc4eb98e4b17",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-05-08T12:41:25Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v1.5.3",
+      "sha": "dc7ab62cdc5ac48b5c8e87a916e3781c0e78cbc2",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-05-07T12:48:37Z"
     },
     {
       "author": 1334409,
@@ -13494,9 +13518,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1428,
+      "commitsCount": 1431,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-06-30T06:58:35Z"
+      "lastCommitAt": "2022-06-30T20:59:03Z"
     },
     {
       "id": 9854,
