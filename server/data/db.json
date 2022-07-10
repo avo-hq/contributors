@@ -1586,6 +1586,22 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v2.10.1",
+      "sha": "4eb79989492ea38f61b72b9d4d397ff262b292cf",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-09T22:55:41Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: root_path breaks avo on community (#1031)",
+      "sha": "4aebacb8e833d1ea3404a3b508c6ab0ee250cd94",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-09T22:35:13Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: key value labels missing (#1020)",
       "sha": "d3cec9bb7189d76c3835fa9e32c7542870af5c56",
       "orgName": "avo-hq",
@@ -2367,22 +2383,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-04-18T06:58:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.2.2",
-      "sha": "d1b9a7efbe8a4063b60d948161eadc22ce082e43",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-17T10:12:43Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: reloader broke the initializer (#849)",
-      "sha": "018b8baae4bcf413d3fdb01fa83b15c06679f037",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-17T10:11:57Z"
     },
     {
       "author": 1334409,
@@ -3186,6 +3186,22 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v2.2.2",
+      "sha": "d1b9a7efbe8a4063b60d948161eadc22ce082e43",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-17T10:12:43Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: reloader broke the initializer (#849)",
+      "sha": "018b8baae4bcf413d3fdb01fa83b15c06679f037",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-17T10:11:57Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: default filters cleared on apply (#842)",
       "sha": "192cc416bbd0a5000ea8fb7031537aa522e741a9",
       "orgName": "avo-hq",
@@ -3967,22 +3983,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-02-21T17:47:51Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.22.0",
-      "sha": "051fe63a896435f3b28da87fdeb29b19d115aaec",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-21T08:31:49Z"
-    },
-    {
-      "author": 445759,
-      "message": "fix: Support older version of Pundit (#686)",
-      "sha": "d061e5854792e413e6b9a53a1151fa6b2b0c3058",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-20T19:50:00Z"
     },
     {
       "author": 1334409,
@@ -4786,6 +4786,22 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v1.22.0",
+      "sha": "051fe63a896435f3b28da87fdeb29b19d115aaec",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-21T08:31:49Z"
+    },
+    {
+      "author": 445759,
+      "message": "fix: Support older version of Pundit (#686)",
+      "sha": "d061e5854792e413e6b9a53a1151fa6b2b0c3058",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-20T19:50:00Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: fill model beofre authorizing an action (#655)",
       "sha": "97b588d23048a9c74703cca323573edc606ecaa0",
       "orgName": "avo-hq",
@@ -5567,22 +5583,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2021-10-17T16:06:10Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump nokogiri from 1.11.7 to 1.12.5 (#518)",
-      "sha": "9795e3c6f5436c5ee3799b2a9c42489d4742e81d",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-10-16T16:04:11Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump puma from 5.3.1 to 5.5.1 (#521)",
-      "sha": "bc541f3f451f34c72ef1c6b13681f8f66cbf7dd6",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-10-16T15:52:45Z"
     },
     {
       "author": 1334409,
@@ -6903,6 +6903,22 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump nokogiri from 1.11.7 to 1.12.5 (#518)",
+      "sha": "9795e3c6f5436c5ee3799b2a9c42489d4742e81d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-10-16T16:04:11Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump puma from 5.3.1 to 5.5.1 (#521)",
+      "sha": "bc541f3f451f34c72ef1c6b13681f8f66cbf7dd6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-10-16T15:52:45Z"
     },
     {
       "author": 3103806,
@@ -13590,9 +13606,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1439,
+      "commitsCount": 1441,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-07-06T08:50:36Z"
+      "lastCommitAt": "2022-07-09T22:55:41Z"
     },
     {
       "id": 9854,
