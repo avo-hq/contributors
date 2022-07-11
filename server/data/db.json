@@ -786,6 +786,14 @@
     },
     {
       "author": 1334409,
+      "message": "chore: stale bot improvements; release messages (#1038)",
+      "sha": "7a6721b6d8fb4871517c837db7e38a77ba0f09f8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-11T12:46:13Z"
+    },
+    {
+      "author": 1334409,
       "message": "chore: improve GH bug report issue template (#1037)",
       "sha": "a9e03330194fd0bb0e302093668a44974faf92f2",
       "orgName": "avo-hq",
@@ -1575,14 +1583,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-04-25T06:48:11Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: tiny sidebar adjustments (#856)",
-      "sha": "2fff6ccb03ea2bc46686b48218017b9c64e5070e",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-19T16:06:18Z"
     },
     {
       "author": 1334409,
@@ -3186,6 +3186,14 @@
     },
     {
       "author": 1334409,
+      "message": "refactor: tiny sidebar adjustments (#856)",
+      "sha": "2fff6ccb03ea2bc46686b48218017b9c64e5070e",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-19T16:06:18Z"
+    },
+    {
+      "author": 1334409,
       "message": "chore: add annotate gem (#855)",
       "sha": "b7ed012acdf2744cbaf846db7113bd0d3a38b642",
       "orgName": "avo-hq",
@@ -3975,14 +3983,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-02-23T09:12:57Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update stimulus js (#696)",
-      "sha": "25699fc2652b501b364b96ecb7a44a257d296da9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-23T09:07:54Z"
     },
     {
       "author": 1334409,
@@ -4786,6 +4786,14 @@
     },
     {
       "author": 1334409,
+      "message": "chore: update stimulus js (#696)",
+      "sha": "25699fc2652b501b364b96ecb7a44a257d296da9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-23T09:07:54Z"
+    },
+    {
+      "author": 1334409,
       "message": "Bump Avo to v1.22.2",
       "sha": "e2728d21d8b498ce3165f536e283654e057b2815",
       "orgName": "avo-hq",
@@ -5575,14 +5583,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2021-10-28T18:58:57Z"
-    },
-    {
-      "author": 35058248,
-      "message": "Issue-529: Added text filter (#530)\n\nCo-authored-by: karthikeyan <karthikeyan@gmail.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "46226c2fa333430d280a650148979913947b6214",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-10-28T18:58:02Z"
     },
     {
       "author": 1334409,
@@ -6385,6 +6385,14 @@
       "createdAt": "2020-08-14T13:29:27Z"
     },
     {
+      "author": 35058248,
+      "message": "Issue-529: Added text filter (#530)\n\nCo-authored-by: karthikeyan <karthikeyan@gmail.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "46226c2fa333430d280a650148979913947b6214",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-10-28T18:58:02Z"
+    },
+    {
       "author": 1334409,
       "message": "Bump Avo to v1.15.0",
       "sha": "a9bf692cf0fe6b94c72473021777c18ec2310cb6",
@@ -7178,14 +7186,6 @@
     },
     {
       "author": 1334409,
-      "message": "feature: select options supports a block (#404)",
-      "sha": "35853c66bb2909d9a534fc229c9708b29335dce8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-05-24T11:00:07Z"
-    },
-    {
-      "author": 1334409,
       "message": "move purgecss config",
       "sha": "33defe26e923d3275cd48e3d9eb709d9d5903297",
       "orgName": "avo-hq",
@@ -7703,6 +7703,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: select options supports a block (#404)",
+      "sha": "35853c66bb2909d9a534fc229c9708b29335dce8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-05-24T11:00:07Z"
     },
     {
       "author": 1334409,
@@ -13646,9 +13654,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1446,
+      "commitsCount": 1447,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-07-11T12:12:48Z"
+      "lastCommitAt": "2022-07-11T12:46:13Z"
     },
     {
       "id": 49699333,
@@ -13875,20 +13883,20 @@
       "lastCommitAt": "2021-10-29T19:07:42Z"
     },
     {
-      "id": 35058248,
-      "login": "santhanakarthikeyan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35058248?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2021-10-28T18:58:02Z",
-      "lastCommitAt": "2021-10-28T18:58:02Z"
-    },
-    {
       "id": 60558866,
       "login": "stijoh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60558866?v=4",
       "commitsCount": 2,
       "firstCommitAt": "2021-04-12T12:53:50Z",
       "lastCommitAt": "2021-04-12T13:23:52Z"
+    },
+    {
+      "id": 35058248,
+      "login": "santhanakarthikeyan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35058248?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2021-10-28T18:58:02Z",
+      "lastCommitAt": "2021-10-28T18:58:02Z"
     },
     {
       "id": 66578074,
