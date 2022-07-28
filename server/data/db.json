@@ -1586,6 +1586,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: multiple tabs flow out of the screen (#1105)",
+      "sha": "52b0568832d3d5662678c18002a602f4660d759a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-28T13:59:18Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: allow heading in panels (#1104)",
       "sha": "b7d88021f9a31b7bcf5e744485eea69c170ab1a8",
       "orgName": "avo-hq",
@@ -2375,14 +2383,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-05-18T11:48:28Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: minor tweaks (#908)",
-      "sha": "b29dd3290736778cce2010cd810de8a42def1c1f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-05-18T11:47:51Z"
     },
     {
       "author": 1334409,
@@ -3186,6 +3186,14 @@
     },
     {
       "author": 1334409,
+      "message": "chore: minor tweaks (#908)",
+      "sha": "b29dd3290736778cce2010cd810de8a42def1c1f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-05-18T11:47:51Z"
+    },
+    {
+      "author": 1334409,
       "message": "wip",
       "sha": "484ae0d0d4c4f39b7dd798b9914bcc2201384c97",
       "orgName": "avo-hq",
@@ -3975,14 +3983,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-03-29T14:20:49Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: show errors for critical operations (#747)",
-      "sha": "04bcbcaf4f0e979fa99470b57f068ce9d6fb3603",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-29T14:05:54Z"
     },
     {
       "author": 1334409,
@@ -4786,6 +4786,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: show errors for critical operations (#747)",
+      "sha": "04bcbcaf4f0e979fa99470b57f068ce9d6fb3603",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-29T14:05:54Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: records with no title have show view broken (#746)",
       "sha": "429b2cf5120873ea382c0121cf8e18b43d869a48",
       "orgName": "avo-hq",
@@ -5575,14 +5583,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-01-14T13:09:01Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump follow-redirects from 1.14.3 to 1.14.7 (#564)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "e86088af4e92bcda0a191915646728a6dbc190c8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-01-14T13:08:48Z"
     },
     {
       "author": 1334409,
@@ -6385,6 +6385,14 @@
       "createdAt": "2020-09-30T15:53:10Z"
     },
     {
+      "author": 49699333,
+      "message": "chore(deps): bump follow-redirects from 1.14.3 to 1.14.7 (#564)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "e86088af4e92bcda0a191915646728a6dbc190c8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-01-14T13:08:48Z"
+    },
+    {
       "author": 1334409,
       "message": "Bump Avo to v1.18.2",
       "sha": "c6946b9b20126e590513840fec4416924f182925",
@@ -7178,14 +7186,6 @@
     },
     {
       "author": 1334409,
-      "message": "feature: standalone actions (#445)\n\n* feature: standalone actions\r\n\r\n* feature: add standalone action generator",
-      "sha": "86f40bed732a9e11399a647b964fcd64784cbd8a",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-06-23T20:58:22Z"
-    },
-    {
-      "author": 1334409,
       "message": "chore: update vue",
       "sha": "8a19551004cfddfc1ac77c8d3b15ef92ff2854e2",
       "orgName": "avo-hq",
@@ -7807,6 +7807,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: standalone actions (#445)\n\n* feature: standalone actions\r\n\r\n* feature: add standalone action generator",
+      "sha": "86f40bed732a9e11399a647b964fcd64784cbd8a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-06-23T20:58:22Z"
     },
     {
       "author": 23171533,
@@ -14038,9 +14046,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1490,
+      "commitsCount": 1491,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-07-28T12:00:54Z"
+      "lastCommitAt": "2022-07-28T13:59:18Z"
     },
     {
       "id": 9854,
