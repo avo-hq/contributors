@@ -1585,6 +1585,14 @@
       "createdAt": "2022-05-03T15:21:58Z"
     },
     {
+      "author": 69730720,
+      "message": "improvement/allow_to_specify_resource_on_has_many_fields (#1109)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>\r\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "f46babfa2fec80b958c9d1a5e863c6d192d6d45d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-02T09:54:39Z"
+    },
+    {
       "author": 1334409,
       "message": "feature: allow custom fields in resource tools (#1107)\n\n* feature: allow custom fields in resource tools\r\n\r\n* add array support\r\n\r\n* wip\r\n\r\n* fix model for create\r\n\r\n* automatically pass the extra params to the model\r\n\r\n* add specs",
       "sha": "514f221c32697f29b17b5b3563eb7743b353045f",
@@ -2375,14 +2383,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-05-23T09:54:32Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add result count to search",
-      "sha": "257469df10dab36fd65da6f9529a0694952e71a5",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-05-23T07:43:33Z"
     },
     {
       "author": 1334409,
@@ -3186,6 +3186,14 @@
     },
     {
       "author": 1334409,
+      "message": "add result count to search",
+      "sha": "257469df10dab36fd65da6f9529a0694952e71a5",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-05-23T07:43:33Z"
+    },
+    {
+      "author": 1334409,
       "message": "refactor: move cards to their own controller (#912)",
       "sha": "dfac1487059e4a6a1431e10b199028aaae6426a9",
       "orgName": "avo-hq",
@@ -3975,14 +3983,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-03-29T15:27:09Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: fix release notes script (#752)",
-      "sha": "b19519fbe0e639ed7bbeafcb8e751133747da021",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-29T15:21:13Z"
     },
     {
       "author": 43936240,
@@ -4786,6 +4786,14 @@
     },
     {
       "author": 1334409,
+      "message": "chore: fix release notes script (#752)",
+      "sha": "b19519fbe0e639ed7bbeafcb8e751133747da021",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-29T15:21:13Z"
+    },
+    {
+      "author": 1334409,
       "message": "chore: foreman to overmind migration (#751)",
       "sha": "65861a2d4c3046fe75fb9a49d60f7a9f3117f4ac",
       "orgName": "avo-hq",
@@ -5575,14 +5583,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-01-19T19:32:49Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: add loading spinner to submit buttons (#592)",
-      "sha": "ffe011cd032904d1322daedd85584c965173800d",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-01-19T17:43:32Z"
     },
     {
       "author": 1334409,
@@ -6386,6 +6386,14 @@
     },
     {
       "author": 1334409,
+      "message": "feature: add loading spinner to submit buttons (#592)",
+      "sha": "ffe011cd032904d1322daedd85584c965173800d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-01-19T17:43:32Z"
+    },
+    {
+      "author": 1334409,
       "message": "feature: actions visibility (#594)",
       "sha": "9d5726cd2d3c0bedebdc2be37ed407657757ea53",
       "orgName": "avo-hq",
@@ -7178,14 +7186,6 @@
     },
     {
       "author": 1334409,
-      "message": "Bump Avo to v1.10.1",
-      "sha": "a262ca833105a38ef1e4177a8abbb58414738d14",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-06-25T07:55:56Z"
-    },
-    {
-      "author": 1334409,
       "message": "chore: update avo-hq github repo",
       "sha": "213763760dc5e5b883a916156b325f0d67939eb9",
       "orgName": "avo-hq",
@@ -7847,6 +7847,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v1.10.1",
+      "sha": "a262ca833105a38ef1e4177a8abbb58414738d14",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-06-25T07:55:56Z"
     },
     {
       "author": 1334409,
@@ -14126,9 +14134,9 @@
       "id": 69730720,
       "login": "Paul-Bob",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69730720?v=4",
-      "commitsCount": 8,
+      "commitsCount": 9,
       "firstCommitAt": "2022-05-03T21:00:12Z",
-      "lastCommitAt": "2022-07-29T22:26:22Z"
+      "lastCommitAt": "2022-08-02T09:54:39Z"
     },
     {
       "id": 49699333,
