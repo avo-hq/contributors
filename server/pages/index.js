@@ -9,9 +9,9 @@ import ContributorConfig from '../../contributors.config';
 
 export async function getStaticProps() {
   const authors = db.data ? db.data.authors : [];
-  const authorsWithoutBots = authors.filter(
-    author => !author.login.includes('bot')
-  );
+  const authorsWithoutBots = authors
+    .filter(author => !author.login.includes('bot'))
+    .filter(author => !ContributorConfig.filterOut.includes(author));
 
   return {
     props: {

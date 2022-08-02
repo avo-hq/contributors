@@ -17,4 +17,6 @@ module.exports = {
     org: 'avo-hq',
     repoNames: ['avo', 'docs', 'avodemo', 'avobookr'],
   },
+
+  filterOut: ['adrianthedev', 'mihaimdm'],
 };
