@@ -15,6 +15,8 @@ class MyDocument extends Document {
       githubLink,
       contributingGuide,
       sponsorsLink,
+      goodFirstIssuesLink,
+      roadmapLink,
     } = ContributorsConfig;
     return (
       <Html>
@@ -30,30 +32,49 @@ class MyDocument extends Document {
               <p className="text-lg mb-4 lg:mb-8 text-brand-800 max-w-lg ml-auto mr-auto">
                 {pageDescription}
               </p>
-              <div className="py-2 md:py-4 flex flex-col xl:flex-row items-center">
+              <div className="pt-2 md:pt-4 flex flex-col xl:flex-row items-center xl:space-x-4">
                 {githubLink && (
                   <a
                     href={githubLink}
-                    className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl mr-0 md:mr-4"
+                    className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl mr-0"
                   >
                     🐙 Star us on GitHub
+                  </a>
+                )}
+
+                {goodFirstIssuesLink && (
+                  <a
+                    href={goodFirstIssuesLink}
+                    className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl mr-0"
+                  >
+                    🙋 Good first issues
                   </a>
                 )}
 
                 {contributingGuide && (
                   <a
                     href={contributingGuide}
-                    className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl mr-0 md:mr-4"
+                    className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl mr-0"
                   >
                     📚 How to contribute
                   </a>
                 )}
+              </div>
+              <div className="xl:py-4 flex flex-col xl:flex-row items-center xl:space-x-4">
                 {sponsorsLink && (
                   <a
                     href={sponsorsLink}
                     className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl"
                   >
                     ❤️ Sponsor us
+                  </a>
+                )}
+                {roadmapLink && (
+                  <a
+                    href={roadmapLink}
+                    className="px-4 mb-2 py-2 border-2 text-brand-600 font-semibold border-brand-600 bg-brand-100 md:drop-shadow-xxxl"
+                  >
+                    🗺 Roadmap
                   </a>
                 )}
               </div>

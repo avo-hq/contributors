@@ -45,7 +45,7 @@ export default function ContributorCommits({ authorCommits, author }) {
         </title>
       </Head>
       <SectionHeader
-        backButtonLink="/"
+        backButtonLink={contributorsConfig.basePath}
         title={`Showing all contributions from <strong>${author.login}</strong>`}
       />
       <section className="items-center justify-center px-12 hidden lg:flex">
