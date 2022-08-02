@@ -12,7 +12,8 @@ export async function getStaticProps() {
   const authorsWithoutBots = authors
     .filter(author => !author.login.includes('bot'))
     .filter(author => !ContributorConfig.filterOut.includes(author));
-    console.log('authorsWithoutBots->', authorsWithoutBots, ContributorConfig.filterOut)
+  // eslint-disable-next-line prettier/prettier, no-console
+  console.log('authorsWithoutBots->', authorsWithoutBots, ContributorConfig.filterOut)
 
   return {
     props: {
