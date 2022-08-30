@@ -42,6 +42,38 @@
     },
     {
       "author": 1334409,
+      "message": "move to stable version of Avo",
+      "sha": "ff048ff28442aeb17c5560f95ff3e815ced7338f",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-08-30T15:31:35Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add release fish action and new locales",
+      "sha": "833c9e78a177a28c09e47b7ad08082777c3f3585",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-08-30T15:27:33Z"
+    },
+    {
+      "author": 1334409,
+      "message": "try out prerelease version",
+      "sha": "4da6c6a012b2e0580b416fbceb409e18bf57731a",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-08-30T15:20:59Z"
+    },
+    {
+      "author": 1334409,
+      "message": "use avo 2.14",
+      "sha": "490e8b000b2f84eedbdf2e71f4199262efd68bd0",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-08-30T13:20:26Z"
+    },
+    {
+      "author": 1334409,
       "message": "use big pills style for tabs",
       "sha": "7b9172e0c49a2eb59fdbaadfc2047c4ccec58b0c",
       "orgName": "avo-hq",
@@ -807,38 +839,6 @@
       "orgName": "avo-hq",
       "repoName": "avodemo",
       "createdAt": "2022-01-20T09:23:52Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo",
-      "sha": "bef313bfa29ec162b55bcd674a78b6aae4c242ca",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-01-07T15:49:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo",
-      "sha": "b8528b4eaac3c2d6b5317b5f728ff62a831f6d6d",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-01-06T16:51:52Z"
-    },
-    {
-      "author": 1334409,
-      "message": "purge attachments from the beginning",
-      "sha": "e6776e7b0d9c2714d9e7649cd79c951747a78e82",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-01-05T21:53:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "use mini_magick",
-      "sha": "60670ad11e0633f6492f729583ebc40a5ff03954",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:58:43Z"
     },
     {
       "author": 1334409,
@@ -1642,6 +1642,30 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v2.14.1",
+      "sha": "c68932b36bc259f01a8c121af57b7d0c1ad7eaf6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-30T15:26:48Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: use secret_key_base off the env variable (#1186)",
+      "sha": "5677cb945a9c7d2962d0c17ef65c5653ad53f1a7",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-30T15:18:31Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.14.0",
+      "sha": "ce987aeb34c0a84958d71de44100434ae7e67fbf",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-30T12:40:13Z"
+    },
+    {
+      "author": 1334409,
       "message": "feature: pills switcher (#1155)",
       "sha": "7a11c1fcdfa9ada9d8d403496288c3c60a3abee1",
       "orgName": "avo-hq",
@@ -2418,27 +2442,35 @@
     },
     {
       "author": 1334409,
-      "message": "chore: alert developer about missing model (#964)",
-      "sha": "6707c399e0a9bcab1d7c149f6d209a70f4b9f329",
+      "message": "update avo",
+      "sha": "bef313bfa29ec162b55bcd674a78b6aae4c242ca",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-17T12:56:13Z"
-    },
-    {
-      "author": 111963,
-      "message": "Removed the custom course resource controller (#965)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "b2bccc745c6b957c0e49ce83bb7c90bc3afb0a0a",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-17T12:48:56Z"
+      "repoName": "avodemo",
+      "createdAt": "2022-01-07T15:49:55Z"
     },
     {
       "author": 1334409,
-      "message": "fix: proper action data tag for belongs to field (#969)",
-      "sha": "c52bb672a80fda85c5b09accf440bd1bfdeb9164",
+      "message": "update avo",
+      "sha": "b8528b4eaac3c2d6b5317b5f728ff62a831f6d6d",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-17T11:49:24Z"
+      "repoName": "avodemo",
+      "createdAt": "2022-01-06T16:51:52Z"
+    },
+    {
+      "author": 1334409,
+      "message": "purge attachments from the beginning",
+      "sha": "e6776e7b0d9c2714d9e7649cd79c951747a78e82",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-01-05T21:53:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "use mini_magick",
+      "sha": "60670ad11e0633f6492f729583ebc40a5ff03954",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:58:43Z"
     },
     {
       "author": 1334409,
@@ -3306,6 +3338,30 @@
     },
     {
       "author": 1334409,
+      "message": "chore: alert developer about missing model (#964)",
+      "sha": "6707c399e0a9bcab1d7c149f6d209a70f4b9f329",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-17T12:56:13Z"
+    },
+    {
+      "author": 111963,
+      "message": "Removed the custom course resource controller (#965)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "b2bccc745c6b957c0e49ce83bb7c90bc3afb0a0a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-17T12:48:56Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: proper action data tag for belongs to field (#969)",
+      "sha": "c52bb672a80fda85c5b09accf440bd1bfdeb9164",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-17T11:49:24Z"
+    },
+    {
+      "author": 1334409,
       "message": "chore: add generators dir to zetwerk ignore (#963)",
       "sha": "6104ace95c4d6c4b43fd315487062a05bd51b6b6",
       "orgName": "avo-hq",
@@ -4079,30 +4135,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-04-10T15:43:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: hide record selector (#810)",
-      "sha": "5889ba5153796ef75a539d3eb7f545901d15e1b9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-10T15:39:28Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: save button broken on safari (#809)",
-      "sha": "95b5f38c8f8451c1faa00810cebd63fc3813e913",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-10T15:04:20Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add hotwire livereload (#808)",
-      "sha": "4bf385e7d83624de12abe7a3f0ed906f5a51ac66",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-10T13:23:53Z"
     },
     {
       "author": 1334409,
@@ -4906,6 +4938,30 @@
     },
     {
       "author": 1334409,
+      "message": "feature: hide record selector (#810)",
+      "sha": "5889ba5153796ef75a539d3eb7f545901d15e1b9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-10T15:39:28Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: save button broken on safari (#809)",
+      "sha": "95b5f38c8f8451c1faa00810cebd63fc3813e913",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-10T15:04:20Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add hotwire livereload (#808)",
+      "sha": "4bf385e7d83624de12abe7a3f0ed906f5a51ac66",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-10T13:23:53Z"
+    },
+    {
+      "author": 1334409,
       "message": "chore: autoreload lib directory and initializer in development (#800)",
       "sha": "416bcc2254b46fbda60637bd5f446348e2fa0aa8",
       "orgName": "avo-hq",
@@ -5679,30 +5735,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-02-13T21:03:29Z"
-    },
-    {
-      "author": 11912368,
-      "message": "Feature: Add is_audio option to file fields to show a html audio_tag (#650)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>\r\n\r\nThank you for your contribution!",
-      "sha": "e06e29ce0050651b4b3ae97dd97b7b17289509cc",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-11T15:33:28Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: belongs to autocomplete (#646)",
-      "sha": "00cb5103d248c0406925cbc67cbbf9ecf14e963b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-11T14:35:38Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: hydrate resource with model in authorization service (#648)",
-      "sha": "9c3a40021b9e31df73200602109fb18fb1492ff9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-09T17:24:02Z"
     },
     {
       "author": 32097294,
@@ -6505,6 +6537,30 @@
       "createdAt": "2020-10-18T15:06:19Z"
     },
     {
+      "author": 11912368,
+      "message": "Feature: Add is_audio option to file fields to show a html audio_tag (#650)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>\r\n\r\nThank you for your contribution!",
+      "sha": "e06e29ce0050651b4b3ae97dd97b7b17289509cc",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-11T15:33:28Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: belongs to autocomplete (#646)",
+      "sha": "00cb5103d248c0406925cbc67cbbf9ecf14e963b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-11T14:35:38Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: hydrate resource with model in authorization service (#648)",
+      "sha": "9c3a40021b9e31df73200602109fb18fb1492ff9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-09T17:24:02Z"
+    },
+    {
       "author": 1334409,
       "message": "Bump Avo to v1.20.1",
       "sha": "d785bb1569c24c4e11d9d00472808a368fed8537",
@@ -7281,30 +7337,6 @@
       "createdAt": "2021-08-18T09:29:05Z"
     },
     {
-      "author": 49699333,
-      "message": "chore(deps): bump path-parse from 1.0.6 to 1.0.7 in /spec/dummy (#491)\n\nBumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.\r\n- [Release notes](https://github.com/jbgutierrez/path-parse/releases)\r\n- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: path-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "f43d5d6f2218220b44432506d38ebe1b22b73ac9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-08-11T07:10:15Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump path-parse from 1.0.6 to 1.0.7 (#493)\n\nBumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.\r\n- [Release notes](https://github.com/jbgutierrez/path-parse/releases)\r\n- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: path-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "696ac6dd73a1787360e065bb9fbb2e31406dcc08",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-08-11T07:10:02Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump url-parse from 1.5.1 to 1.5.3 (#492)\n\nBumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.1 to 1.5.3.\r\n- [Release notes](https://github.com/unshiftio/url-parse/releases)\r\n- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.1...1.5.3)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: url-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "1595297e8fe3207237ecbc52691cbb8deb2d314b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-08-11T07:09:51Z"
-    },
-    {
       "author": 1334409,
       "message": "moved avo to rubygems",
       "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
@@ -8039,6 +8071,30 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump path-parse from 1.0.6 to 1.0.7 in /spec/dummy (#491)\n\nBumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.\r\n- [Release notes](https://github.com/jbgutierrez/path-parse/releases)\r\n- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: path-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "f43d5d6f2218220b44432506d38ebe1b22b73ac9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-08-11T07:10:15Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump path-parse from 1.0.6 to 1.0.7 (#493)\n\nBumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.\r\n- [Release notes](https://github.com/jbgutierrez/path-parse/releases)\r\n- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: path-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "696ac6dd73a1787360e065bb9fbb2e31406dcc08",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-08-11T07:10:02Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump url-parse from 1.5.1 to 1.5.3 (#492)\n\nBumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.1 to 1.5.3.\r\n- [Release notes](https://github.com/unshiftio/url-parse/releases)\r\n- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.1...1.5.3)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: url-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "1595297e8fe3207237ecbc52691cbb8deb2d314b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-08-11T07:09:51Z"
     },
     {
       "author": 49699333,
@@ -14574,9 +14630,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1537,
+      "commitsCount": 1544,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-08-30T10:40:58Z"
+      "lastCommitAt": "2022-08-30T15:31:35Z"
     },
     {
       "id": 69730720,
@@ -14779,20 +14835,20 @@
       "lastCommitAt": "2022-03-02T21:39:12Z"
     },
     {
-      "id": 11912368,
-      "login": "jony1993",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11912368?v=4",
-      "commitsCount": 2,
-      "firstCommitAt": "2022-01-06T15:00:07Z",
-      "lastCommitAt": "2022-02-11T15:33:28Z"
-    },
-    {
       "id": 60558866,
       "login": "stijoh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60558866?v=4",
       "commitsCount": 2,
       "firstCommitAt": "2021-04-12T12:53:50Z",
       "lastCommitAt": "2021-04-12T13:23:52Z"
+    },
+    {
+      "id": 11912368,
+      "login": "jony1993",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11912368?v=4",
+      "commitsCount": 2,
+      "firstCommitAt": "2022-01-06T15:00:07Z",
+      "lastCommitAt": "2022-02-11T15:33:28Z"
     },
     {
       "id": 67437,
