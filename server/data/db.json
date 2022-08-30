@@ -842,6 +842,22 @@
     },
     {
       "author": 69730720,
+      "message": "feature: select all records from current index pages (#1148)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>\r\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "9e19da5b61e6b1597ce7fad3b8bead522c7d9b0a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-29T20:44:00Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: crash when attach files and validator render errors (#1173)",
+      "sha": "29adff79f99c927c6b8c3c8294bf307509fb582b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-29T18:34:56Z"
+    },
+    {
+      "author": 69730720,
       "message": "feature: required from validators (#1180)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
       "sha": "eade47f0a9ea6b832a0391c4441118adc11f5a88",
       "orgName": "avo-hq",
@@ -1623,22 +1639,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-06-15T18:20:53Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: load user translation files not Avo's (#960)",
-      "sha": "5fbdabf0bcfbfaab4d1146c8a273b3d4250dd755",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-14T10:52:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: use resource name for url instead of model name (#953)",
-      "sha": "f371c6abb74232374b01b66325aadf848cb79870",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-10T23:25:51Z"
     },
     {
       "author": 1334409,
@@ -3306,6 +3306,22 @@
     },
     {
       "author": 1334409,
+      "message": "fix: load user translation files not Avo's (#960)",
+      "sha": "5fbdabf0bcfbfaab4d1146c8a273b3d4250dd755",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-14T10:52:55Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: use resource name for url instead of model name (#953)",
+      "sha": "f371c6abb74232374b01b66325aadf848cb79870",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-10T23:25:51Z"
+    },
+    {
+      "author": 1334409,
       "message": "feature: required takes a block (#955)",
       "sha": "2a74ac08c86e12882cc0b0f8c6e22258cdce3769",
       "orgName": "avo-hq",
@@ -4087,22 +4103,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-04-10T12:51:15Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: resources duplicated on sidebar on errors",
-      "sha": "6a5bd89eb92c9cd0fa4725bfcd63f0825cfb6248",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-09T10:36:18Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add Not stale label exempt",
-      "sha": "b3e82fc99fb9e76950e3f6a0f96eedadb17d0993",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-08T08:00:55Z"
     },
     {
       "author": 1334409,
@@ -4905,6 +4905,22 @@
       "createdAt": "2021-05-21T01:53:20Z"
     },
     {
+      "author": 1334409,
+      "message": "fix: resources duplicated on sidebar on errors",
+      "sha": "6a5bd89eb92c9cd0fa4725bfcd63f0825cfb6248",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-09T10:36:18Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add Not stale label exempt",
+      "sha": "b3e82fc99fb9e76950e3f6a0f96eedadb17d0993",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-08T08:00:55Z"
+    },
+    {
       "author": 60499,
       "message": "Minor improve sidebar profile component (#777)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
       "sha": "f6872e7a565dba87abb90ac3c8f959c1d757f224",
@@ -5687,22 +5703,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-02-07T15:39:42Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.20.0",
-      "sha": "b149cd3b3330d7d0bed194a67817048da06e0315",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-07T14:47:56Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: hide the resource description on the association page (#643)",
-      "sha": "404d4f92b92ce5f2a92edaf2d2a91b6f7ee889c2",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-07T14:41:47Z"
     },
     {
       "author": 32097294,
@@ -6506,6 +6506,22 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v1.20.0",
+      "sha": "b149cd3b3330d7d0bed194a67817048da06e0315",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-07T14:47:56Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: hide the resource description on the association page (#643)",
+      "sha": "404d4f92b92ce5f2a92edaf2d2a91b6f7ee889c2",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-07T14:41:47Z"
+    },
+    {
+      "author": 1334409,
       "message": "Revert \"Fix key_value_field translation (#640)\" (#644)",
       "sha": "5220714b35bb62ffa75245d3b02fb28472074996",
       "orgName": "avo-hq",
@@ -7290,22 +7306,6 @@
     },
     {
       "author": 1334409,
-      "message": "Bump Avo to v1.12.3",
-      "sha": "87d3c9128ccc8445155f7d4741cc07e3a5b37a54",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-08-10T20:11:37Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: delete attachment link broken (#490)",
-      "sha": "640c68df45c57b695aa8d9f81b76a82693313a60",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-08-10T19:41:33Z"
-    },
-    {
-      "author": 1334409,
       "message": "moved avo to rubygems",
       "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
       "orgName": "avo-hq",
@@ -8039,6 +8039,22 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v1.12.3",
+      "sha": "87d3c9128ccc8445155f7d4741cc07e3a5b37a54",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-08-10T20:11:37Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: delete attachment link broken (#490)",
+      "sha": "640c68df45c57b695aa8d9f81b76a82693313a60",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-08-10T19:41:33Z"
     },
     {
       "author": 1334409,
@@ -14558,9 +14574,9 @@
       "id": 69730720,
       "login": "Paul-Bob",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69730720?v=4",
-      "commitsCount": 18,
+      "commitsCount": 20,
       "firstCommitAt": "2022-05-03T21:00:12Z",
-      "lastCommitAt": "2022-08-29T14:04:24Z"
+      "lastCommitAt": "2022-08-29T20:44:00Z"
     },
     {
       "id": 111963,
