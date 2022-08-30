@@ -1641,6 +1641,14 @@
       "createdAt": "2022-05-11T12:35:01Z"
     },
     {
+      "author": 1334409,
+      "message": "feature: pills switcher (#1155)",
+      "sha": "7a11c1fcdfa9ada9d8d403496288c3c60a3abee1",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-30T10:40:58Z"
+    },
+    {
       "author": 69730720,
       "message": "feature: select all records from current index pages (#1148)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>\r\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
       "sha": "9e19da5b61e6b1597ce7fad3b8bead522c7d9b0a",
@@ -2431,14 +2439,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-06-17T11:49:24Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add generators dir to zetwerk ignore (#963)",
-      "sha": "6104ace95c4d6c4b43fd315487062a05bd51b6b6",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-15T18:20:53Z"
     },
     {
       "author": 1334409,
@@ -3306,6 +3306,14 @@
     },
     {
       "author": 1334409,
+      "message": "chore: add generators dir to zetwerk ignore (#963)",
+      "sha": "6104ace95c4d6c4b43fd315487062a05bd51b6b6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-15T18:20:53Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: load user translation files not Avo's (#960)",
       "sha": "5fbdabf0bcfbfaab4d1146c8a273b3d4250dd755",
       "orgName": "avo-hq",
@@ -4095,14 +4103,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-04-10T13:23:53Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: autoreload lib directory and initializer in development (#800)",
-      "sha": "416bcc2254b46fbda60637bd5f446348e2fa0aa8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-10T12:51:15Z"
     },
     {
       "author": 1334409,
@@ -4906,6 +4906,14 @@
     },
     {
       "author": 1334409,
+      "message": "chore: autoreload lib directory and initializer in development (#800)",
+      "sha": "416bcc2254b46fbda60637bd5f446348e2fa0aa8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-10T12:51:15Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: resources duplicated on sidebar on errors",
       "sha": "6a5bd89eb92c9cd0fa4725bfcd63f0825cfb6248",
       "orgName": "avo-hq",
@@ -5695,14 +5703,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-02-09T17:24:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.20.1",
-      "sha": "d785bb1569c24c4e11d9d00472808a368fed8537",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-07T15:39:42Z"
     },
     {
       "author": 32097294,
@@ -6506,6 +6506,14 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v1.20.1",
+      "sha": "d785bb1569c24c4e11d9d00472808a368fed8537",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-07T15:39:42Z"
+    },
+    {
+      "author": 1334409,
       "message": "Bump Avo to v1.20.0",
       "sha": "b149cd3b3330d7d0bed194a67817048da06e0315",
       "orgName": "avo-hq",
@@ -7297,14 +7305,6 @@
       "createdAt": "2021-08-11T07:09:51Z"
     },
     {
-      "author": 49699333,
-      "message": "chore(deps): bump url-parse from 1.5.1 to 1.5.3 in /spec/dummy (#494)\n\nBumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.1 to 1.5.3.\r\n- [Release notes](https://github.com/unshiftio/url-parse/releases)\r\n- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.1...1.5.3)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: url-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "0a6f1b7962ff2965d911ee8592b870f9d45f9a3f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2021-08-11T07:09:42Z"
-    },
-    {
       "author": 1334409,
       "message": "moved avo to rubygems",
       "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
@@ -8039,6 +8039,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump url-parse from 1.5.1 to 1.5.3 in /spec/dummy (#494)\n\nBumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.1 to 1.5.3.\r\n- [Release notes](https://github.com/unshiftio/url-parse/releases)\r\n- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.1...1.5.3)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: url-parse\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "0a6f1b7962ff2965d911ee8592b870f9d45f9a3f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2021-08-11T07:09:42Z"
     },
     {
       "author": 1334409,
@@ -14566,9 +14574,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1536,
+      "commitsCount": 1537,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-08-29T13:44:43Z"
+      "lastCommitAt": "2022-08-30T10:40:58Z"
     },
     {
       "id": 69730720,
