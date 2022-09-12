@@ -20,5 +20,5 @@ module.exports = {
     repoNames: ['avo', 'docs', 'avodemo', 'avobookr'],
   },
 
-  filterOut: ['adrianthedev', 'mihaimdm22'],
+  filterOut: ['adrianthedev', 'mihaimdm22', 'Paul-Bob'],
 };
