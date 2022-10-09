@@ -1641,6 +1641,30 @@
       "createdAt": "2022-05-11T12:35:01Z"
     },
     {
+      "author": 69730720,
+      "message": "fix: belongs_to link inside tabs (#1242)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "8795cfd4bfa7dab81b2ba013d2d507c0a5cf4cd1",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-10-09T17:03:43Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: minor style tweak (#1296)",
+      "sha": "37a38cfb2d64bb1d409068492d38f07fbc26e6b3",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-10-09T14:52:32Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: disable icon on disabled action (#1295)",
+      "sha": "db0e7fe6eaad530baa549ac4262216f3e1a7a166",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-10-09T14:45:17Z"
+    },
+    {
       "author": 1334409,
       "message": "fix: dangerous send methods (#1281)",
       "sha": "1e235a00bd3cc832bfa354dc4f9a72e29d35ea3d",
@@ -2415,30 +2439,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-07-26T12:03:58Z"
-    },
-    {
-      "author": 111963,
-      "message": "Make sure null appears as \"\" in key value fields (#1100)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "b8ef098de5a6d0da79b8d2eff797da4370762f77",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-26T12:00:57Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add `avo_debug` param (#1098)",
-      "sha": "dc7f7df5981b22fbf3954e71f71eed24dbdd7673",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-26T10:45:19Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: change failed to load illustration (#1097)",
-      "sha": "b28e8feedd345b6f91619f35f6dac2399a05d4d7",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-26T09:36:11Z"
     },
     {
       "author": 1334409,
@@ -3354,6 +3354,30 @@
     },
     {
       "author": 111963,
+      "message": "Make sure null appears as \"\" in key value fields (#1100)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "b8ef098de5a6d0da79b8d2eff797da4370762f77",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-26T12:00:57Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add `avo_debug` param (#1098)",
+      "sha": "dc7f7df5981b22fbf3954e71f71eed24dbdd7673",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-26T10:45:19Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: change failed to load illustration (#1097)",
+      "sha": "b28e8feedd345b6f91619f35f6dac2399a05d4d7",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-26T09:36:11Z"
+    },
+    {
+      "author": 111963,
       "message": "Use `underscore_name` instead of `name.underscore` (#1094)\n\nThere's a bug in the trix field at the moment, where the `input` attribute of the `<trix-editor>` tag can include spaces whenever you have a resource with more than one word in it's name. If you have a resource named `MyPost` then `@resource.name` will be `My post`, `@resource.name.underscore` will be `my post` and therefore `trix_id` will be `trix_my post_foo` (if the field is named `foo`).\r\n\r\nTo fix this I've changed it to use the class name instead of the human readable name,\r\nthen calling underscore on that.",
       "sha": "49f61f91d2e93095f4410e1399d75cee94e4fcd5",
       "orgName": "avo-hq",
@@ -4127,30 +4151,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-05-17T18:47:12Z"
-    },
-    {
-      "author": 69730720,
-      "message": "return field name if field is has_one (#906)\n\n* return field name if field is has_one\r\n\r\n* name coherence\r\n\r\n* test\r\n\r\n* test rubocop trigger\r\n\r\n* attach and detach test",
-      "sha": "3b11a81e066d02c66bcce2f2ad14221f17c1f53b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-05-17T12:01:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: resource tools (#898)",
-      "sha": "c207d03a585efacae2c7cc75cdbb6e3c3c9f23f3",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-05-16T14:34:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: authorization in menus (#903)",
-      "sha": "9face972d05d58ee0c31a15511661ac4a6b893e4",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-05-16T08:25:07Z"
     },
     {
       "author": 1334409,
@@ -4953,6 +4953,30 @@
       "createdAt": "2021-05-21T01:53:20Z"
     },
     {
+      "author": 69730720,
+      "message": "return field name if field is has_one (#906)\n\n* return field name if field is has_one\r\n\r\n* name coherence\r\n\r\n* test\r\n\r\n* test rubocop trigger\r\n\r\n* attach and detach test",
+      "sha": "3b11a81e066d02c66bcce2f2ad14221f17c1f53b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-05-17T12:01:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: resource tools (#898)",
+      "sha": "c207d03a585efacae2c7cc75cdbb6e3c3c9f23f3",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-05-16T14:34:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: authorization in menus (#903)",
+      "sha": "9face972d05d58ee0c31a15511661ac4a6b893e4",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-05-16T08:25:07Z"
+    },
+    {
       "author": 1334409,
       "message": "fix: broken pagination on per page switch (#902)",
       "sha": "9da5fe3219f2cb087072b7575b63df64416cb164",
@@ -5727,30 +5751,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-03-25T10:56:54Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.25.0",
-      "sha": "8b9e724572d6b8ae5dbb01a434b4cf8a091a876f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-14T14:11:22Z"
-    },
-    {
-      "author": 1334409,
-      "message": "cahnge release notes",
-      "sha": "bb8ddbe169b861855f11215d97c0991fa70c6170",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-14T14:10:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/avo",
-      "sha": "2d9b61faf1ab1489cd6b68940c9d493bc8d3d738",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-14T14:09:20Z"
     },
     {
       "author": 32097294,
@@ -6553,6 +6553,30 @@
       "createdAt": "2020-10-18T15:06:19Z"
     },
     {
+      "author": 1334409,
+      "message": "Bump Avo to v1.25.0",
+      "sha": "8b9e724572d6b8ae5dbb01a434b4cf8a091a876f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-14T14:11:22Z"
+    },
+    {
+      "author": 1334409,
+      "message": "cahnge release notes",
+      "sha": "bb8ddbe169b861855f11215d97c0991fa70c6170",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-14T14:10:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'main' of github.com:avo-hq/avo",
+      "sha": "2d9b61faf1ab1489cd6b68940c9d493bc8d3d738",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-14T14:09:20Z"
+    },
+    {
       "author": 49699333,
       "message": "chore(deps): bump view_component from 2.48.0 to 2.49.1 (#711)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
       "sha": "0b168beb20e8dfc4845d3f37892f865c8d88f0e5",
@@ -7330,30 +7354,6 @@
     },
     {
       "author": 1334409,
-      "message": "chore: release with 3.1.0 (#563)",
-      "sha": "595d1250d080a747d1b27796f640045eaf1c76d3",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-01-12T19:54:20Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.18.3",
-      "sha": "3b8741d1f33fb650122f9a4f0a6fc841cc8597d9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-01-12T19:51:27Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v1.18.2",
-      "sha": "6f292342a487157495ddc89d040c5b497e0950b0",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-01-12T18:47:36Z"
-    },
-    {
-      "author": 1334409,
       "message": "moved avo to rubygems",
       "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
       "orgName": "avo-hq",
@@ -8087,6 +8087,30 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: release with 3.1.0 (#563)",
+      "sha": "595d1250d080a747d1b27796f640045eaf1c76d3",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-01-12T19:54:20Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v1.18.3",
+      "sha": "3b8741d1f33fb650122f9a4f0a6fc841cc8597d9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-01-12T19:51:27Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v1.18.2",
+      "sha": "6f292342a487157495ddc89d040c5b497e0950b0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-01-12T18:47:36Z"
     },
     {
       "author": 1334409,
@@ -15062,17 +15086,17 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1580,
+      "commitsCount": 1581,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-10-07T10:06:19Z"
+      "lastCommitAt": "2022-10-09T14:52:32Z"
     },
     {
       "id": 69730720,
       "login": "Paul-Bob",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69730720?v=4",
-      "commitsCount": 26,
+      "commitsCount": 28,
       "firstCommitAt": "2022-05-03T21:00:12Z",
-      "lastCommitAt": "2022-09-27T09:32:33Z"
+      "lastCommitAt": "2022-10-09T17:03:43Z"
     },
     {
       "id": 49699333,
