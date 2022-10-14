@@ -1642,6 +1642,14 @@
     },
     {
       "author": 1334409,
+      "message": "refactor: support optional policy scope (#1308)",
+      "sha": "e21364556767d3aa90c2ec1b8e53c8368c4a31dc",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-10-13T23:59:23Z"
+    },
+    {
+      "author": 1334409,
       "message": "Bump Avo to v2.17.0",
       "sha": "addfa7719c9e195be4b2be51ef8db6151c996e28",
       "orgName": "avo-hq",
@@ -2431,14 +2439,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-07-29T22:26:22Z"
-    },
-    {
-      "author": 445759,
-      "message": "Support `date` and `date_time` to clear the value (#1108)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
-      "sha": "433a66ac402b0be3387111c18e7e67d6a04138f9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-29T10:36:13Z"
     },
     {
       "author": 1334409,
@@ -3353,6 +3353,14 @@
       "createdAt": "2022-01-31T14:01:06Z"
     },
     {
+      "author": 445759,
+      "message": "Support `date` and `date_time` to clear the value (#1108)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "433a66ac402b0be3387111c18e7e67d6a04138f9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-29T10:36:13Z"
+    },
+    {
       "author": 1334409,
       "message": "fix: has one field show only main panel (#1111)",
       "sha": "8cf1a0fbb620612c8a6e9eaa7335b8021fed6445",
@@ -4143,14 +4151,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-05-20T10:48:03Z"
-    },
-    {
-      "author": 1191840,
-      "message": "Fix rotation of move to top button (#910)\n\nThank you! I appreciate it!",
-      "sha": "02936a5b22d725ccccdc4a1be15061e6b6172a92",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-05-19T10:54:18Z"
     },
     {
       "author": 1334409,
@@ -4953,6 +4953,14 @@
       "createdAt": "2021-05-21T01:53:20Z"
     },
     {
+      "author": 1191840,
+      "message": "Fix rotation of move to top button (#910)\n\nThank you! I appreciate it!",
+      "sha": "02936a5b22d725ccccdc4a1be15061e6b6172a92",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-05-19T10:54:18Z"
+    },
+    {
       "author": 1334409,
       "message": "Bump Avo to v2.7.0",
       "sha": "6606913ccb84786b1b1c9b209b9f78839af34365",
@@ -5743,14 +5751,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-03-29T15:11:57Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: downloads in actions won't work for forms with data-remote=true (#749)",
-      "sha": "1c0fbd1db94cafd3200396108495e3cece4d3a28",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-29T14:24:55Z"
     },
     {
       "author": 32097294,
@@ -6554,6 +6554,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: downloads in actions won't work for forms with data-remote=true (#749)",
+      "sha": "1c0fbd1db94cafd3200396108495e3cece4d3a28",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-29T14:24:55Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: alert dropdowns on small screens (#748)",
       "sha": "f8ae150be61b743ae19d0bac60a4d433812a4ab9",
       "orgName": "avo-hq",
@@ -7345,14 +7353,6 @@
       "createdAt": "2022-01-18T20:10:34Z"
     },
     {
-      "author": 49699333,
-      "message": "chore(deps): bump marked from 2.0.1 to 4.0.10 (#567)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "da0280b67e338ac9942add47f1a0700ae9e2c01b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-01-18T17:51:43Z"
-    },
-    {
       "author": 1334409,
       "message": "moved avo to rubygems",
       "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
@@ -8087,6 +8087,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump marked from 2.0.1 to 4.0.10 (#567)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "da0280b67e338ac9942add47f1a0700ae9e2c01b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-01-18T17:51:43Z"
     },
     {
       "author": 49699333,
@@ -15134,9 +15142,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1586,
+      "commitsCount": 1587,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-10-11T14:41:03Z"
+      "lastCommitAt": "2022-10-13T23:59:23Z"
     },
     {
       "id": 69730720,
