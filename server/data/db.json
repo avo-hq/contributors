@@ -842,6 +842,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: panel too tall (#1345)",
+      "sha": "bfb2d50f8155a0e6a6c4930bdcb2a49b4732cfa8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-10-21T16:11:56Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: the panels overflow hides the filters popup (#1340)",
       "sha": "0f73f14fcc5fb910bdd91c6801316a20494cf99d",
       "orgName": "avo-hq",
@@ -1631,14 +1639,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-08-19T14:15:07Z"
-    },
-    {
-      "author": 69730720,
-      "message": "feature: Custom path and message after create update and delete (#1139)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "7eac2838b97508a4049e73c1af15572ded3da2e5",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-08-17T18:04:03Z"
     },
     {
       "author": 1334409,
@@ -3353,6 +3353,14 @@
       "createdAt": "2022-01-31T14:01:06Z"
     },
     {
+      "author": 69730720,
+      "message": "feature: Custom path and message after create update and delete (#1139)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "7eac2838b97508a4049e73c1af15572ded3da2e5",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-17T18:04:03Z"
+    },
+    {
       "author": 1334409,
       "message": "Bump Avo to v2.13.0",
       "sha": "b85999e2fb0713e04f43a745f754d2da4f86fd21",
@@ -4143,14 +4151,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-06-03T13:54:01Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: show proper breadbcrumbs on associated create view (#935)",
-      "sha": "9b7d291542c16800607a9240a8fd944b36d39a74",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-06-02T18:44:06Z"
     },
     {
       "author": 1334409,
@@ -4954,6 +4954,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: show proper breadbcrumbs on associated create view (#935)",
+      "sha": "9b7d291542c16800607a9240a8fd944b36d39a74",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-06-02T18:44:06Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: translation keys for resources and fields (#931)\n\nCo-authored-by: Lucas Eduardo <lukaszonecell@gmail.com>",
       "sha": "7627fc667aa7b4f921f13c0b78bd4a7338cb5a1d",
       "orgName": "avo-hq",
@@ -5743,14 +5751,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-03-31T11:57:46Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: optionally show buttons on footer forms (#765)",
-      "sha": "9ce7a6d186338209a76fdf349b8950cce3e08059",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-03-31T10:39:10Z"
     },
     {
       "author": 32097294,
@@ -7287,6 +7287,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: optionally show buttons on footer forms (#765)",
+      "sha": "9ce7a6d186338209a76fdf349b8950cce3e08059",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-03-31T10:39:10Z"
     },
     {
       "author": 49699333,
@@ -15246,9 +15254,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1595,
+      "commitsCount": 1596,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2022-10-20T14:50:21Z"
+      "lastCommitAt": "2022-10-21T16:11:56Z"
     },
     {
       "id": 1841235,
