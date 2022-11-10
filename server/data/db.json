@@ -865,6 +865,14 @@
       "createdAt": "2022-05-11T12:35:01Z"
     },
     {
+      "author": 549149,
+      "message": "feature: add dashboard name to page title (#1423)",
+      "sha": "9965fb0d64bb2e08b133a4fd040be260204ea130",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-11-10T09:06:29Z"
+    },
+    {
       "author": 1334409,
       "message": "fix: display model errors on destroy (#1422)",
       "sha": "01b620b7b2263479b8c3c64146083ce6667922c2",
@@ -1655,14 +1663,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-09-13T13:37:35Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: minor fiexs around the asset settings (#1228)",
-      "sha": "69e2d373836af0f38e93bab29781730841fdb942",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-09-13T13:36:37Z"
     },
     {
       "author": 1334409,
@@ -3554,6 +3554,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: minor fiexs around the asset settings (#1228)",
+      "sha": "69e2d373836af0f38e93bab29781730841fdb942",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-09-13T13:36:37Z"
+    },
+    {
+      "author": 1334409,
       "message": "Bump Avo to v2.15.0",
       "sha": "d389e16932d9fd96fddb676ae7f2bac311e0aae0",
       "orgName": "avo-hq",
@@ -4343,14 +4351,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-07-09T22:55:41Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: root_path breaks avo on community (#1031)",
-      "sha": "4aebacb8e833d1ea3404a3b508c6ab0ee250cd94",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-09T22:35:13Z"
     },
     {
       "author": 1334409,
@@ -5154,6 +5154,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: root_path breaks avo on community (#1031)",
+      "sha": "4aebacb8e833d1ea3404a3b508c6ab0ee250cd94",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-09T22:35:13Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: key value labels missing (#1020)",
       "sha": "d3cec9bb7189d76c3835fa9e32c7542870af5c56",
       "orgName": "avo-hq",
@@ -5943,14 +5951,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-04-17T10:12:43Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: reloader broke the initializer (#849)",
-      "sha": "018b8baae4bcf413d3fdb01fa83b15c06679f037",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-04-17T10:11:57Z"
     },
     {
       "author": 32097294,
@@ -6754,6 +6754,14 @@
     },
     {
       "author": 1334409,
+      "message": "fix: reloader broke the initializer (#849)",
+      "sha": "018b8baae4bcf413d3fdb01fa83b15c06679f037",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-04-17T10:11:57Z"
+    },
+    {
+      "author": 1334409,
       "message": "fix: default filters cleared on apply (#842)",
       "sha": "192cc416bbd0a5000ea8fb7031537aa522e741a9",
       "orgName": "avo-hq",
@@ -7545,14 +7553,6 @@
       "createdAt": "2022-02-21T08:31:49Z"
     },
     {
-      "author": 445759,
-      "message": "fix: Support older version of Pundit (#686)",
-      "sha": "d061e5854792e413e6b9a53a1151fa6b2b0c3058",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-02-20T19:50:00Z"
-    },
-    {
       "author": 1334409,
       "message": "moved avo to rubygems",
       "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
@@ -8287,6 +8287,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 445759,
+      "message": "fix: Support older version of Pundit (#686)",
+      "sha": "d061e5854792e413e6b9a53a1151fa6b2b0c3058",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-02-20T19:50:00Z"
     },
     {
       "author": 1334409,
@@ -15827,6 +15835,14 @@
       "lastCommitAt": "2022-05-16T18:29:25Z"
     },
     {
+      "id": 549149,
+      "login": "nkriege",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/549149?v=4",
+      "commitsCount": 3,
+      "firstCommitAt": "2022-11-02T13:10:31Z",
+      "lastCommitAt": "2022-11-10T09:06:29Z"
+    },
+    {
       "id": 1938264,
       "login": "elassadi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1938264?v=4",
@@ -15841,14 +15857,6 @@
       "commitsCount": 8,
       "firstCommitAt": "2022-02-19T21:38:29Z",
       "lastCommitAt": "2022-11-08T11:39:58Z"
-    },
-    {
-      "id": 549149,
-      "login": "nkriege",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/549149?v=4",
-      "commitsCount": 2,
-      "firstCommitAt": "2022-11-02T13:10:31Z",
-      "lastCommitAt": "2022-11-08T11:16:54Z"
     },
     {
       "id": 514363,
