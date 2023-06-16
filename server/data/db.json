@@ -1666,6 +1666,22 @@
     },
     {
       "author": 1334409,
+      "message": "use proper cdn cover photo",
+      "sha": "643f976b0bf7d1967162e32a39ea5bc35e91996a",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-06-16T10:33:06Z"
+    },
+    {
+      "author": 1334409,
+      "message": "use the cdn cover photo for grid",
+      "sha": "e48d2d40c93188f07ad694b44db10270b6ee69dd",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-06-16T10:27:33Z"
+    },
+    {
+      "author": 1334409,
       "message": "upgrade avo to 3 pre.13",
       "sha": "7598c9114ef47ca198e1b11077109458b8e415db",
       "orgName": "avo-hq",
@@ -2447,22 +2463,6 @@
       "orgName": "avo-hq",
       "repoName": "avodemo",
       "createdAt": "2022-06-26T10:18:59Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix favicon",
-      "sha": "b0761664765ca46ebbd0e591bddcce4be6862c46",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-05-30T22:17:25Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add favicon",
-      "sha": "199a8195d16ee3ed05a8372b887eda6ceaadaabf",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-05-30T22:05:38Z"
     },
     {
       "author": 1334409,
@@ -4063,6 +4063,22 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-11-08T11:16:54Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix favicon",
+      "sha": "b0761664765ca46ebbd0e591bddcce4be6862c46",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-05-30T22:17:25Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add favicon",
+      "sha": "199a8195d16ee3ed05a8372b887eda6ceaadaabf",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-05-30T22:05:38Z"
     },
     {
       "author": 1334409,
@@ -17774,9 +17790,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1802,
+      "commitsCount": 1804,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2023-06-13T19:08:58Z"
+      "lastCommitAt": "2023-06-16T10:33:06Z"
     },
     {
       "id": 260739,
