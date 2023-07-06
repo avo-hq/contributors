@@ -866,6 +866,38 @@
     },
     {
       "author": 69730720,
+      "message": "fix: action visibility on show controls (#1833)\n\n* fix: action visibility on show controls\r\n\r\n* spec\r\n\r\n* pass arguments on control action",
+      "sha": "bbece3b20d95c467a854ba59126487befefdff46",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-07-06T10:26:53Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: allow nil values on grid cover (#1832)",
+      "sha": "d483136b9ffd1d5b032e4da2dc77b689416fd3f0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-07-06T10:26:34Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: use resource find record on search instead model direct find (#1831)",
+      "sha": "0bf9e3cefc179e7ef0c1df206675388f063fbb3f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-07-06T10:25:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.36.1",
+      "sha": "ca81be80499233c9f67ba03150dc5d5cbe939705",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-07-06T06:42:18Z"
+    },
+    {
+      "author": 69730720,
       "message": "fix: tab visibility (#1826)\n\n* fix: tab visibility\r\n\r\n* improve readability (try)\r\n\r\n* review changes\r\n\r\n* if instead unless\r\n\r\n* hide has many tab by policy",
       "sha": "ad8725a2de76d98f68af14bf122d151bf42b78bb",
       "orgName": "avo-hq",
@@ -1631,38 +1663,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2023-04-15T16:36:17Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: allow field visible false (#1681)",
-      "sha": "0ef26bdaf158dc4eb1770b61c6e0a05237d40f60",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-04-15T16:23:14Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.30.0",
-      "sha": "572cfbef61231f66a945418429e2749b757c2734",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-04-11T13:10:25Z"
-    },
-    {
-      "author": 22648572,
-      "message": "Location field review (#1631)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
-      "sha": "ab8327846bc8e13704f83a973b9281f21ae4dff0",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-04-11T11:34:09Z"
-    },
-    {
-      "author": 69730720,
-      "message": "feature: display_filename option for file and files field (#1674)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
-      "sha": "300176af8a854d87af02feeeaf87b93662b3e7b8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-04-11T10:07:08Z"
     },
     {
       "author": 1334409,
@@ -3266,6 +3266,38 @@
     },
     {
       "author": 1334409,
+      "message": "fix: allow field visible false (#1681)",
+      "sha": "0ef26bdaf158dc4eb1770b61c6e0a05237d40f60",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-04-15T16:23:14Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.30.0",
+      "sha": "572cfbef61231f66a945418429e2749b757c2734",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-04-11T13:10:25Z"
+    },
+    {
+      "author": 22648572,
+      "message": "Location field review (#1631)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "ab8327846bc8e13704f83a973b9281f21ae4dff0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-04-11T11:34:09Z"
+    },
+    {
+      "author": 69730720,
+      "message": "feature: display_filename option for file and files field (#1674)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "300176af8a854d87af02feeeaf87b93662b3e7b8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-04-11T10:07:08Z"
+    },
+    {
+      "author": 1334409,
       "message": "chore: add codeball action (#1671)",
       "sha": "91742fc87f2a938537a447c0aca7ae3837747c26",
       "orgName": "avo-hq",
@@ -4031,38 +4063,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-11-28T14:04:28Z"
-    },
-    {
-      "author": 195636,
-      "message": "fix: Added nn translations for pagy (#1456)",
-      "sha": "894e0b00ccca1984e4bf59e1c7361a978689485b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-11-28T13:58:07Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: incorrectly cached select field options (#1460)",
-      "sha": "5cd6a1c334481bd2350de280ab2465b4a3dbe24d",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-11-28T13:18:04Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: get correct search results count (#1455)",
-      "sha": "0612b71ecb5123bbf52a5f47d5c64a141adf7bb1",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-11-26T13:31:59Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.20.0",
-      "sha": "36136880297c96ca51c8271db91e2df3abae33f4",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-11-22T13:58:20Z"
     },
     {
       "author": 1334409,
@@ -5593,6 +5593,38 @@
       "createdAt": "2021-05-21T08:49:44Z"
     },
     {
+      "author": 195636,
+      "message": "fix: Added nn translations for pagy (#1456)",
+      "sha": "894e0b00ccca1984e4bf59e1c7361a978689485b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-11-28T13:58:07Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: incorrectly cached select field options (#1460)",
+      "sha": "5cd6a1c334481bd2350de280ab2465b4a3dbe24d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-11-28T13:18:04Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: get correct search results count (#1455)",
+      "sha": "0612b71ecb5123bbf52a5f47d5c64a141adf7bb1",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-11-26T13:31:59Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.20.0",
+      "sha": "36136880297c96ca51c8271db91e2df3abae33f4",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-11-22T13:58:20Z"
+    },
+    {
       "author": 69730720,
       "message": "feature: arguments on filters and actions (#1403)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>\r\nFixes https://github.com/avo-hq/avo/issues/1247",
       "sha": "49e3304da6d8b821f5177fc0d000fc6e31d51156",
@@ -6359,38 +6391,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-09-27T22:35:11Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.16.0",
-      "sha": "8dd02b6597480666497779721649f3f2e2e93217",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-09-27T12:53:37Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add product resource (#1251)",
-      "sha": "e37f7fd2417cca3914446bcec521c7ca4c008dc4",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-09-27T10:41:10Z"
-    },
-    {
-      "author": 111963,
-      "message": "Made sure model is set on the resource for actions (#1211)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
-      "sha": "7f8a6a3222a6b05ba499b346c9b17d026b9da6a8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-09-27T10:34:44Z"
-    },
-    {
-      "author": 69730720,
-      "message": "feature: skip_show_view (#1209)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "39ebc217ae53e6fad3099e947c2831b502195c68",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-09-27T09:32:33Z"
     },
     {
       "author": 1334409,
@@ -7194,6 +7194,38 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v2.16.0",
+      "sha": "8dd02b6597480666497779721649f3f2e2e93217",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-09-27T12:53:37Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add product resource (#1251)",
+      "sha": "e37f7fd2417cca3914446bcec521c7ca4c008dc4",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-09-27T10:41:10Z"
+    },
+    {
+      "author": 111963,
+      "message": "Made sure model is set on the resource for actions (#1211)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "7f8a6a3222a6b05ba499b346c9b17d026b9da6a8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-09-27T10:34:44Z"
+    },
+    {
+      "author": 69730720,
+      "message": "feature: skip_show_view (#1209)\n\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "39ebc217ae53e6fad3099e947c2831b502195c68",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-09-27T09:32:33Z"
+    },
+    {
+      "author": 1334409,
       "message": "feature: add data attributes to sidebar items (#1237)",
       "sha": "3db22d212488b5e328de3ed679cbaf1b2299b2c1",
       "orgName": "avo-hq",
@@ -7962,38 +7994,6 @@
     },
     {
       "author": 1334409,
-      "message": "chore: rename via_relation_class->via_resource_class (#1047)",
-      "sha": "e86710dd42c5ffcb0409580cfe61419d02328380",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-13T15:04:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: date time field broken on edit for different timezones (#995)",
-      "sha": "7d067ecfedcb25c394535a1fc94bd96a0804f858",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-13T13:02:51Z"
-    },
-    {
-      "author": 1334409,
-      "message": "feature: add include_blank to select and country fields (#1021)",
-      "sha": "49f0e1d6aaefe9e846eba081ecb8ae182182010f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-12T21:03:41Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: pr message permissions fix (#1046)",
-      "sha": "2dacdbeaf5aa012d4843becdb4895825c7f9481f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-07-12T15:41:13Z"
-    },
-    {
-      "author": 1334409,
       "message": "update purge options",
       "sha": "25f1d4f999c30e790a77152bd0d4664e5ea3c692",
       "orgName": "avo-hq",
@@ -8751,6 +8751,38 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: rename via_relation_class->via_resource_class (#1047)",
+      "sha": "e86710dd42c5ffcb0409580cfe61419d02328380",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-13T15:04:02Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: date time field broken on edit for different timezones (#995)",
+      "sha": "7d067ecfedcb25c394535a1fc94bd96a0804f858",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-13T13:02:51Z"
+    },
+    {
+      "author": 1334409,
+      "message": "feature: add include_blank to select and country fields (#1021)",
+      "sha": "49f0e1d6aaefe9e846eba081ecb8ae182182010f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-12T21:03:41Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: pr message permissions fix (#1046)",
+      "sha": "2dacdbeaf5aa012d4843becdb4895825c7f9481f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-07-12T15:41:13Z"
     },
     {
       "author": 800753,
@@ -17918,9 +17950,9 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1813,
+      "commitsCount": 1814,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2023-07-04T22:31:14Z"
+      "lastCommitAt": "2023-07-06T06:42:18Z"
     },
     {
       "id": 7141798,
@@ -17934,9 +17966,9 @@
       "id": 69730720,
       "login": "Paul-Bob",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69730720?v=4",
-      "commitsCount": 62,
+      "commitsCount": 65,
       "firstCommitAt": "2022-05-03T21:00:12Z",
-      "lastCommitAt": "2023-07-05T15:45:27Z"
+      "lastCommitAt": "2023-07-06T10:26:53Z"
     },
     {
       "id": 49699333,
@@ -18035,20 +18067,20 @@
       "lastCommitAt": "2023-05-08T20:37:49Z"
     },
     {
-      "id": 22648572,
-      "login": "helpotters",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22648572?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2023-04-11T11:34:09Z",
-      "lastCommitAt": "2023-04-11T11:34:09Z"
-    },
-    {
       "id": 5301131,
       "login": "lorint",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5301131?v=4",
       "commitsCount": 6,
       "firstCommitAt": "2023-01-03T05:11:03Z",
       "lastCommitAt": "2023-02-27T18:28:15Z"
+    },
+    {
+      "id": 22648572,
+      "login": "helpotters",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22648572?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2023-04-11T11:34:09Z",
+      "lastCommitAt": "2023-04-11T11:34:09Z"
     },
     {
       "id": 12644040,
@@ -18155,14 +18187,6 @@
       "lastCommitAt": "2022-12-08T11:16:55Z"
     },
     {
-      "id": 195636,
-      "login": "tersor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/195636?v=4",
-      "commitsCount": 3,
-      "firstCommitAt": "2022-09-29T13:43:10Z",
-      "lastCommitAt": "2022-11-28T13:58:07Z"
-    },
-    {
       "id": 126537,
       "login": "scomma",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126537?v=4",
@@ -18177,6 +18201,14 @@
       "commitsCount": 105,
       "firstCommitAt": "2020-05-13T17:16:40Z",
       "lastCommitAt": "2021-09-09T12:02:12Z"
+    },
+    {
+      "id": 195636,
+      "login": "tersor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/195636?v=4",
+      "commitsCount": 3,
+      "firstCommitAt": "2022-09-29T13:43:10Z",
+      "lastCommitAt": "2022-11-28T13:58:07Z"
     },
     {
       "id": 536280,
