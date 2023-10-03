@@ -65,6 +65,14 @@
       "createdAt": "2022-05-19T07:45:16Z"
     },
     {
+      "author": 250443,
+      "message": "Avo typo fixes (#1959)\n\n* Fix small comment typo\r\n\r\n* another comment \r\ntypo fix",
+      "sha": "70fab350514b4f374c97fe9a198d85d2c63b7e1b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-03T04:43:39Z"
+    },
+    {
       "author": 514363,
       "message": "Fix: Added check for tailwind.config.js based on its path #1764 (#1891)\n\n* Fix: Added check for tailwind.config.js based on its path\r\n\r\n* Fixed code climate issue",
       "sha": "3ada1392e6b82c9be99a7c33bad69c60c2c29d20",
@@ -855,14 +863,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2023-05-11T16:42:54Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.32.2",
-      "sha": "6a715c406c24a365b069b06a8aba238c4098c6b8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-09T21:18:31Z"
     },
     {
       "author": 1334409,
@@ -3266,6 +3266,14 @@
     },
     {
       "author": 1334409,
+      "message": "Bump Avo to v2.32.2",
+      "sha": "6a715c406c24a365b069b06a8aba238c4098c6b8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-09T21:18:31Z"
+    },
+    {
+      "author": 1334409,
       "message": "refactor: proper file store init (#1733)",
       "sha": "582cb84635145f3685b81a9613ade3aee1ad635b",
       "orgName": "avo-hq",
@@ -4055,14 +4063,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2023-01-11T13:31:10Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump luxon from 1.26.0 to 1.28.1 (#1520)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "ed99ef061590dcffac776b50fa6d23d93dc21f92",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-01-11T13:30:56Z"
     },
     {
       "author": 1334409,
@@ -5713,6 +5713,14 @@
       "createdAt": "2021-12-27T09:05:37Z"
     },
     {
+      "author": 49699333,
+      "message": "chore(deps): bump luxon from 1.26.0 to 1.28.1 (#1520)\n\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "ed99ef061590dcffac776b50fa6d23d93dc21f92",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-01-11T13:30:56Z"
+    },
+    {
       "author": 43936240,
       "message": ":bug: Fixes progress bar display value js (#1522)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>\r\nFixes https://github.com/avo-hq/avo/issues/1519",
       "sha": "0e85a3db9b5f6fe50ff1becd6bfe460651ac144c",
@@ -6503,14 +6511,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-10-17T13:34:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "32c75326d9080ae7fa6fbdf9bce3b395c67dd4cb",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-10-17T13:33:53Z"
     },
     {
       "author": 1334409,
@@ -7315,6 +7315,14 @@
     {
       "author": 1334409,
       "message": "wip",
+      "sha": "32c75326d9080ae7fa6fbdf9bce3b395c67dd4cb",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-10-17T13:33:53Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip",
       "sha": "2944f68dffddb4b2dffe99a52bf0d1167c7cc2cf",
       "orgName": "avo-hq",
       "repoName": "avo",
@@ -8106,14 +8114,6 @@
     },
     {
       "author": 1334409,
-      "message": "Bump Avo to v2.12.0",
-      "sha": "fed81890671d075c63eb92849aaad78b209e9259",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2022-08-02T14:33:25Z"
-    },
-    {
-      "author": 1334409,
       "message": "update purge options",
       "sha": "25f1d4f999c30e790a77152bd0d4664e5ea3c692",
       "orgName": "avo-hq",
@@ -8871,6 +8871,14 @@
       "orgName": "avo-hq",
       "repoName": "docs",
       "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.12.0",
+      "sha": "fed81890671d075c63eb92849aaad78b209e9259",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2022-08-02T14:33:25Z"
     },
     {
       "author": 69730720,
@@ -18353,6 +18361,14 @@
       "commitsCount": 1835,
       "firstCommitAt": "2020-03-28T15:37:35Z",
       "lastCommitAt": "2023-08-24T14:16:00Z"
+    },
+    {
+      "id": 250443,
+      "login": "ritec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/250443?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2023-10-03T04:43:39Z",
+      "lastCommitAt": "2023-10-03T04:43:39Z"
     },
     {
       "id": 514363,
