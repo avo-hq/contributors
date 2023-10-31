@@ -5666,86 +5666,6 @@
     },
     {
       "author": 1334409,
-      "message": "purge attachments from the beginning",
-      "sha": "e6776e7b0d9c2714d9e7649cd79c951747a78e82",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-01-05T21:53:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "use mini_magick",
-      "sha": "60670ad11e0633f6492f729583ebc40a5ff03954",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:58:43Z"
-    },
-    {
-      "author": 1334409,
-      "message": "amazon config",
-      "sha": "f9ba90cda1aa8264f2096c318376aa5a726f50ed",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:31:37Z"
-    },
-    {
-      "author": 1334409,
-      "message": "storage to amazon in prod",
-      "sha": "27bbe3f6bd18ec9a7c64b1d9f5c3701fa96b1f65",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:30:41Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add github workflows",
-      "sha": "69959cb40768e7345fc851a043c87bbad31bc484",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:24:03Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add tailwindcss-rails",
-      "sha": "b6811b3e3226432605d38cefd261e2551be77e02",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:19:44Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove get reset",
-      "sha": "616d82e44f1da9632721bae1ea6d6544d64d4b22",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:16:07Z"
-    },
-    {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "573eb7dc17992c3cde761e70ffd0b111b5024ef8",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T11:05:35Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add avo",
-      "sha": "4b1c70f66332653727b0f53a922fee3658b93b5a",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T10:17:12Z"
-    },
-    {
-      "author": 1334409,
-      "message": "initial commit",
-      "sha": "ce228b8ce94f90fa51cdad20b8e90867e623fb14",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2021-12-27T09:05:37Z"
-    },
-    {
-      "author": 1334409,
       "message": "fix: remove unpermitted params from set record (#1565)",
       "sha": "f3b3fb89ebfb020e1fa4c0fdd006a96650589359",
       "orgName": "avo-hq",
@@ -6543,6 +6463,86 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2022-10-25T07:16:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "purge attachments from the beginning",
+      "sha": "e6776e7b0d9c2714d9e7649cd79c951747a78e82",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-01-05T21:53:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "use mini_magick",
+      "sha": "60670ad11e0633f6492f729583ebc40a5ff03954",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:58:43Z"
+    },
+    {
+      "author": 1334409,
+      "message": "amazon config",
+      "sha": "f9ba90cda1aa8264f2096c318376aa5a726f50ed",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:31:37Z"
+    },
+    {
+      "author": 1334409,
+      "message": "storage to amazon in prod",
+      "sha": "27bbe3f6bd18ec9a7c64b1d9f5c3701fa96b1f65",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:30:41Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add github workflows",
+      "sha": "69959cb40768e7345fc851a043c87bbad31bc484",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:24:03Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add tailwindcss-rails",
+      "sha": "b6811b3e3226432605d38cefd261e2551be77e02",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:19:44Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove get reset",
+      "sha": "616d82e44f1da9632721bae1ea6d6544d64d4b22",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:16:07Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip",
+      "sha": "573eb7dc17992c3cde761e70ffd0b111b5024ef8",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T11:05:35Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add avo",
+      "sha": "4b1c70f66332653727b0f53a922fee3658b93b5a",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T10:17:12Z"
+    },
+    {
+      "author": 1334409,
+      "message": "initial commit",
+      "sha": "ce228b8ce94f90fa51cdad20b8e90867e623fb14",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2021-12-27T09:05:37Z"
     },
     {
       "author": 1334409,
