@@ -65,804 +65,804 @@
       "createdAt": "2022-05-19T07:45:16Z"
     },
     {
-      "author": 1334409,
-      "message": "update ruby & avo",
-      "sha": "32b5bb022b241c6fbcc6e3e740e2821517d60c71",
+      "author": 69730720,
+      "message": "fix: default overriding value when creation fails (#2299)\n\n* fix: default overriding value when creation fails\r\n\r\n* Update app/components/avo/items/switcher_component.rb\r\n\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>\r\n\r\n* revert item duplication\r\n\r\n---------\r\n\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "89cbcfb899493900f2c6b3a4f31a11ed12d87b89",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2024-01-06T17:20:22Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
-      "sha": "acfc4bffa5da32b524b3457b66c79b07e27f1db9",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2024-01-06T17:19:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "show how you can access tool variables and methods",
-      "sha": "c8ecb9b53a770103a993df4c2b3acec0a1faf737",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2024-01-06T17:18:35Z"
-    },
-    {
-      "author": 1334409,
-      "message": "make everything ransackable",
-      "sha": "d18f32538db6afa7fa8997e241bd00f3f0b2412b",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-27T18:27:54Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-08T10:03:25Z"
     },
     {
       "author": 69730720,
-      "message": "update avo",
-      "sha": "9bbe5c9e50f1dc17481d8aabf384c5abec8c7d24",
+      "message": "fix: actions download (#2269)\n\n* fix: actions download\r\n\r\n* Update app/views/avo/actions/download.turbo_stream.erb\r\n\r\n* revert modal controller\r\n\r\n* custom stream action\r\n\r\n* refactor\r\n\r\n* Update app/javascript/js/custom-stream-actions.js\r\n\r\nCo-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\n\r\n* comment\r\n\r\n* format\r\n\r\n* remove /ns\r\n\r\n* fix flash alerts\r\n\r\n* compact code\r\n\r\n* fix keep modal open alerts\r\n\r\n* revert controllers\r\n\r\n---------\r\n\r\nCo-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+      "sha": "edb3a18aac8a15fd67be51e4758db12f0335df63",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-21T17:49:44Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-08T09:59:25Z"
     },
     {
-      "author": 69730720,
-      "message": "update avo",
-      "sha": "e52bebc8c25790cdcbf84d0bb7725c646c4ce274",
+      "author": 23717796,
+      "message": "[js] Update @yaireo/tagify 4.18.0 → 4.18.1 (patch) (#2335)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "600b8fbdff342f4503562962b853821d2c9869f1",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-21T17:20:24Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-08T08:18:12Z"
     },
     {
-      "author": 69730720,
-      "message": "update avo to 3.1.6",
-      "sha": "fc0e831cb15abd60a0fcf53d0023f0ef71e629da",
+      "author": 23717796,
+      "message": "[js] Update tailwindcss 3.4.0 → 3.4.1 (patch) (#2334)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "efb5061b0fec872cebabf6bd49d9c0fa10957b95",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-13T15:59:56Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo to 3.1.5",
-      "sha": "4f097d7ef025ead2542d87d1b5a44134e7afc04c",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-13T08:46:06Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update to 3.1.4",
-      "sha": "cf4d2f83817d24c0c27a148c7701be9f34127f3f",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-12T21:09:34Z"
-    },
-    {
-      "author": 69730720,
-      "message": "execute task with rails",
-      "sha": "7a162478a6a7bf3b4520785403cb32feab5fe16c",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-12T20:25:12Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo to 3.1.3",
-      "sha": "d14d3e07c077f9905094828694f49ffd484ddf8c",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-12T16:45:41Z"
-    },
-    {
-      "author": 1334409,
-      "message": "try avo 3.0.7",
-      "sha": "ed026cacca1f38c72cd371625f89f9f4ca640c41",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-05T15:28:31Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
-      "sha": "014c47f7887b99120f2d17006d0ba48ceefcb20c",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-05T15:15:58Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo to 3.1.0",
-      "sha": "f09160850760aed1ee85250d38a29c404613e8a8",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-12-05T15:15:05Z"
-    },
-    {
-      "author": 69730720,
-      "message": "rm avo dep",
-      "sha": "0eb56ec9fcd71bf26e862b31431f73dc3cb01bdd",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-24T11:42:17Z"
-    },
-    {
-      "author": 69730720,
-      "message": "gem lock",
-      "sha": "f82eb5b7830deaf60163ff648dae2406e1905cb4",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-24T11:12:06Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo",
-      "sha": "f3edef6770eb784410ba2f0a3c47dc4aa344f672",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-24T11:11:00Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Merge pull request #18 from avo-hq/update_to_avo_3\n\nupdate avo-advanced",
-      "sha": "1fc0bfa514e90345c6c20cfafc61595f65fedc61",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-21T14:57:34Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo-advanced",
-      "sha": "b2d6203c0dad1c2f3bffddcb910b2dfdfa591531",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-21T14:56:51Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Merge pull request #17 from avo-hq/update_to_avo_3\n\nupdate to avo 3.0.2",
-      "sha": "1a5c670c1dca8329ef9f116aba695f219517ee08",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-21T12:57:06Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update to avo 3.0.2",
-      "sha": "78557d3f3525aa786ba362a4fe9d85f9dbfc97a1",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-21T12:53:08Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add filterable",
-      "sha": "5ebcd12ac5fb3b37376a83f6e2e7aa6c3b661d2d",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-15T12:20:22Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Merge pull request #16 from avo-hq/update_avo\n\nupdate avo-dashboards",
-      "sha": "bbadb34da87f4f88f18d2f0a08db25bb7bc4b0e7",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-03T10:26:55Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo-dashboards",
-      "sha": "36a09dd1faa9f124e9e01ed5b18913163b08bd8a",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-03T10:26:23Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Merge pull request #15 from avo-hq/update_avo\n\nupdate avo",
-      "sha": "f6ce1329920ead5947567394129e1106a87363e5",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-03T09:33:31Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo",
-      "sha": "0a70e9ed77a93b5d3c779d1617252e3e37213359",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-11-03T09:32:25Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
-      "sha": "74bcd31ebcd95aafc9f13289e97e5e5fa9c3b5e3",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-10-19T19:45:24Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove heroku refences",
-      "sha": "b1df9ca1d77b3bf9d674f68838ab23d7f27c8e64",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-10-19T19:44:38Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo",
-      "sha": "6028085ae03385560493c4cc6185767cb5907b0e",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-10-16T13:59:18Z"
-    },
-    {
-      "author": 69730720,
-      "message": "update avo",
-      "sha": "9fcaec588aa2d01489bf15704d98108da0f6d5a7",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-10-03T11:46:24Z"
-    },
-    {
-      "author": 1334409,
-      "message": "test deploy 2",
-      "sha": "c046f098b5e99093c82d56569230ab68b7e6bf8a",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-24T14:16:00Z"
-    },
-    {
-      "author": 1334409,
-      "message": "test deploy",
-      "sha": "a78f7fe508f3371589520c8a43a5c62212e251cc",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-24T14:14:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
-      "sha": "3a2390cc739a857b5e832ed8f3da5acf89d1d91b",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-17T19:24:04Z"
-    },
-    {
-      "author": 1334409,
-      "message": "trigger deploy",
-      "sha": "d31dc60ea6450a8e576f914ea3bc537ff8abd945",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-17T19:22:47Z"
-    },
-    {
-      "author": 1334409,
-      "message": "disable avo build assets",
-      "sha": "7a11cc282b625fc307b9606c287e3e80d95ead6b",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-17T19:00:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update gemfile",
-      "sha": "66f30bca926b38dacdb42a01afe95f9b5b2c7f2a",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-17T18:52:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo",
-      "sha": "4bf74234c2c1f40288c1ea2c4f3b034f6fc3d4d2",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-17T18:48:57Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Merge pull request #14 from avo-hq/remove_post_from_seeds\n\nremove post from seeds",
-      "sha": "a8676e66a2471c0acc82c36d537c04b51e8fc49a",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-07T12:03:49Z"
-    },
-    {
-      "author": 69730720,
-      "message": "remove post from seeds",
-      "sha": "ec3f7cbcb9ee854a2600e3f9819e826169d7b868",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-08-07T12:02:36Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo",
-      "sha": "69a28bfa777f3c0f491cd2712de4f9907821eb97",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-07-28T10:58:27Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-07T13:16:12Z"
     },
     {
       "author": 1334409,
       "message": "wip",
-      "sha": "c022797daa8bbe75f5de4f39da3c5f6b5cbc32ba",
+      "sha": "846d89ee0f039e5e8f383cb45dbe4accd6b203b2",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-07-27T22:35:30Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-07T11:07:48Z"
     },
     {
       "author": 1334409,
-      "message": "revert it",
-      "sha": "faddd1718508c0c72504883074aa8da6d95e175d",
+      "message": "chore: remove axios",
+      "sha": "ab00666e383598cf080b08aa9257e80fdaf7ea13",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-07-26T17:40:53Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-07T11:07:07Z"
     },
     {
       "author": 1334409,
-      "message": "try community",
-      "sha": "148b404015aa8d2d88d9dde5d6236f1cd4a6c85f",
+      "message": "chore: check tailwindcss integration with github repo (#2325)",
+      "sha": "6cd2f822957547c18640a19f50998936e36d9af7",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-07-26T17:35:14Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-06T15:59:48Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update net-smtp 0.4.0 → 0.4.0.1 (minor) (#2330)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "0d45ba8f29c2d1b5a0f53769553b3bc02394a86d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-06T15:33:31Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update postcss 8.4.32 → 8.4.33 (patch) (#2328)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "7b29ba1e10c3437b751533ab86f7f08f4fb273b6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-06T07:02:05Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update @yaireo/tagify 4.17.9 → 4.18.0 (minor) (#2329)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "541c3e845f66e6b6dbeef279241eeb796e20037a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-06T07:01:57Z"
+    },
+    {
+      "author": 23717796,
+      "message": "🚨 [security] [ruby] Update view_component 3.8.0 → 3.9.0 (minor) (#2327)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "f062cdd456b0b055d770d7afb8c671e4aed0b6cc",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-05T18:50:50Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update axios 1.6.3 → 1.6.4 (patch) (#2324)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "2777dde8662d23f185e573ee5e20e6085da40f05",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-05T18:50:43Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update hotwire-livereload 1.3.0 → 1.3.1 (patch) (#2326)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "73e41848b5bb4a631de6ed16d6774a424bcf4226",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-05T18:50:36Z"
     },
     {
       "author": 1334409,
-      "message": "add whenever gem",
-      "sha": "417d072bea719f70250754183b37e8e42aa01488",
+      "message": "chore: add tailwindcss integration test (#2322)",
+      "sha": "f39296c7af8cb879f80bcf2324b3be19fd89c1c1",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-07-19T18:17:05Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-05T10:13:23Z"
     },
     {
       "author": 1334409,
-      "message": "fix unrelated crash",
-      "sha": "0ce748780c1e29f59cb19a1037c428967f13d636",
+      "message": "fix: bad navbar display on firefox (#2320)",
+      "sha": "270da8185e889f0266029c79903baf368cfcbe13",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-07-19T12:31:07Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-04T16:47:05Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: scope template",
+      "sha": "7d98bb2e38534ebe43f48c3bc1f7e86c89d37d59",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-04T13:42:17Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update puma 6.4.0 → 6.4.1 (patch) (#2318)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "347051233cb6f123bbc4be27daf5ea2076fe29df",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-04T12:38:39Z"
     },
     {
       "author": 1334409,
-      "message": "use proper cdn cover photo",
-      "sha": "643f976b0bf7d1967162e32a39ea5bc35e91996a",
+      "message": "refactor: tailwind.css file clashes with other files (#2253)",
+      "sha": "7e0938ec07599add6594585da235f79490bfcfd6",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-06-16T10:33:06Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-04T12:38:03Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: invalid date_time (#2279)\n\n* fix: invalid date_time\r\n\r\n* Update lib/avo/fields/concerns/frame_loading.rb\r\n\r\n* rm wrong include\r\n\r\n* revert frames helper include\r\n\r\n* add use case\r\n\r\n* change use case\r\n\r\n* spec\r\n\r\n* fix unrelated spec\r\n\r\n* JS fix\r\n\r\n* Rename loading variable\r\n\r\n* apply rename loading on `app/components/avo/fields/has_many_field/show_component.html.erb`\r\n\r\n---------\r\n\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "94f6e77e61ed7ad48dce766830f2e338380cbc4c",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-04T12:00:20Z"
+    },
+    {
+      "author": 69730720,
+      "message": "chore: move scopes from pro to advanced (#2319)",
+      "sha": "93b6e7b2c3c79910e6b4fd6b3e710198348c2376",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-04T11:57:48Z"
+    },
+    {
+      "author": 69730720,
+      "message": "feature: delegate missing to view_context (#2314)",
+      "sha": "06390c5040f8b58465d6349a80fce540c66518ed",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-04T10:39:12Z"
     },
     {
       "author": 1334409,
-      "message": "use the cdn cover photo for grid",
-      "sha": "e48d2d40c93188f07ad694b44db10270b6ee69dd",
+      "message": "fix: remove status field defaults and fix the neutral state (#2316)",
+      "sha": "6bf7fef77b214a453b2e8143c62f327b2963af2a",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-06-16T10:27:33Z"
+      "repoName": "avo",
+      "createdAt": "2024-01-03T19:30:28Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update core-js 3.34.0 → 3.35.0 (minor) (#2303)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "2eb1cc5690824563ed642ae5364881920461dacb",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-02T15:36:08Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update factory_bot_rails 6.4.2 → 6.4.3 (patch) (#2307)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "4e2a3ac1bc9b9c7c50b59e3a7aca1d95534a7aa8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2024-01-02T15:35:56Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update all of babel7 7.23.6 → 7.23.7 (patch) (#2306)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "95ed7fdfd431c9db943846fd8d6ded058e76ac93",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-31T13:50:53Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update erb-formatter 0.6.0 → 0.7.0 (major) (#2304)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "335fced5ac015c5ed9f07c6daf9bcc745f9f7eeb",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-31T13:50:46Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: secret key base warning (#2297)",
+      "sha": "a310fbb174b6f95d044157bdfc4cd1a05732724f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-29T14:01:03Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: tabs persistence when tab name has spaces (#2278)",
+      "sha": "5fe3bc935abd20b0e51d316cca6a812d59b77425",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-29T13:28:41Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update @algolia/autocomplete-theme-classic 1.12.2 → 1.13.0 (minor) (#2292)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Paul Bob <69730720+Paul-Bob@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "5589e5fce48ec9a10a06862bf5baab69dbdd0cc6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-29T12:59:06Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update postcss-loader 7.3.3 → 7.3.4 (patch) (#2298)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "d3e8d8a9084fc3767b1f4642f80a2bd2966c0094",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-28T19:08:36Z"
+    },
+    {
+      "author": 69730720,
+      "message": "Bumped avo to 3.2.3",
+      "sha": "248b6b4dea030eb518158e58ecfa6d0d80ae239c",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-28T18:15:56Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update meta-tags to version 2.20.0 (#2294)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "5589b5f75754277320cd742e609539551acfcbc5",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-28T16:59:17Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update axios to version 1.6.3 (#2295)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "f7c3e73811f7636930b0c0a6ceff26338e0b6ee5",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-28T15:26:52Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update @algolia/autocomplete-js to version 1.13.0 (#2291)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "3b205735608786b6879c1b9af60efab5ac81ac9b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-27T20:15:27Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update standard to version 1.33.0 (#2293)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "a9b87fe6ec1fcb19bdfa8858e70a8ea2bcd051b0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-27T20:14:39Z"
     },
     {
       "author": 1334409,
-      "message": "upgrade avo to 3 pre.13",
-      "sha": "7598c9114ef47ca198e1b11077109458b8e415db",
+      "message": "chore: remove brakeman (#2290)",
+      "sha": "77da4df8c2ba322254b3835e71a28edf181583e0",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-06-07T20:13:48Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-25T12:05:16Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update aws-sdk-s3 1.141.0 → 1.142.0 (minor) (#2287)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "c40e94ce2ea6881e53c29473afc00f54451c6ed6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-24T20:19:00Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update turbo-rails 1.4.0 → 1.5.0 (minor) (#2271)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "e2182d370a817d8d1f8b4ca177dd539229df27ae",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-24T09:35:50Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update tailwindcss 3.3.6 → 3.4.0 (minor) (#2272)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "2692d972ded7d5abee796a1a3b0fa6650d546e06",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-24T09:34:57Z"
     },
     {
       "author": 1334409,
-      "message": "wip",
-      "sha": "4f742cfaf0d5383c86e2c6cce3783aa8d442a55f",
+      "message": "chore: expose query to scopes (#2288)",
+      "sha": "f1eff8ae127d3c62c2e4c15e5dc58da4149c9957",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-06-05T22:15:17Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-24T09:26:00Z"
+    },
+    {
+      "author": 64327383,
+      "message": "create ja locale (#2286)",
+      "sha": "54f559c22a3590f0c6dc585ca6943859e68bd4af",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-22T21:30:23Z"
+    },
+    {
+      "author": 69730720,
+      "message": "Bumped avo to 3.2.2",
+      "sha": "9be84b6e112222bcbc74b6b904b597a92f376106",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-21T17:41:03Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: custom_streams_actions.js (#2281)",
+      "sha": "98f691a1f151bcfd0461746a7284f931611d977f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-21T17:20:48Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update heroicons 2.0.18 → 2.1.1 (minor) (#2266)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "b74d54212ebcd4107bbebe069cc7a8ee4dd69172",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-20T21:07:44Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update erb-formatter 0.3.0 → 0.6.0 (major) (#2223)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "feab8e724a57a6e4956f6a662813f966f80b19a1",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-20T09:43:57Z"
     },
     {
       "author": 1334409,
-      "message": "remove deploy job",
-      "sha": "694340220978f3e77f81ecf988cb2449cba2adc2",
+      "message": "refactor: equal width columns in rows (#2267)",
+      "sha": "865649e3e0f9fabd868d4560e4233c324341c490",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-06-05T22:15:13Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-20T09:38:44Z"
+    },
+    {
+      "author": 69730720,
+      "message": "chore: remove ujs (#2256)",
+      "sha": "486409c076b3f723385976f81d52c946edc1077f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T19:58:50Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update prettier 2.5.1 → 2.8.8 (minor) (#2263)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "a58caf2d12a9b72883261cf80592ce7a69bea519",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T18:10:59Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update regenerator-runtime 0.13.9 → 0.13.11 (minor) (#2264)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "f9c17d2ee83140c69da9c3266bb7ee3416e85d82",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T18:10:54Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update esbuild 0.14.25 → 0.14.54 (minor) (#2257)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "7c41f288196cb631d402e2e46b85b6f795173057",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T15:40:57Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update postcss-preset-env 8.3.2 → 8.5.1 (minor) (#2258)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "119a5332bfcbc4cfc0a0320b43c6098ada39f83a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T15:40:48Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update chartkick 4.1.1 → 4.2.0 (minor) (#2255)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "bedd6b8917def58e5acdcc2e4dae44adafe3f41a",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T15:40:30Z"
+    },
+    {
+      "author": 69730720,
+      "message": "Bumped avo to 3.2.1",
+      "sha": "21bab2500cc164d2e3b00a812964d94f42b99fcf",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T14:08:48Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: stimulus attributes crashing on grid view (#2260)",
+      "sha": "e28f77d57b82edc36aac561a6ad7f95f5f122af6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T14:01:24Z"
     },
     {
       "author": 1334409,
-      "message": "remove dockerfile",
-      "sha": "42b18b725760d9f0890c0ef3428bcbf830c819d3",
+      "message": "chore: revert bad turbo 8 merge (#2259)",
+      "sha": "553efe60f4cd5c7d9cf3332d629c5a3d943b4e58",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-23T09:12:07Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T13:31:31Z"
+    },
+    {
+      "author": 69730720,
+      "message": "Bumped avo to 3.2.0",
+      "sha": "62411c757456b41487eecb017ee6424aca55cad8",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T13:17:04Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update @rails/activestorage 6.0.3 → 6.1.7 (minor) (#2249)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "29939fb05fd712179d2411739b3fe58ff92061ed",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T13:04:18Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update chart.js 3.7.0 → 3.9.1 (minor) (#2250)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "e46173a22e35514ac2e7b605acc713ebcdc85e2e",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T13:04:12Z"
+    },
+    {
+      "author": 12682792,
+      "message": "Feature/better error for missing resource (#2062)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>\r\nCo-authored-by: Paul Bob <paul.ionut.bob@gmail.com>",
+      "sha": "f4813ed11540445c37d1538bcb51c43093ffeda7",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T12:59:40Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update tailwindcss-stimulus-components 3.0.3 → 3.0.4 (patch) (#2247)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "636d1c6a942982c9f2f94e48895936005cea31bd",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T12:59:22Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update test-prof to version 1.3.1 (#2231)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "1731147dbf0b660686e208ad20f77083bb329c11",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T11:27:03Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update @prettier/plugin-ruby to version 2.1.0 (#2248)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "9a95dc06827ed3a81d37c2880a7e7a08faff96da",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T11:26:42Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update stimulus-use to version 0.50.0 (#2246)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "7c3de6523e14d2e8685d4b250517faa8b55981e1",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:52:08Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update tippy.js to version 6.3.7 (#2244)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "aecff5974dbb5c4cc33afc21f53ce99df4b508a0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:45:40Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update friendly_id to version 5.5.1 (#2233)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "ad8bfce4b7ec7269a5b9b3a68285eba68e7da395",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:34:40Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update redis to version 5.0.8 (#2240)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "2ced296d571389ea764c4614c34a879336b14ac4",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:33:32Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update hotwire-livereload to version 1.3.0 (#2239)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "0b67b684d9454151b4641771f869c9b1cb3acd27",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:33:10Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update core-js to version 3.34.0 (#2236)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "09b987f0f53dc05a08bcff5dd73ef2eea6447229",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:32:29Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update view_component to version 3.8.0 (#2232)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "f8ca36415fb045bc40f377f08bf70b71e82a79d2",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:23:31Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update active_median to version 0.4.1 (#2218)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "2509973b0184374c3c22d91ace85475e1a116b8b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:20:53Z"
+    },
+    {
+      "author": 23717796,
+      "message": "Update prefixed_ids to version 1.6.1 (#2217)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "7da68981cebee99af58fb12261f4270bbef92a80",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:19:52Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update postcss-loader 7.3.0 → 7.3.3 (patch) (#2242)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "dfc3665994c6d2fab9d4b525286b40d30343940c",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T10:07:15Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update mapkick 0.2.5 → 0.2.6 (minor) (#2241)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "37a8c49d596de37b6db9ffada925a3d6ae531577",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:46:38Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update trix 2.0.5 → 2.0.8 (patch) (#2243)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "37f08057ab96115fd24ac95021e7bef5c90d807f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:41:56Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update eslint-plugin-import 2.27.5 → 2.29.1 (minor) (#2238)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "67aeb5dadb5f70cd98f8904191dc83d8387ea4c3",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:36:57Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update eslint 8.55.0 → 8.56.0 (minor) (#2237)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "e4bd73ce3e06e422287fdb889be8e97f64a06f61",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:34:20Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update @algolia/autocomplete-theme-classic 1.0.0-alpha.46 → 1.12.2 (minor) (#2235)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "7910497b032e048b9081b04330142403b70eb41b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:28:46Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update @algolia/autocomplete-js 1.0.0-alpha.46 → 1.12.2 (minor) (#2234)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "58fff4e701ff2b96c1f034d5a937c59bba36fd30",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:27:25Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update webmock 3.18.1 → 3.19.1 (minor) (#2228)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "86322f3e49008a76876b38464a9624a3bc1eb5ac",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:20:59Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update solargraph 0.48.0 → 0.50.0 (major) (#2230)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "d77f7a1ddb7a104a982faa4d38690d6ec4fff017",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:15:26Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update simplecov 0.21.2 → 0.22.0 (major) (#2227)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "63162229bed3a0b1a4d16c78e2f557a043a3c574",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:15:15Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update rspec-rails 6.0.3 → 6.1.0 (minor) (#2226)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "85336926cd6eb2af09d622b696bf02075c898e7b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:15:06Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update rubocop-shopify 2.9.0 → 2.14.0 (minor) (#2225)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "1b0e99cf32c94bfba8b359acb562d6badb8b3424",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:09:45Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update ripper-tags 0.9.1 → 1.0.1 (major) (#2224)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "cf73fcd7aea70fe46a421247dcfabab560648c72",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:07:23Z"
     },
     {
       "author": 1334409,
-      "message": "remove pre hooks",
-      "sha": "876b819edda57c75b54d320aec3760a14838819d",
+      "message": "fix: flaky date test (#2245)",
+      "sha": "7fe540b564de56d33326a751b840b7ac2e8d8c50",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-23T09:04:30Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:06:58Z"
     },
     {
-      "author": 1334409,
-      "message": "tweaks",
-      "sha": "704703a73f0584d43290b5f3526db83bccbb8a89",
+      "author": 23717796,
+      "message": "[ruby] Update chartkick 4.2.1 → 5.0.5 (major) (#2219)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "98a9ed76f74c697b1cd8b0f10dbe6abc46937907",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-23T09:02:49Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:05:29Z"
     },
     {
-      "author": 1334409,
-      "message": "wip deploy attempts",
-      "sha": "85124ce6e0b8734ada851e84ea7c613c067965fb",
+      "author": 23717796,
+      "message": "[ruby] Update hightop 0.3.0 → 0.4.0 (major) (#2222)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "8dc753c16835ca0594506b55587a3112301d2086",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T09:35:48Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:05:09Z"
     },
     {
-      "author": 1334409,
-      "message": "add to app.json",
-      "sha": "964d6b7a39a13886739fc28421f9dbc3e1c0930f",
+      "author": 23717796,
+      "message": "[ruby] Update faker 2.22.0 → 3.2.2 (major) (#2221)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "7037bf3827d586c06bef4e5620014baba176a28b",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T09:03:27Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:04:59Z"
     },
     {
-      "author": 1334409,
-      "message": "update gemfile",
-      "sha": "124fba5b2bd4df6a6134fbbfa29495e746a37011",
+      "author": 23717796,
+      "message": "[ruby] Update brakeman 5.3.1 → 6.1.0 (major) (#2220)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "f09e86d743a2d95c4e870f4a2f4bebe92d2974a9",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T09:02:01Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T09:04:49Z"
     },
     {
-      "author": 1334409,
-      "message": "predeploy again",
-      "sha": "1448d1253983520e45b8aff8f330381d4ca3ed24",
+      "author": 69730720,
+      "message": "fix: `belongs_to` index field name (#2102)",
+      "sha": "0e9107c53b44eb53baaac0cdfe63b4d48cb08047",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T07:34:34Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:53:45Z"
     },
     {
-      "author": 1334409,
-      "message": "predeploy hook",
-      "sha": "01c05bbada643c3ec41f209c4c3e8dc56c040ddc",
+      "author": 23717796,
+      "message": "[ruby] Update pg 1.4.3 → 1.5.4 (minor) (#2216)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "ba6ddf0d228338b134c23b23a65b0a84f7dd827a",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T07:33:57Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:43:48Z"
     },
     {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "46554aab7ffecbc9daecab2158404031d9cc2a7c",
+      "author": 23717796,
+      "message": "Update pagy to version 6.2.0 (#2215)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "747bc3169b063bb032c6bb13638fc70ac8579764",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T07:32:24Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:34:06Z"
     },
     {
-      "author": 1334409,
-      "message": "add linux",
-      "sha": "94794d733d5ad751234198af9e8bf66ba5907d04",
+      "author": 69730720,
+      "message": "fix: applied filters when filters are dynamic (#2189)\n\n* fix: applied filters when filters are dynamic\r\n\r\n* add comment",
+      "sha": "94b8cdb00e776286b44f64747cebc011e4be553b",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T02:36:57Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:31:20Z"
     },
     {
-      "author": 1334409,
-      "message": "bundle",
-      "sha": "462fc24a054caf47956ddb3c2ae7e4b3ef9bc4af",
+      "author": 23717796,
+      "message": "[ruby] Update mapkick-rb 0.1.4 → 0.1.5 (minor) (#2214)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "6022ad1d0d2daa9b851d343f855ec667df921b30",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-22T02:31:47Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:27:29Z"
     },
     {
-      "author": 1334409,
-      "message": "3020 port",
-      "sha": "0fbd8e4603e27daf977552005e08b038aa32b5a0",
+      "author": 69730720,
+      "message": "fix: action authorize variables (#2188)",
+      "sha": "00d37ecdf963833f20027e3193bd5b7bba3fc26c",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-21T18:31:56Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:27:21Z"
     },
     {
-      "author": 1334409,
-      "message": "remove do",
-      "sha": "0827c096df81185a2b7b8bde1dffb8fefffb5dfe",
+      "author": 23717796,
+      "message": "[js] Update heroicons 2.0.1 → 2.0.18 (patch) (#2211)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "871a2595514fc9e0e7e59fef758c4330df8f7aa5",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-21T18:31:12Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:19:25Z"
     },
     {
-      "author": 1334409,
-      "message": "remove dockerfile",
-      "sha": "ba1328a258bf28f8e39fc83002565bfb56474bda",
+      "author": 23717796,
+      "message": "[ruby] Update listen 3.7.1 → 3.8.0 (minor) (#2210)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "b79c12ba6c95edde98c87857cede81de89eed7e2",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-21T18:31:06Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:09:35Z"
     },
     {
-      "author": 1334409,
-      "message": "update avo",
-      "sha": "d4fadbffe1a61c5d41744bf50d8c4965fb2359b5",
+      "author": 23717796,
+      "message": "[js] Update postcss 8.4.31 → 8.4.32 (patch) (#2213)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "8d0b9b5030d9f4c1fed26e14203034d5e88ec283",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-21T18:26:25Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:09:09Z"
     },
     {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "3bedaf93856016317162fdcb06739c5a9a119bbf",
+      "author": 23717796,
+      "message": "[js] Update js-cookie 3.0.1 → 3.0.5 (patch) (#2212)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "b6c1d7803110875215efe35b8b71b54e56b2207f",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-19T18:46:50Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:03:45Z"
     },
     {
-      "author": 1334409,
-      "message": "fix Avo",
-      "sha": "8ede7d7d29e887bdad4c5fc2ece91bd1dd0a7ef9",
+      "author": 23717796,
+      "message": "Update jsbundling-rails to version 1.2.1 (#2209)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "7ec77460fb789abee93763b4af8a8114ca1f890e",
       "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-19T18:25:50Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/avodemo",
-      "sha": "567c5687595e2d69d81610521904e66d996f1926",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-10T13:23:29Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge pull request #13 from avo-hq/refactor/avo-3",
-      "sha": "401000aff073d453837b985a725f8d62978b9b40",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-10T13:20:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update partials",
-      "sha": "f36d3a8ccd0de3783f5d0b4645bd1075b41225b1",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-10T13:20:16Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo path",
-      "sha": "ceb7984ca345f8b140a63ec52f6add193b43269b",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-10T13:19:29Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge pull request #12 from avo-hq/refactor/avo-3",
-      "sha": "bd78f696dd6ce5b28d5c02cd4518b64724076e07",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-10T13:00:07Z"
-    },
-    {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "e8c8af4644371f19174cc6bcf84cd73049ac0ded",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-10T12:59:49Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update view_component",
-      "sha": "4d3413ea78d0211aefcb01251d418ec74be4978e",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-04T07:37:08Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update readme",
-      "sha": "e05262d0eaaeb317e260281f8c85de78fff0bc6c",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-05-03T06:32:53Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: Avo 3 migration",
-      "sha": "5533edb68f11a91850f8184fd994958fb91c46db",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-04-23T18:52:24Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'main' of github.com:avo-hq/avodemo",
-      "sha": "c8ac1e09a11d8220d4e729b51f16742da61dc35e",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-04-13T08:31:54Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update Avo",
-      "sha": "4d7dd9e9b4642077c988227ef5912b0a4c4a5667",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-04-13T08:31:51Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge pull request #11 from lorint/fish_does_not_have_user_id",
-      "sha": "35947bb362c9759ffadfa74c675bde2c8d47ab66",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-02-18T18:36:54Z"
-    },
-    {
-      "author": 5301131,
-      "message": "Duplicate line to delete all from Fish",
-      "sha": "6aabb75ff5a75134fb312fe8121b7f78001e95f4",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-02-18T15:39:09Z"
-    },
-    {
-      "author": 5301131,
-      "message": "Add migration for user_id column in fish table",
-      "sha": "bd9205fa4be360bb13b1f13588e7e7f374fd9369",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-02-18T15:39:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "wip",
-      "sha": "7b23631ba45a645adc05dda551411ea37c5e54c3",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-02-06T20:57:59Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix path",
-      "sha": "35507526ff7fd10238d9e0bcb4b553c3d020aa08",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-02-06T14:35:49Z"
-    },
-    {
-      "author": 1334409,
-      "message": "revert links",
-      "sha": "c37fb9e95957047d299af93b42264fedc5c75918",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-26T16:55:16Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove links from header",
-      "sha": "ba5f45c218f3b9664d85296f3638754c4bd98fd0",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-26T16:49:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add turbo demo to sifh resource",
-      "sha": "9dca30516b75ec737780e88274a2fa193a489db2",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-26T11:24:12Z"
-    },
-    {
-      "author": 1334409,
-      "message": "proper fix",
-      "sha": "c398d0deffb0706d31671549a2a3fc580ebfb4a1",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-23T08:15:30Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix wrong association",
-      "sha": "397813d869f2f0830be8c4bcabb61bbfe29f2203",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-23T08:10:33Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge pull request #9 from lorint/model_fixes",
-      "sha": "914ebde6e2af7316675943c3048442c1a6ae2e21",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-22T13:53:50Z"
-    },
-    {
-      "author": 5301131,
-      "message": "Add missing CR at the end of the Gemfile",
-      "sha": "b1effeb010518143e7d0720fafd3aa3b8aef04a8",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-21T20:01:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "use global controllers",
-      "sha": "b4291b00f77249b3b42d11b2d9f7dd0a3fce7621",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-18T09:29:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "trigger deploy",
-      "sha": "4313e5f3d9279a64bb7482996c5a926c08067481",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-18T09:19:21Z"
-    },
-    {
-      "author": 5301131,
-      "message": "Spouse fixes",
-      "sha": "f282adbefd9e88db5fa9b2f14c9e84ee773a37f9",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-03T05:11:03Z"
-    },
-    {
-      "author": 5301131,
-      "message": "TeamMembership model fixes",
-      "sha": "5578925429b153e08d89e92bcd22dbd04150fe82",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2023-01-03T05:11:03Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix nested reviews",
-      "sha": "5cecad9ec33ceb3f0ec06baec6497edc9edd6fcd",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-12-06T13:00:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "translate team url",
-      "sha": "808295a36f99ac56e8068a4a5a30fa46376882bd",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-12-03T10:54:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add nested record demo",
-      "sha": "b1ee1bcfb09d7c8fe2bfe8e3fbab1ffa3579b6b3",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-12-02T15:34:16Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update avo",
-      "sha": "cc6dce1c542f4810c78509837f356f0a398b6922",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-11-28T14:21:59Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove encreyption",
-      "sha": "962a5e3a5f67e26ac06ee2ee4615036a9c23434a",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-11-26T15:07:44Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add associations authorization",
-      "sha": "fda57efb4a6dec8aa1eb9dbebb76b2db3e1e9280",
-      "orgName": "avo-hq",
-      "repoName": "avodemo",
-      "createdAt": "2022-11-26T10:07:34Z"
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:00:30Z"
     },
     {
       "author": 1334409,
@@ -1666,803 +1666,803 @@
     },
     {
       "author": 1334409,
-      "message": "chore: check tailwindcss integration with github repo (#2325)",
-      "sha": "6cd2f822957547c18640a19f50998936e36d9af7",
+      "message": "update ruby & avo",
+      "sha": "32b5bb022b241c6fbcc6e3e740e2821517d60c71",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-06T15:59:48Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update net-smtp 0.4.0 → 0.4.0.1 (minor) (#2330)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "0d45ba8f29c2d1b5a0f53769553b3bc02394a86d",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-06T15:33:31Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update postcss 8.4.32 → 8.4.33 (patch) (#2328)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "7b29ba1e10c3437b751533ab86f7f08f4fb273b6",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-06T07:02:05Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update @yaireo/tagify 4.17.9 → 4.18.0 (minor) (#2329)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "541c3e845f66e6b6dbeef279241eeb796e20037a",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-06T07:01:57Z"
-    },
-    {
-      "author": 23717796,
-      "message": "🚨 [security] [ruby] Update view_component 3.8.0 → 3.9.0 (minor) (#2327)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "f062cdd456b0b055d770d7afb8c671e4aed0b6cc",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-05T18:50:50Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update axios 1.6.3 → 1.6.4 (patch) (#2324)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "2777dde8662d23f185e573ee5e20e6085da40f05",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-05T18:50:43Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update hotwire-livereload 1.3.0 → 1.3.1 (patch) (#2326)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "73e41848b5bb4a631de6ed16d6774a424bcf4226",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-05T18:50:36Z"
+      "repoName": "avodemo",
+      "createdAt": "2024-01-06T17:20:22Z"
     },
     {
       "author": 1334409,
-      "message": "chore: add tailwindcss integration test (#2322)",
-      "sha": "f39296c7af8cb879f80bcf2324b3be19fd89c1c1",
+      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
+      "sha": "acfc4bffa5da32b524b3457b66c79b07e27f1db9",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-05T10:13:23Z"
+      "repoName": "avodemo",
+      "createdAt": "2024-01-06T17:19:05Z"
     },
     {
       "author": 1334409,
-      "message": "fix: bad navbar display on firefox (#2320)",
-      "sha": "270da8185e889f0266029c79903baf368cfcbe13",
+      "message": "show how you can access tool variables and methods",
+      "sha": "c8ecb9b53a770103a993df4c2b3acec0a1faf737",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T16:47:05Z"
-    },
-    {
-      "author": 69730720,
-      "message": "fix: scope template",
-      "sha": "7d98bb2e38534ebe43f48c3bc1f7e86c89d37d59",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T13:42:17Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update puma 6.4.0 → 6.4.1 (patch) (#2318)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "347051233cb6f123bbc4be27daf5ea2076fe29df",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T12:38:39Z"
+      "repoName": "avodemo",
+      "createdAt": "2024-01-06T17:18:35Z"
     },
     {
       "author": 1334409,
-      "message": "refactor: tailwind.css file clashes with other files (#2253)",
-      "sha": "7e0938ec07599add6594585da235f79490bfcfd6",
+      "message": "make everything ransackable",
+      "sha": "d18f32538db6afa7fa8997e241bd00f3f0b2412b",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T12:38:03Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-27T18:27:54Z"
     },
     {
       "author": 69730720,
-      "message": "fix: invalid date_time (#2279)\n\n* fix: invalid date_time\r\n\r\n* Update lib/avo/fields/concerns/frame_loading.rb\r\n\r\n* rm wrong include\r\n\r\n* revert frames helper include\r\n\r\n* add use case\r\n\r\n* change use case\r\n\r\n* spec\r\n\r\n* fix unrelated spec\r\n\r\n* JS fix\r\n\r\n* Rename loading variable\r\n\r\n* apply rename loading on `app/components/avo/fields/has_many_field/show_component.html.erb`\r\n\r\n---------\r\n\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "94f6e77e61ed7ad48dce766830f2e338380cbc4c",
+      "message": "update avo",
+      "sha": "9bbe5c9e50f1dc17481d8aabf384c5abec8c7d24",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T12:00:20Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-21T17:49:44Z"
     },
     {
       "author": 69730720,
-      "message": "chore: move scopes from pro to advanced (#2319)",
-      "sha": "93b6e7b2c3c79910e6b4fd6b3e710198348c2376",
+      "message": "update avo",
+      "sha": "e52bebc8c25790cdcbf84d0bb7725c646c4ce274",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T11:57:48Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-21T17:20:24Z"
     },
     {
       "author": 69730720,
-      "message": "feature: delegate missing to view_context (#2314)",
-      "sha": "06390c5040f8b58465d6349a80fce540c66518ed",
+      "message": "update avo to 3.1.6",
+      "sha": "fc0e831cb15abd60a0fcf53d0023f0ef71e629da",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-04T10:39:12Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-13T15:59:56Z"
+    },
+    {
+      "author": 69730720,
+      "message": "update avo to 3.1.5",
+      "sha": "4f097d7ef025ead2542d87d1b5a44134e7afc04c",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-12-13T08:46:06Z"
+    },
+    {
+      "author": 69730720,
+      "message": "update to 3.1.4",
+      "sha": "cf4d2f83817d24c0c27a148c7701be9f34127f3f",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-12-12T21:09:34Z"
+    },
+    {
+      "author": 69730720,
+      "message": "execute task with rails",
+      "sha": "7a162478a6a7bf3b4520785403cb32feab5fe16c",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-12-12T20:25:12Z"
+    },
+    {
+      "author": 69730720,
+      "message": "update avo to 3.1.3",
+      "sha": "d14d3e07c077f9905094828694f49ffd484ddf8c",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-12-12T16:45:41Z"
     },
     {
       "author": 1334409,
-      "message": "fix: remove status field defaults and fix the neutral state (#2316)",
-      "sha": "6bf7fef77b214a453b2e8143c62f327b2963af2a",
+      "message": "try avo 3.0.7",
+      "sha": "ed026cacca1f38c72cd371625f89f9f4ca640c41",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-03T19:30:28Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update core-js 3.34.0 → 3.35.0 (minor) (#2303)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "2eb1cc5690824563ed642ae5364881920461dacb",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-02T15:36:08Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update factory_bot_rails 6.4.2 → 6.4.3 (patch) (#2307)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "4e2a3ac1bc9b9c7c50b59e3a7aca1d95534a7aa8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2024-01-02T15:35:56Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update all of babel7 7.23.6 → 7.23.7 (patch) (#2306)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "95ed7fdfd431c9db943846fd8d6ded058e76ac93",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-31T13:50:53Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update erb-formatter 0.6.0 → 0.7.0 (major) (#2304)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "335fced5ac015c5ed9f07c6daf9bcc745f9f7eeb",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-31T13:50:46Z"
-    },
-    {
-      "author": 69730720,
-      "message": "fix: secret key base warning (#2297)",
-      "sha": "a310fbb174b6f95d044157bdfc4cd1a05732724f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-29T14:01:03Z"
-    },
-    {
-      "author": 69730720,
-      "message": "fix: tabs persistence when tab name has spaces (#2278)",
-      "sha": "5fe3bc935abd20b0e51d316cca6a812d59b77425",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-29T13:28:41Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update @algolia/autocomplete-theme-classic 1.12.2 → 1.13.0 (minor) (#2292)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Paul Bob <69730720+Paul-Bob@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "5589e5fce48ec9a10a06862bf5baab69dbdd0cc6",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-29T12:59:06Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update postcss-loader 7.3.3 → 7.3.4 (patch) (#2298)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "d3e8d8a9084fc3767b1f4642f80a2bd2966c0094",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-28T19:08:36Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Bumped avo to 3.2.3",
-      "sha": "248b6b4dea030eb518158e58ecfa6d0d80ae239c",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-28T18:15:56Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update meta-tags to version 2.20.0 (#2294)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "5589b5f75754277320cd742e609539551acfcbc5",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-28T16:59:17Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update axios to version 1.6.3 (#2295)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "f7c3e73811f7636930b0c0a6ceff26338e0b6ee5",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-28T15:26:52Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update @algolia/autocomplete-js to version 1.13.0 (#2291)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "3b205735608786b6879c1b9af60efab5ac81ac9b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-27T20:15:27Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update standard to version 1.33.0 (#2293)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "a9b87fe6ec1fcb19bdfa8858e70a8ea2bcd051b0",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-27T20:14:39Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-05T15:28:31Z"
     },
     {
       "author": 1334409,
-      "message": "chore: remove brakeman (#2290)",
-      "sha": "77da4df8c2ba322254b3835e71a28edf181583e0",
+      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
+      "sha": "014c47f7887b99120f2d17006d0ba48ceefcb20c",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-25T12:05:16Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update aws-sdk-s3 1.141.0 → 1.142.0 (minor) (#2287)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "c40e94ce2ea6881e53c29473afc00f54451c6ed6",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-24T20:19:00Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update turbo-rails 1.4.0 → 1.5.0 (minor) (#2271)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "e2182d370a817d8d1f8b4ca177dd539229df27ae",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-24T09:35:50Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update tailwindcss 3.3.6 → 3.4.0 (minor) (#2272)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "2692d972ded7d5abee796a1a3b0fa6650d546e06",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-24T09:34:57Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-05T15:15:58Z"
     },
     {
       "author": 1334409,
-      "message": "chore: expose query to scopes (#2288)",
-      "sha": "f1eff8ae127d3c62c2e4c15e5dc58da4149c9957",
+      "message": "update avo to 3.1.0",
+      "sha": "f09160850760aed1ee85250d38a29c404613e8a8",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-24T09:26:00Z"
-    },
-    {
-      "author": 64327383,
-      "message": "create ja locale (#2286)",
-      "sha": "54f559c22a3590f0c6dc585ca6943859e68bd4af",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-22T21:30:23Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-12-05T15:15:05Z"
     },
     {
       "author": 69730720,
-      "message": "Bumped avo to 3.2.2",
-      "sha": "9be84b6e112222bcbc74b6b904b597a92f376106",
+      "message": "rm avo dep",
+      "sha": "0eb56ec9fcd71bf26e862b31431f73dc3cb01bdd",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-21T17:41:03Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-24T11:42:17Z"
     },
     {
       "author": 69730720,
-      "message": "fix: custom_streams_actions.js (#2281)",
-      "sha": "98f691a1f151bcfd0461746a7284f931611d977f",
+      "message": "gem lock",
+      "sha": "f82eb5b7830deaf60163ff648dae2406e1905cb4",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-21T17:20:48Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-24T11:12:06Z"
     },
     {
-      "author": 23717796,
-      "message": "[js] Update heroicons 2.0.18 → 2.1.1 (minor) (#2266)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "b74d54212ebcd4107bbebe069cc7a8ee4dd69172",
+      "author": 69730720,
+      "message": "update avo",
+      "sha": "f3edef6770eb784410ba2f0a3c47dc4aa344f672",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-20T21:07:44Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-24T11:11:00Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update erb-formatter 0.3.0 → 0.6.0 (major) (#2223)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "feab8e724a57a6e4956f6a662813f966f80b19a1",
+      "author": 69730720,
+      "message": "Merge pull request #18 from avo-hq/update_to_avo_3\n\nupdate avo-advanced",
+      "sha": "1fc0bfa514e90345c6c20cfafc61595f65fedc61",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-20T09:43:57Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-21T14:57:34Z"
+    },
+    {
+      "author": 69730720,
+      "message": "update avo-advanced",
+      "sha": "b2d6203c0dad1c2f3bffddcb910b2dfdfa591531",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-11-21T14:56:51Z"
+    },
+    {
+      "author": 69730720,
+      "message": "Merge pull request #17 from avo-hq/update_to_avo_3\n\nupdate to avo 3.0.2",
+      "sha": "1a5c670c1dca8329ef9f116aba695f219517ee08",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-11-21T12:57:06Z"
+    },
+    {
+      "author": 69730720,
+      "message": "update to avo 3.0.2",
+      "sha": "78557d3f3525aa786ba362a4fe9d85f9dbfc97a1",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-11-21T12:53:08Z"
     },
     {
       "author": 1334409,
-      "message": "refactor: equal width columns in rows (#2267)",
-      "sha": "865649e3e0f9fabd868d4560e4233c324341c490",
+      "message": "add filterable",
+      "sha": "5ebcd12ac5fb3b37376a83f6e2e7aa6c3b661d2d",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-20T09:38:44Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-15T12:20:22Z"
     },
     {
       "author": 69730720,
-      "message": "chore: remove ujs (#2256)",
-      "sha": "486409c076b3f723385976f81d52c946edc1077f",
+      "message": "Merge pull request #16 from avo-hq/update_avo\n\nupdate avo-dashboards",
+      "sha": "bbadb34da87f4f88f18d2f0a08db25bb7bc4b0e7",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T19:58:50Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update prettier 2.5.1 → 2.8.8 (minor) (#2263)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "a58caf2d12a9b72883261cf80592ce7a69bea519",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T18:10:59Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update regenerator-runtime 0.13.9 → 0.13.11 (minor) (#2264)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "f9c17d2ee83140c69da9c3266bb7ee3416e85d82",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T18:10:54Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update esbuild 0.14.25 → 0.14.54 (minor) (#2257)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "7c41f288196cb631d402e2e46b85b6f795173057",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T15:40:57Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update postcss-preset-env 8.3.2 → 8.5.1 (minor) (#2258)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "119a5332bfcbc4cfc0a0320b43c6098ada39f83a",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T15:40:48Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update chartkick 4.1.1 → 4.2.0 (minor) (#2255)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "bedd6b8917def58e5acdcc2e4dae44adafe3f41a",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T15:40:30Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-03T10:26:55Z"
     },
     {
       "author": 69730720,
-      "message": "Bumped avo to 3.2.1",
-      "sha": "21bab2500cc164d2e3b00a812964d94f42b99fcf",
+      "message": "update avo-dashboards",
+      "sha": "36a09dd1faa9f124e9e01ed5b18913163b08bd8a",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T14:08:48Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-03T10:26:23Z"
     },
     {
       "author": 69730720,
-      "message": "fix: stimulus attributes crashing on grid view (#2260)",
-      "sha": "e28f77d57b82edc36aac561a6ad7f95f5f122af6",
+      "message": "Merge pull request #15 from avo-hq/update_avo\n\nupdate avo",
+      "sha": "f6ce1329920ead5947567394129e1106a87363e5",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T14:01:24Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-11-03T09:33:31Z"
+    },
+    {
+      "author": 69730720,
+      "message": "update avo",
+      "sha": "0a70e9ed77a93b5d3c779d1617252e3e37213359",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-11-03T09:32:25Z"
     },
     {
       "author": 1334409,
-      "message": "chore: revert bad turbo 8 merge (#2259)",
-      "sha": "553efe60f4cd5c7d9cf3332d629c5a3d943b4e58",
+      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
+      "sha": "74bcd31ebcd95aafc9f13289e97e5e5fa9c3b5e3",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T13:31:31Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Bumped avo to 3.2.0",
-      "sha": "62411c757456b41487eecb017ee6424aca55cad8",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T13:17:04Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update @rails/activestorage 6.0.3 → 6.1.7 (minor) (#2249)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "29939fb05fd712179d2411739b3fe58ff92061ed",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T13:04:18Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update chart.js 3.7.0 → 3.9.1 (minor) (#2250)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "e46173a22e35514ac2e7b605acc713ebcdc85e2e",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T13:04:12Z"
-    },
-    {
-      "author": 12682792,
-      "message": "Feature/better error for missing resource (#2062)\n\nCo-authored-by: Adrian <adrian@adrianthedev.com>\r\nCo-authored-by: Paul Bob <paul.ionut.bob@gmail.com>",
-      "sha": "f4813ed11540445c37d1538bcb51c43093ffeda7",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T12:59:40Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update tailwindcss-stimulus-components 3.0.3 → 3.0.4 (patch) (#2247)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "636d1c6a942982c9f2f94e48895936005cea31bd",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T12:59:22Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update test-prof to version 1.3.1 (#2231)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "1731147dbf0b660686e208ad20f77083bb329c11",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T11:27:03Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update @prettier/plugin-ruby to version 2.1.0 (#2248)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "9a95dc06827ed3a81d37c2880a7e7a08faff96da",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T11:26:42Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update stimulus-use to version 0.50.0 (#2246)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "7c3de6523e14d2e8685d4b250517faa8b55981e1",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:52:08Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update tippy.js to version 6.3.7 (#2244)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "aecff5974dbb5c4cc33afc21f53ce99df4b508a0",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:45:40Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update friendly_id to version 5.5.1 (#2233)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "ad8bfce4b7ec7269a5b9b3a68285eba68e7da395",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:34:40Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update redis to version 5.0.8 (#2240)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "2ced296d571389ea764c4614c34a879336b14ac4",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:33:32Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update hotwire-livereload to version 1.3.0 (#2239)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "0b67b684d9454151b4641771f869c9b1cb3acd27",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:33:10Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update core-js to version 3.34.0 (#2236)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "09b987f0f53dc05a08bcff5dd73ef2eea6447229",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:32:29Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update view_component to version 3.8.0 (#2232)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "f8ca36415fb045bc40f377f08bf70b71e82a79d2",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:23:31Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update active_median to version 0.4.1 (#2218)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "2509973b0184374c3c22d91ace85475e1a116b8b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:20:53Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update prefixed_ids to version 1.6.1 (#2217)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "7da68981cebee99af58fb12261f4270bbef92a80",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:19:52Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update postcss-loader 7.3.0 → 7.3.3 (patch) (#2242)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "dfc3665994c6d2fab9d4b525286b40d30343940c",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T10:07:15Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update mapkick 0.2.5 → 0.2.6 (minor) (#2241)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "37a8c49d596de37b6db9ffada925a3d6ae531577",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:46:38Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update trix 2.0.5 → 2.0.8 (patch) (#2243)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "37f08057ab96115fd24ac95021e7bef5c90d807f",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:41:56Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update eslint-plugin-import 2.27.5 → 2.29.1 (minor) (#2238)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "67aeb5dadb5f70cd98f8904191dc83d8387ea4c3",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:36:57Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update eslint 8.55.0 → 8.56.0 (minor) (#2237)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "e4bd73ce3e06e422287fdb889be8e97f64a06f61",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:34:20Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update @algolia/autocomplete-theme-classic 1.0.0-alpha.46 → 1.12.2 (minor) (#2235)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "7910497b032e048b9081b04330142403b70eb41b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:28:46Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[js] Update @algolia/autocomplete-js 1.0.0-alpha.46 → 1.12.2 (minor) (#2234)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "58fff4e701ff2b96c1f034d5a937c59bba36fd30",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:27:25Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update webmock 3.18.1 → 3.19.1 (minor) (#2228)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "86322f3e49008a76876b38464a9624a3bc1eb5ac",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:20:59Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update solargraph 0.48.0 → 0.50.0 (major) (#2230)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "d77f7a1ddb7a104a982faa4d38690d6ec4fff017",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:15:26Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update simplecov 0.21.2 → 0.22.0 (major) (#2227)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "63162229bed3a0b1a4d16c78e2f557a043a3c574",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:15:15Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update rspec-rails 6.0.3 → 6.1.0 (minor) (#2226)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "85336926cd6eb2af09d622b696bf02075c898e7b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:15:06Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update rubocop-shopify 2.9.0 → 2.14.0 (minor) (#2225)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "1b0e99cf32c94bfba8b359acb562d6badb8b3424",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:09:45Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update ripper-tags 0.9.1 → 1.0.1 (major) (#2224)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "cf73fcd7aea70fe46a421247dcfabab560648c72",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:07:23Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-10-19T19:45:24Z"
     },
     {
       "author": 1334409,
-      "message": "fix: flaky date test (#2245)",
-      "sha": "7fe540b564de56d33326a751b840b7ac2e8d8c50",
+      "message": "remove heroku refences",
+      "sha": "b1df9ca1d77b3bf9d674f68838ab23d7f27c8e64",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:06:58Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update chartkick 4.2.1 → 5.0.5 (major) (#2219)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "98a9ed76f74c697b1cd8b0f10dbe6abc46937907",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:05:29Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update hightop 0.3.0 → 0.4.0 (major) (#2222)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "8dc753c16835ca0594506b55587a3112301d2086",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:05:09Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update faker 2.22.0 → 3.2.2 (major) (#2221)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "7037bf3827d586c06bef4e5620014baba176a28b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:04:59Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update brakeman 5.3.1 → 6.1.0 (major) (#2220)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "f09e86d743a2d95c4e870f4a2f4bebe92d2974a9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T09:04:49Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-10-19T19:44:38Z"
     },
     {
       "author": 69730720,
-      "message": "fix: `belongs_to` index field name (#2102)",
-      "sha": "0e9107c53b44eb53baaac0cdfe63b4d48cb08047",
+      "message": "update avo",
+      "sha": "6028085ae03385560493c4cc6185767cb5907b0e",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:53:45Z"
-    },
-    {
-      "author": 23717796,
-      "message": "[ruby] Update pg 1.4.3 → 1.5.4 (minor) (#2216)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "ba6ddf0d228338b134c23b23a65b0a84f7dd827a",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:43:48Z"
-    },
-    {
-      "author": 23717796,
-      "message": "Update pagy to version 6.2.0 (#2215)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "747bc3169b063bb032c6bb13638fc70ac8579764",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:34:06Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-10-16T13:59:18Z"
     },
     {
       "author": 69730720,
-      "message": "fix: applied filters when filters are dynamic (#2189)\n\n* fix: applied filters when filters are dynamic\r\n\r\n* add comment",
-      "sha": "94b8cdb00e776286b44f64747cebc011e4be553b",
+      "message": "update avo",
+      "sha": "9fcaec588aa2d01489bf15704d98108da0f6d5a7",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:31:20Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-10-03T11:46:24Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update mapkick-rb 0.1.4 → 0.1.5 (minor) (#2214)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "6022ad1d0d2daa9b851d343f855ec667df921b30",
+      "author": 1334409,
+      "message": "test deploy 2",
+      "sha": "c046f098b5e99093c82d56569230ab68b7e6bf8a",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:27:29Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-08-24T14:16:00Z"
+    },
+    {
+      "author": 1334409,
+      "message": "test deploy",
+      "sha": "a78f7fe508f3371589520c8a43a5c62212e251cc",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-08-24T14:14:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'main' of github.com:avo-hq/main.avodemo.com",
+      "sha": "3a2390cc739a857b5e832ed8f3da5acf89d1d91b",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-08-17T19:24:04Z"
+    },
+    {
+      "author": 1334409,
+      "message": "trigger deploy",
+      "sha": "d31dc60ea6450a8e576f914ea3bc537ff8abd945",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-08-17T19:22:47Z"
+    },
+    {
+      "author": 1334409,
+      "message": "disable avo build assets",
+      "sha": "7a11cc282b625fc307b9606c287e3e80d95ead6b",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-08-17T19:00:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update gemfile",
+      "sha": "66f30bca926b38dacdb42a01afe95f9b5b2c7f2a",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-08-17T18:52:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update avo",
+      "sha": "4bf74234c2c1f40288c1ea2c4f3b034f6fc3d4d2",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-08-17T18:48:57Z"
     },
     {
       "author": 69730720,
-      "message": "fix: action authorize variables (#2188)",
-      "sha": "00d37ecdf963833f20027e3193bd5b7bba3fc26c",
+      "message": "Merge pull request #14 from avo-hq/remove_post_from_seeds\n\nremove post from seeds",
+      "sha": "a8676e66a2471c0acc82c36d537c04b51e8fc49a",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:27:21Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-08-07T12:03:49Z"
     },
     {
-      "author": 23717796,
-      "message": "[js] Update heroicons 2.0.1 → 2.0.18 (patch) (#2211)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "871a2595514fc9e0e7e59fef758c4330df8f7aa5",
+      "author": 69730720,
+      "message": "remove post from seeds",
+      "sha": "ec3f7cbcb9ee854a2600e3f9819e826169d7b868",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:19:25Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-08-07T12:02:36Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update listen 3.7.1 → 3.8.0 (minor) (#2210)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "b79c12ba6c95edde98c87857cede81de89eed7e2",
+      "author": 1334409,
+      "message": "update avo",
+      "sha": "69a28bfa777f3c0f491cd2712de4f9907821eb97",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:09:35Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-07-28T10:58:27Z"
     },
     {
-      "author": 23717796,
-      "message": "[js] Update postcss 8.4.31 → 8.4.32 (patch) (#2213)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "8d0b9b5030d9f4c1fed26e14203034d5e88ec283",
+      "author": 1334409,
+      "message": "wip",
+      "sha": "c022797daa8bbe75f5de4f39da3c5f6b5cbc32ba",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:09:09Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-07-27T22:35:30Z"
     },
     {
-      "author": 23717796,
-      "message": "[js] Update js-cookie 3.0.1 → 3.0.5 (patch) (#2212)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "b6c1d7803110875215efe35b8b71b54e56b2207f",
+      "author": 1334409,
+      "message": "revert it",
+      "sha": "faddd1718508c0c72504883074aa8da6d95e175d",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:03:45Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-07-26T17:40:53Z"
     },
     {
-      "author": 23717796,
-      "message": "Update jsbundling-rails to version 1.2.1 (#2209)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "7ec77460fb789abee93763b4af8a8114ca1f890e",
+      "author": 1334409,
+      "message": "try community",
+      "sha": "148b404015aa8d2d88d9dde5d6236f1cd4a6c85f",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:00:30Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-07-26T17:35:14Z"
     },
     {
-      "author": 23717796,
-      "message": "Update groupdate to version 6.4.0 (#2208)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "919346d0d12d16e09f065179d21d2e51e7db16fd",
+      "author": 1334409,
+      "message": "add whenever gem",
+      "sha": "417d072bea719f70250754183b37e8e42aa01488",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-19T08:00:12Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-07-19T18:17:05Z"
     },
     {
-      "author": 23717796,
-      "message": "[js] Update flatpickr 4.6.9 → 4.6.13 (patch) (#2207)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "839e696196c1469edf9d096694b20d47c0dd5ad3",
+      "author": 1334409,
+      "message": "fix unrelated crash",
+      "sha": "0ce748780c1e29f59cb19a1037c428967f13d636",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-18T22:06:50Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-07-19T12:31:07Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update cssbundling-rails 1.1.1 → 1.3.3 (minor) (#2205)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "7ed6641a1ec583e285152c46e5e1907eb611f39f",
+      "author": 1334409,
+      "message": "use proper cdn cover photo",
+      "sha": "643f976b0bf7d1967162e32a39ea5bc35e91996a",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-18T22:06:33Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-06-16T10:33:06Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update factory_bot_rails 6.2.0 → 6.4.2 (minor) (#2206)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "dc016ce9e410ac5e6d3e86f3b19e6d61ddaed813",
+      "author": 1334409,
+      "message": "use the cdn cover photo for grid",
+      "sha": "e48d2d40c93188f07ad694b44db10270b6ee69dd",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-18T21:57:10Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-06-16T10:27:33Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update countries 5.1.2 → 5.7.1 (minor) (#2204)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
-      "sha": "c32f92f8d44e782726f3c8d738191f522e5c94f2",
+      "author": 1334409,
+      "message": "upgrade avo to 3 pre.13",
+      "sha": "7598c9114ef47ca198e1b11077109458b8e415db",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-18T21:56:33Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-06-07T20:13:48Z"
     },
     {
-      "author": 23717796,
-      "message": "[ruby] Update bootsnap 1.13.0 → 1.17.0 (minor) (#2203)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
-      "sha": "790aa4d8560e843e2c3f699a1bbcb9e9ee12a4b6",
+      "author": 1334409,
+      "message": "wip",
+      "sha": "4f742cfaf0d5383c86e2c6cce3783aa8d442a55f",
       "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-12-18T21:39:07Z"
+      "repoName": "avodemo",
+      "createdAt": "2023-06-05T22:15:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove deploy job",
+      "sha": "694340220978f3e77f81ecf988cb2449cba2adc2",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-06-05T22:15:13Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove dockerfile",
+      "sha": "42b18b725760d9f0890c0ef3428bcbf830c819d3",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-23T09:12:07Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove pre hooks",
+      "sha": "876b819edda57c75b54d320aec3760a14838819d",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-23T09:04:30Z"
+    },
+    {
+      "author": 1334409,
+      "message": "tweaks",
+      "sha": "704703a73f0584d43290b5f3526db83bccbb8a89",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-23T09:02:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip deploy attempts",
+      "sha": "85124ce6e0b8734ada851e84ea7c613c067965fb",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T09:35:48Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add to app.json",
+      "sha": "964d6b7a39a13886739fc28421f9dbc3e1c0930f",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T09:03:27Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update gemfile",
+      "sha": "124fba5b2bd4df6a6134fbbfa29495e746a37011",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T09:02:01Z"
+    },
+    {
+      "author": 1334409,
+      "message": "predeploy again",
+      "sha": "1448d1253983520e45b8aff8f330381d4ca3ed24",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T07:34:34Z"
+    },
+    {
+      "author": 1334409,
+      "message": "predeploy hook",
+      "sha": "01c05bbada643c3ec41f209c4c3e8dc56c040ddc",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T07:33:57Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip",
+      "sha": "46554aab7ffecbc9daecab2158404031d9cc2a7c",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T07:32:24Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add linux",
+      "sha": "94794d733d5ad751234198af9e8bf66ba5907d04",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T02:36:57Z"
+    },
+    {
+      "author": 1334409,
+      "message": "bundle",
+      "sha": "462fc24a054caf47956ddb3c2ae7e4b3ef9bc4af",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-22T02:31:47Z"
+    },
+    {
+      "author": 1334409,
+      "message": "3020 port",
+      "sha": "0fbd8e4603e27daf977552005e08b038aa32b5a0",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-21T18:31:56Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove do",
+      "sha": "0827c096df81185a2b7b8bde1dffb8fefffb5dfe",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-21T18:31:12Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove dockerfile",
+      "sha": "ba1328a258bf28f8e39fc83002565bfb56474bda",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-21T18:31:06Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update avo",
+      "sha": "d4fadbffe1a61c5d41744bf50d8c4965fb2359b5",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-21T18:26:25Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip",
+      "sha": "3bedaf93856016317162fdcb06739c5a9a119bbf",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-19T18:46:50Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix Avo",
+      "sha": "8ede7d7d29e887bdad4c5fc2ece91bd1dd0a7ef9",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-19T18:25:50Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'main' of github.com:avo-hq/avodemo",
+      "sha": "567c5687595e2d69d81610521904e66d996f1926",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-10T13:23:29Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge pull request #13 from avo-hq/refactor/avo-3",
+      "sha": "401000aff073d453837b985a725f8d62978b9b40",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-10T13:20:55Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update partials",
+      "sha": "f36d3a8ccd0de3783f5d0b4645bd1075b41225b1",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-10T13:20:16Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update avo path",
+      "sha": "ceb7984ca345f8b140a63ec52f6add193b43269b",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-10T13:19:29Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge pull request #12 from avo-hq/refactor/avo-3",
+      "sha": "bd78f696dd6ce5b28d5c02cd4518b64724076e07",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-10T13:00:07Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip",
+      "sha": "e8c8af4644371f19174cc6bcf84cd73049ac0ded",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-10T12:59:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update view_component",
+      "sha": "4d3413ea78d0211aefcb01251d418ec74be4978e",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-04T07:37:08Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update readme",
+      "sha": "e05262d0eaaeb317e260281f8c85de78fff0bc6c",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-05-03T06:32:53Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: Avo 3 migration",
+      "sha": "5533edb68f11a91850f8184fd994958fb91c46db",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-04-23T18:52:24Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'main' of github.com:avo-hq/avodemo",
+      "sha": "c8ac1e09a11d8220d4e729b51f16742da61dc35e",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-04-13T08:31:54Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update Avo",
+      "sha": "4d7dd9e9b4642077c988227ef5912b0a4c4a5667",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-04-13T08:31:51Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge pull request #11 from lorint/fish_does_not_have_user_id",
+      "sha": "35947bb362c9759ffadfa74c675bde2c8d47ab66",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-02-18T18:36:54Z"
+    },
+    {
+      "author": 5301131,
+      "message": "Duplicate line to delete all from Fish",
+      "sha": "6aabb75ff5a75134fb312fe8121b7f78001e95f4",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-02-18T15:39:09Z"
+    },
+    {
+      "author": 5301131,
+      "message": "Add migration for user_id column in fish table",
+      "sha": "bd9205fa4be360bb13b1f13588e7e7f374fd9369",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-02-18T15:39:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "wip",
+      "sha": "7b23631ba45a645adc05dda551411ea37c5e54c3",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-02-06T20:57:59Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix path",
+      "sha": "35507526ff7fd10238d9e0bcb4b553c3d020aa08",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-02-06T14:35:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "revert links",
+      "sha": "c37fb9e95957047d299af93b42264fedc5c75918",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-26T16:55:16Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove links from header",
+      "sha": "ba5f45c218f3b9664d85296f3638754c4bd98fd0",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-26T16:49:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add turbo demo to sifh resource",
+      "sha": "9dca30516b75ec737780e88274a2fa193a489db2",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-26T11:24:12Z"
+    },
+    {
+      "author": 1334409,
+      "message": "proper fix",
+      "sha": "c398d0deffb0706d31671549a2a3fc580ebfb4a1",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-23T08:15:30Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix wrong association",
+      "sha": "397813d869f2f0830be8c4bcabb61bbfe29f2203",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-23T08:10:33Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge pull request #9 from lorint/model_fixes",
+      "sha": "914ebde6e2af7316675943c3048442c1a6ae2e21",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-22T13:53:50Z"
+    },
+    {
+      "author": 5301131,
+      "message": "Add missing CR at the end of the Gemfile",
+      "sha": "b1effeb010518143e7d0720fafd3aa3b8aef04a8",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-21T20:01:55Z"
+    },
+    {
+      "author": 1334409,
+      "message": "use global controllers",
+      "sha": "b4291b00f77249b3b42d11b2d9f7dd0a3fce7621",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-18T09:29:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "trigger deploy",
+      "sha": "4313e5f3d9279a64bb7482996c5a926c08067481",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-18T09:19:21Z"
+    },
+    {
+      "author": 5301131,
+      "message": "Spouse fixes",
+      "sha": "f282adbefd9e88db5fa9b2f14c9e84ee773a37f9",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-03T05:11:03Z"
+    },
+    {
+      "author": 5301131,
+      "message": "TeamMembership model fixes",
+      "sha": "5578925429b153e08d89e92bcd22dbd04150fe82",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2023-01-03T05:11:03Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix nested reviews",
+      "sha": "5cecad9ec33ceb3f0ec06baec6497edc9edd6fcd",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-12-06T13:00:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "translate team url",
+      "sha": "808295a36f99ac56e8068a4a5a30fa46376882bd",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-12-03T10:54:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add nested record demo",
+      "sha": "b1ee1bcfb09d7c8fe2bfe8e3fbab1ffa3579b6b3",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-12-02T15:34:16Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update avo",
+      "sha": "cc6dce1c542f4810c78509837f356f0a398b6922",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-11-28T14:21:59Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove encreyption",
+      "sha": "962a5e3a5f67e26ac06ee2ee4615036a9c23434a",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-11-26T15:07:44Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add associations authorization",
+      "sha": "fda57efb4a6dec8aa1eb9dbebb76b2db3e1e9280",
+      "orgName": "avo-hq",
+      "repoName": "avodemo",
+      "createdAt": "2022-11-26T10:07:34Z"
     },
     {
       "author": 1334409,
@@ -4066,6 +4066,54 @@
     },
     {
       "author": 23717796,
+      "message": "Update groupdate to version 6.4.0 (#2208)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "919346d0d12d16e09f065179d21d2e51e7db16fd",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-19T08:00:12Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[js] Update flatpickr 4.6.9 → 4.6.13 (patch) (#2207)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "839e696196c1469edf9d096694b20d47c0dd5ad3",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-18T22:06:50Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update cssbundling-rails 1.1.1 → 1.3.3 (minor) (#2205)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "7ed6641a1ec583e285152c46e5e1907eb611f39f",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-18T22:06:33Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update factory_bot_rails 6.2.0 → 6.4.2 (minor) (#2206)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "dc016ce9e410ac5e6d3e86f3b19e6d61ddaed813",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-18T21:57:10Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update countries 5.1.2 → 5.7.1 (minor) (#2204)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>\r\nCo-authored-by: Adrian Marin <adrian@adrianthedev.com>",
+      "sha": "c32f92f8d44e782726f3c8d738191f522e5c94f2",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-18T21:56:33Z"
+    },
+    {
+      "author": 23717796,
+      "message": "[ruby] Update bootsnap 1.13.0 → 1.17.0 (minor) (#2203)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
+      "sha": "790aa4d8560e843e2c3f699a1bbcb9e9ee12a4b6",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-12-18T21:39:07Z"
+    },
+    {
+      "author": 23717796,
       "message": "[ruby] Update aws-sdk-s3 1.114.0 → 1.141.0 (minor) (#2202)\n\nCo-authored-by: depfu[bot] <23717796+depfu[bot]@users.noreply.github.com>",
       "sha": "a8943fb638b4f7b9da20676fd9086c44125d158f",
       "orgName": "avo-hq",
@@ -4815,54 +4863,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2023-10-18T09:32:19Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Bump Avo to v2.42.1",
-      "sha": "c528517072dffaa2f5129021b919f2ae5cc64c00",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-10-13T11:27:34Z"
-    },
-    {
-      "author": 69730720,
-      "message": "improvement: solid cache support (#1978)",
-      "sha": "ac71babeaada364ce2b736ad1d23a84ed76bf9a9",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-10-13T11:24:08Z"
-    },
-    {
-      "author": 69730720,
-      "message": "Bump Avo to v2.42.0",
-      "sha": "560f6a3edc54ca5478b42ddc5e56aca63f77ae6b",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-10-10T13:42:13Z"
-    },
-    {
-      "author": 69730720,
-      "message": "fix: variant resize image (#1964)\n\n* fix: variant resize image\r\n\r\n* comment manual test\r\n\r\n* tweak\r\n\r\n* remove max\r\n\r\n---------\r\n\r\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
-      "sha": "7118e514c631527ba4c620a2be9187d22f32e8a0",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-10-09T13:00:50Z"
-    },
-    {
-      "author": 3110565,
-      "message": "bug: Update fetches_things.rb to use custom policy if available (#1956)\n\n* Update fetches_things.rb to use custom policy if available\r\n\r\n* Update lib/avo/concerns/fetches_things.rb\r\n\r\n---------\r\n\r\nCo-authored-by: Paul Bob <69730720+Paul-Bob@users.noreply.github.com>",
-      "sha": "d24fa9ab3ad4495b6f518688f776724535741ebf",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-10-09T11:48:18Z"
-    },
-    {
-      "author": 12682792,
-      "message": "feature: allow params on resource menu item (#1957)\n\n* feature: allow params on resource menu item\r\n\r\n* feature: apply code review suggestions",
-      "sha": "99a8d2658ded708cbab31b062b587e188a118a2d",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-10-09T11:46:06Z"
     },
     {
       "author": 1334409,
@@ -5954,6 +5954,54 @@
     },
     {
       "author": 69730720,
+      "message": "Bump Avo to v2.42.1",
+      "sha": "c528517072dffaa2f5129021b919f2ae5cc64c00",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-13T11:27:34Z"
+    },
+    {
+      "author": 69730720,
+      "message": "improvement: solid cache support (#1978)",
+      "sha": "ac71babeaada364ce2b736ad1d23a84ed76bf9a9",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-13T11:24:08Z"
+    },
+    {
+      "author": 69730720,
+      "message": "Bump Avo to v2.42.0",
+      "sha": "560f6a3edc54ca5478b42ddc5e56aca63f77ae6b",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-10T13:42:13Z"
+    },
+    {
+      "author": 69730720,
+      "message": "fix: variant resize image (#1964)\n\n* fix: variant resize image\r\n\r\n* comment manual test\r\n\r\n* tweak\r\n\r\n* remove max\r\n\r\n---------\r\n\r\nCo-authored-by: Adrian <adrian@adrianthedev.com>",
+      "sha": "7118e514c631527ba4c620a2be9187d22f32e8a0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-09T13:00:50Z"
+    },
+    {
+      "author": 3110565,
+      "message": "bug: Update fetches_things.rb to use custom policy if available (#1956)\n\n* Update fetches_things.rb to use custom policy if available\r\n\r\n* Update lib/avo/concerns/fetches_things.rb\r\n\r\n---------\r\n\r\nCo-authored-by: Paul Bob <69730720+Paul-Bob@users.noreply.github.com>",
+      "sha": "d24fa9ab3ad4495b6f518688f776724535741ebf",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-09T11:48:18Z"
+    },
+    {
+      "author": 12682792,
+      "message": "feature: allow params on resource menu item (#1957)\n\n* feature: allow params on resource menu item\r\n\r\n* feature: apply code review suggestions",
+      "sha": "99a8d2658ded708cbab31b062b587e188a118a2d",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-10-09T11:46:06Z"
+    },
+    {
+      "author": 69730720,
       "message": "fix: file image doesn't render in full size (#1935)\n\n* fix: file image don't rendering full size\r\n\r\n* w-full\r\n\r\n* add item to view types components\r\n\r\n* apply aspect-video to grid view",
       "sha": "0ea43bfdfc803bfe9130ee5106954bf31e859c35",
       "orgName": "avo-hq",
@@ -6703,54 +6751,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2023-05-16T11:34:51Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.32.5",
-      "sha": "4db98b8dd8556e50bdd2caeb99f543fe748939c3",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-15T15:57:46Z"
-    },
-    {
-      "author": 60799999,
-      "message": "fix(searchControllerJs): encodes special chars in query (#1749)",
-      "sha": "fa3bd8158359870505f551c3930cdc04bbdeb789",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-15T15:56:22Z"
-    },
-    {
-      "author": 72664506,
-      "message": "feature: when installing Avo detect if User model exists and create a resource for it (#1737)",
-      "sha": "76e1c817871d071a61c16a5de7863fed35204980",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-12T15:33:30Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Bump Avo to v2.32.4",
-      "sha": "1a395976291f31d6f37c8155c3502ff6bfddbae0",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-12T12:44:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: enable action namespacing (#1746)",
-      "sha": "6e5eaebd3f142d02e9edb7318a7beada6f1a95a5",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-12T12:42:16Z"
-    },
-    {
-      "author": 260739,
-      "message": "Add space after `overflow-auto` class (#1742)",
-      "sha": "124f3aeddc6c5438776f15507958191ccc10ca21",
-      "orgName": "avo-hq",
-      "repoName": "avo",
-      "createdAt": "2023-05-12T10:46:39Z"
     },
     {
       "author": 1334409,
@@ -7554,6 +7554,814 @@
     },
     {
       "author": 1334409,
+      "message": "update purge options",
+      "sha": "25f1d4f999c30e790a77152bd0d4664e5ea3c692",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-25T15:45:46Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add scripts partial and authorization",
+      "sha": "50b8c47a199fc435208dc9ec505f18f66889b11b",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-25T15:40:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add default value docs",
+      "sha": "c02e986c7c00bfd61c7b55d55334e69edb3317a8",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-18T15:06:19Z"
+    },
+    {
+      "author": 1334409,
+      "message": "moved avo to rubygems",
+      "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-16T06:54:56Z"
+    },
+    {
+      "author": 1334409,
+      "message": "make content section wider",
+      "sha": "635a93099504b4b6e07a24c13923e956a3111cac",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-10T07:58:47Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add header docs",
+      "sha": "c8bff3872920b7a36eecb827bd01ea599e704d54",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-10T07:58:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add footer partial docs",
+      "sha": "eed9097429c48a15bbc3e8387e2f556190f7cde3",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-10T07:03:20Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add logo customization instruction",
+      "sha": "d49ac77fe9d70e0280af29714abdd2aa1e18d066",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-09T17:47:46Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add relative date option",
+      "sha": "f5aca5f6f5f63e6f08bc4c90f63b7f79759855d3",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-08T16:51:02Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: bundler config",
+      "sha": "8aee3fc41231f1374193a30e19d565f3cbc9f1d2",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-08T13:57:24Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: new logo",
+      "sha": "98cef4b7c8deabd225497dc837fd73ac7b6fc3c8",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-08T13:08:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: update token docs",
+      "sha": "11eb34a810543cb5e01fb15b72e559467a64e435",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-06T18:53:08Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: update avo-hq github repo",
+      "sha": "213763760dc5e5b883a916156b325f0d67939eb9",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-06T08:52:36Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs",
+      "sha": "568989aa7c5929a342b24a77c11d6194f48b117c",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-06T08:45:09Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: update npm deps",
+      "sha": "64d489e560e5051c3cdd7e280271197681ecc356",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-06T08:44:48Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge pull request #2 from avo-hq/dependabot/npm_and_yarn/prismjs-1.21.0",
+      "sha": "639ef752f5aa51ba32812b61d55be10e94ae9dc4",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-10-06T08:27:12Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump prismjs from 1.20.0 to 1.21.0\n\nBumps [prismjs](https://github.com/PrismJS/prism) from 1.20.0 to 1.21.0.\n- [Release notes](https://github.com/PrismJS/prism/releases)\n- [Changelog](https://github.com/PrismJS/prism/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/PrismJS/prism/compare/v1.20.0...v1.21.0)\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+      "sha": "0421c99e6a35749a886312b3eb01913b714c2119",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-09-30T15:53:10Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: update vue",
+      "sha": "8a19551004cfddfc1ac77c8d3b15ef92ff2854e2",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-09-30T15:52:04Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: move vuepress to deps",
+      "sha": "58178f454f0d350f3dd7c27d5bea374e580d2de3",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-09-30T15:50:26Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: add enums support",
+      "sha": "4adba625656e1ef9579891cf37d7d38ee1ec458d",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-09-30T15:35:55Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: update prismjs dep",
+      "sha": "577f8d05418ea2b1cf706ff7a9ed705b010eefbd",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-26T07:02:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs into master",
+      "sha": "fe0cf5ba5e98749a80cc1f496317d53d2ef8adcf",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-25T18:30:50Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add actions and custom model",
+      "sha": "7bc575af96b2fbba398f7daa8a242a0cbac906e1",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-25T18:30:37Z"
+    },
+    {
+      "author": 23171533,
+      "message": "refactor: Select, Link To Resource and Badge",
+      "sha": "b3f23dfdcebb96a35cee54b5d0ac8f2dfc90588b",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-18T18:02:55Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix de locale",
+      "sha": "113559d8612380b288c8106c3e02e674aaeada5a",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T14:30:52Z"
+    },
+    {
+      "author": 1334409,
+      "message": "revert tailwind plugin",
+      "sha": "646ac612a9db8d1bfaf4eb0ed0228cd7013ed85e",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:46:57Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove cwd",
+      "sha": "126ebff1475b3943c239479ef49ecbdcc49a49c9",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:38:56Z"
+    },
+    {
+      "author": 1334409,
+      "message": "more purgecssconfig tweaking",
+      "sha": "78d5530d06a1c11592d2194f5f265918dd3da2b0",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:37:53Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update purgecss config",
+      "sha": "a84ac95c54c65062621453f3c7f7a5e69c04784a",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:33:50Z"
+    },
+    {
+      "author": 1334409,
+      "message": "different purgecss config",
+      "sha": "2f83b037858194096f6e6a2e04b32cd870e46758",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:29:27Z"
+    },
+    {
+      "author": 1334409,
+      "message": "move purgecss config",
+      "sha": "33defe26e923d3275cd48e3d9eb709d9d5903297",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:25:45Z"
+    },
+    {
+      "author": 1334409,
+      "message": "try and require the config",
+      "sha": "33debfae5feeaa7258f3a3330cc5cde6181e6efa",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:23:31Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix the config path",
+      "sha": "03a22cd04981a08e5738faa7b7642d50fae832cf",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:22:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove next prev from pages and bring back tailwidn plugin",
+      "sha": "56c5e62e6590a92537d6492479949c6a35a86452",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:18:33Z"
+    },
+    {
+      "author": 1334409,
+      "message": "change help copy",
+      "sha": "89f6b63d49199f1805a7129e36719ae2be69166e",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:03:28Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add relations docs",
+      "sha": "ec8b2dd6a21c5fba114de45caf4d6ede31be04b2",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T13:03:07Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix tailwind",
+      "sha": "ba027ebbbb13e5189431e0e5503305eabbfeecc9",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T12:22:09Z"
+    },
+    {
+      "author": 1334409,
+      "message": "remove tailwind vuepress plufin",
+      "sha": "72b9d23b4de196974ec942da107b3ec32c9084d4",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T12:18:01Z"
+    },
+    {
+      "author": 1334409,
+      "message": "install tailwind native",
+      "sha": "03714b1914c4ba91ce661498169f179dab0d7b2c",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T12:14:20Z"
+    },
+    {
+      "author": 1334409,
+      "message": "purge with the dist dir",
+      "sha": "8bf831d476fb012ca5063da0fc2ed675750da314",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T12:04:24Z"
+    },
+    {
+      "author": 1334409,
+      "message": "new purge config",
+      "sha": "d99dc0cf679f948a7bbf02224c6f169ff22be246",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T12:00:06Z"
+    },
+    {
+      "author": 1334409,
+      "message": "temporarely remove tailwind",
+      "sha": "bf16c139ef2a85df734bae235be5463132aa1baf",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T11:52:54Z"
+    },
+    {
+      "author": 1334409,
+      "message": "better purge options",
+      "sha": "734f22a53df107c6ae369d57989840fa9c8d605d",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T11:05:55Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add purge path to tailwind",
+      "sha": "807373b009b681724d4bc368d1739da5819530f2",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T11:01:54Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add back-to-top link",
+      "sha": "b0bb5ede1a5047979c4efd2019babbe255e2a79d",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T10:58:15Z"
+    },
+    {
+      "author": 1334409,
+      "message": "move dashboard at the end",
+      "sha": "23b21e163810618d3dfaa4c106d7f527d563c488",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T10:56:27Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix list styles",
+      "sha": "c5016fbf2572236339430663a09b816383290fd8",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T10:56:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "improve docs and redesign like app",
+      "sha": "74b811877d15cd16b1ec925365d84516228c2614",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-14T10:22:45Z"
+    },
+    {
+      "author": 1334409,
+      "message": "eject theme",
+      "sha": "2efdd348465334e2e6b16139c2c93185f910d62a",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-13T21:43:21Z"
+    },
+    {
+      "author": 1334409,
+      "message": "add CI and heroku instructions",
+      "sha": "ce923d6cd1af84a5c152b4b0a40fa95125e64ad5",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-13T17:28:16Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs",
+      "sha": "c9acde53dc9a663608b0ae88a64cf72af760f49e",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-13T17:06:06Z"
+    },
+    {
+      "author": 1334409,
+      "message": "update install instructions to incude token",
+      "sha": "d5104a2ad86eb86dfe79d02b9b2cec3e6fc9aa4c",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-13T17:04:03Z"
+    },
+    {
+      "author": 23171533,
+      "message": "docs: as_link_to_resource docs",
+      "sha": "06a7fbbf6b4c9e809dbef89524263931b07dbeb3",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-12T15:58:03Z"
+    },
+    {
+      "author": 1334409,
+      "message": "fix: fix relative path",
+      "sha": "c46b307bf5a3b7838017fe03d8f1bc866da24158",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-11T10:47:20Z"
+    },
+    {
+      "author": 1334409,
+      "message": "docs: add dashboard docs",
+      "sha": "33a79fcb8a0a9725319279ec3c02349a00d46570",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-11T10:22:22Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: remove router redirect",
+      "sha": "b98959d672fd522eeb9fc7713cc057dd0ee48298",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-10T15:39:39Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add gem for early access users",
+      "sha": "02f8cec3be8b1381a1733368dc1b4890dafb417b",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-10T09:23:18Z"
+    },
+    {
+      "author": 1334409,
+      "message": "docs: add link to early access",
+      "sha": "4048844dd6f89ef8b5f4783cc15800c0a524ace2",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-10T08:21:04Z"
+    },
+    {
+      "author": 1334409,
+      "message": "docs: more fields",
+      "sha": "0443f5a546cb86d9ec5a548a5060fd8a0de951ce",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-10T08:14:35Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: remove default theme from config",
+      "sha": "0dfb039d5150ca892c425d5e988c9b6a86475cfd",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-10T06:43:47Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: add proper pwa config",
+      "sha": "9be582d71d930f454b70eaa080de614adbcfc133",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-10T06:41:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: initial fields tweaks",
+      "sha": "b873e2c206dda15a715a1c0a039277ce72fba71e",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-09T18:27:08Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: use netlify.toml for redirects",
+      "sha": "6e1fc09973f9525fdb29699b8c6155d4f6c6e4e6",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-09T16:59:48Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: move _redirects",
+      "sha": "7b841352fdff95aac2383b650dbdb297a6e93754",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-09T16:56:23Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add _redirects file",
+      "sha": "900d9bc48701f1c075f44c3e3a105b4e70755e85",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-09T16:50:37Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: update to grid, filters",
+      "sha": "206caaccf6515a9d782141666f7e18a980726a93",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-09T16:15:49Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Merge pull request #1 from AvocadoHQ/feature_update_docs\n\nupdate relations and fields a bit",
+      "sha": "e9e88cd8337b50e8084c108c809fc2c34c559062",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-09T14:27:08Z"
+    },
+    {
+      "author": 23171533,
+      "message": "update relations and fields a bit",
+      "sha": "74e553beb19da8cb71dc9d5423573bc029dcb78c",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-08-07T18:02:09Z"
+    },
+    {
+      "author": 23171533,
+      "message": "chore: add themes preview link for code field",
+      "sha": "2053f7357944da23a0b55e8d10abb3b1ee101e8f",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-07-08T15:06:17Z"
+    },
+    {
+      "author": 23171533,
+      "message": "feat: docs for hidden and code fields",
+      "sha": "8222fdea9abb61f641b348f8aa6f918a864b62e2",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-07-08T15:00:31Z"
+    },
+    {
+      "author": 23171533,
+      "message": "feat: docs for badge, country, currency and gravatar fields",
+      "sha": "c6009aa572ff0964e358509a62dd61fce07c8a2a",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-07-01T17:57:39Z"
+    },
+    {
+      "author": 23171533,
+      "message": "keyvalue-field-docs",
+      "sha": "36c7e8ef5fec5000726aa70c0ef08db76dead1cd",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-28T18:41:52Z"
+    },
+    {
+      "author": 23171533,
+      "message": "refactor status-field-docs",
+      "sha": "b6d90fabedbaf9faa176b040632d603fdb5ce94f",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-28T11:46:24Z"
+    },
+    {
+      "author": 23171533,
+      "message": "status-field-docs",
+      "sha": "363846ae1f803d52180516d186ba795f08f89ca4",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-28T11:44:11Z"
+    },
+    {
+      "author": 23171533,
+      "message": "refactor heading-field-doc",
+      "sha": "20b22cdb3551d8a4b4db1c1aa57b90fb51c0231d",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-28T11:34:38Z"
+    },
+    {
+      "author": 23171533,
+      "message": "heading-field-docs",
+      "sha": "e238402432ea414b6b131adcc4b7b10c8c9ea34c",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-28T11:34:12Z"
+    },
+    {
+      "author": 23171533,
+      "message": "heading-field-doc",
+      "sha": "96145d4fb2abfcce48ed48152925a14b1bfbc769",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-28T09:25:52Z"
+    },
+    {
+      "author": 23171533,
+      "message": "Create README.md",
+      "sha": "45dba3bbee09034d476fe788676617d7ddac0647",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-25T18:52:50Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: fix missing quotes",
+      "sha": "c43adc40a31b45b9c4a7d57cba0015318b617116",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T17:33:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: camelCase to snake_case",
+      "sha": "51c15a40c0a113689c0ca537a2d453e8119079bb",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T17:21:59Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: remove buildMenu function",
+      "sha": "7251b10de71e73a8271ae5a7edd789d9107f3add",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T17:18:51Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add logo & versions",
+      "sha": "49d8316eb4d8ca219dc7ed1c10db1fd235510e7c",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T17:18:27Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: show everything in the sidebar",
+      "sha": "f242a4633a8e3c06c363c13f9de0d1df84247972",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T17:11:09Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: add a global sidebar",
+      "sha": "cb25c2023de2245de6abbe1f6ee4e270eaec5f11",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T16:54:15Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add belongs to notes and some install tweaks",
+      "sha": "5f5ecb2d77a86f5e4cfd3766e4b87291c42a8369",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T15:46:32Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: split up fields and fields reference",
+      "sha": "ac96f91ec2f23abec4a0a0071ea296c032059fe9",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T07:31:00Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: add authorization documentation",
+      "sha": "646e62f75de897710d5b99e68a14137c5f90c093",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T07:11:18Z"
+    },
+    {
+      "author": 1334409,
+      "message": "docs: ad generator docs",
+      "sha": "c8d6eb1b0297ab9a4691ac2c3101f490d732941b",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-10T06:52:53Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: added all fields",
+      "sha": "e17dc2d5b2313d35567018d564178f781bec6ab3",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-09T17:03:56Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: tiny tweaks",
+      "sha": "3e09cbe8b15a7c138d2f590c92c8279235c5aa39",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-09T15:56:14Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: build with vuepress for the time being",
+      "sha": "751a227dc3126e38becefef3f44a7f3594687454",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-09T15:48:20Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: initial commit",
+      "sha": "63dde8a3198f2da19f249eaf80dac412d86782d1",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-09T15:46:40Z"
+    },
+    {
+      "author": 1334409,
+      "message": "chore: some initial work",
+      "sha": "9d390211b8084bce9c434d5edf3492bbbf462c83",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-08T15:26:21Z"
+    },
+    {
+      "author": 1334409,
+      "message": "initial commit",
+      "sha": "5f362d4a62299051900c1e9fa3b7e8eb9929f0f9",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-08T11:39:02Z"
+    },
+    {
+      "author": 1334409,
+      "message": "initial commit",
+      "sha": "3941bfebf38766f990f66697e0ae831effd67c2a",
+      "orgName": "avo-hq",
+      "repoName": "docs",
+      "createdAt": "2020-06-08T11:38:17Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.32.5",
+      "sha": "4db98b8dd8556e50bdd2caeb99f543fe748939c3",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-15T15:57:46Z"
+    },
+    {
+      "author": 60799999,
+      "message": "fix(searchControllerJs): encodes special chars in query (#1749)",
+      "sha": "fa3bd8158359870505f551c3930cdc04bbdeb789",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-15T15:56:22Z"
+    },
+    {
+      "author": 72664506,
+      "message": "feature: when installing Avo detect if User model exists and create a resource for it (#1737)",
+      "sha": "76e1c817871d071a61c16a5de7863fed35204980",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-12T15:33:30Z"
+    },
+    {
+      "author": 1334409,
+      "message": "Bump Avo to v2.32.4",
+      "sha": "1a395976291f31d6f37c8155c3502ff6bfddbae0",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-12T12:44:05Z"
+    },
+    {
+      "author": 1334409,
+      "message": "refactor: enable action namespacing (#1746)",
+      "sha": "6e5eaebd3f142d02e9edb7318a7beada6f1a95a5",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-12T12:42:16Z"
+    },
+    {
+      "author": 260739,
+      "message": "Add space after `overflow-auto` class (#1742)",
+      "sha": "124f3aeddc6c5438776f15507958191ccc10ca21",
+      "orgName": "avo-hq",
+      "repoName": "avo",
+      "createdAt": "2023-05-12T10:46:39Z"
+    },
+    {
+      "author": 1334409,
       "message": "Bump Avo to v2.32.3",
       "sha": "a73c88fff9d4109d490e9cd1e26a5a2f399b8893",
       "orgName": "avo-hq",
@@ -8351,766 +9159,6 @@
       "orgName": "avo-hq",
       "repoName": "avo",
       "createdAt": "2023-01-13T14:33:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update purge options",
-      "sha": "25f1d4f999c30e790a77152bd0d4664e5ea3c692",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-25T15:45:46Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add scripts partial and authorization",
-      "sha": "50b8c47a199fc435208dc9ec505f18f66889b11b",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-25T15:40:49Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add default value docs",
-      "sha": "c02e986c7c00bfd61c7b55d55334e69edb3317a8",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-18T15:06:19Z"
-    },
-    {
-      "author": 1334409,
-      "message": "moved avo to rubygems",
-      "sha": "9b62876176175764c0674d3a291a5a9ead2f358d",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-16T06:54:56Z"
-    },
-    {
-      "author": 1334409,
-      "message": "make content section wider",
-      "sha": "635a93099504b4b6e07a24c13923e956a3111cac",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-10T07:58:47Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add header docs",
-      "sha": "c8bff3872920b7a36eecb827bd01ea599e704d54",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-10T07:58:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add footer partial docs",
-      "sha": "eed9097429c48a15bbc3e8387e2f556190f7cde3",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-10T07:03:20Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add logo customization instruction",
-      "sha": "d49ac77fe9d70e0280af29714abdd2aa1e18d066",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-09T17:47:46Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add relative date option",
-      "sha": "f5aca5f6f5f63e6f08bc4c90f63b7f79759855d3",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-08T16:51:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: bundler config",
-      "sha": "8aee3fc41231f1374193a30e19d565f3cbc9f1d2",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-08T13:57:24Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: new logo",
-      "sha": "98cef4b7c8deabd225497dc837fd73ac7b6fc3c8",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-08T13:08:17Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update token docs",
-      "sha": "11eb34a810543cb5e01fb15b72e559467a64e435",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-06T18:53:08Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update avo-hq github repo",
-      "sha": "213763760dc5e5b883a916156b325f0d67939eb9",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-06T08:52:36Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs",
-      "sha": "568989aa7c5929a342b24a77c11d6194f48b117c",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-06T08:45:09Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update npm deps",
-      "sha": "64d489e560e5051c3cdd7e280271197681ecc356",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-06T08:44:48Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge pull request #2 from avo-hq/dependabot/npm_and_yarn/prismjs-1.21.0",
-      "sha": "639ef752f5aa51ba32812b61d55be10e94ae9dc4",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-10-06T08:27:12Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump prismjs from 1.20.0 to 1.21.0\n\nBumps [prismjs](https://github.com/PrismJS/prism) from 1.20.0 to 1.21.0.\n- [Release notes](https://github.com/PrismJS/prism/releases)\n- [Changelog](https://github.com/PrismJS/prism/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/PrismJS/prism/compare/v1.20.0...v1.21.0)\n\nSigned-off-by: dependabot[bot] <support@github.com>",
-      "sha": "0421c99e6a35749a886312b3eb01913b714c2119",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-09-30T15:53:10Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update vue",
-      "sha": "8a19551004cfddfc1ac77c8d3b15ef92ff2854e2",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-09-30T15:52:04Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: move vuepress to deps",
-      "sha": "58178f454f0d350f3dd7c27d5bea374e580d2de3",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-09-30T15:50:26Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: add enums support",
-      "sha": "4adba625656e1ef9579891cf37d7d38ee1ec458d",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-09-30T15:35:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update prismjs dep",
-      "sha": "577f8d05418ea2b1cf706ff7a9ed705b010eefbd",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-26T07:02:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs into master",
-      "sha": "fe0cf5ba5e98749a80cc1f496317d53d2ef8adcf",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-25T18:30:50Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add actions and custom model",
-      "sha": "7bc575af96b2fbba398f7daa8a242a0cbac906e1",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-25T18:30:37Z"
-    },
-    {
-      "author": 23171533,
-      "message": "refactor: Select, Link To Resource and Badge",
-      "sha": "b3f23dfdcebb96a35cee54b5d0ac8f2dfc90588b",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-18T18:02:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix de locale",
-      "sha": "113559d8612380b288c8106c3e02e674aaeada5a",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T14:30:52Z"
-    },
-    {
-      "author": 1334409,
-      "message": "revert tailwind plugin",
-      "sha": "646ac612a9db8d1bfaf4eb0ed0228cd7013ed85e",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:46:57Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove cwd",
-      "sha": "126ebff1475b3943c239479ef49ecbdcc49a49c9",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:38:56Z"
-    },
-    {
-      "author": 1334409,
-      "message": "more purgecssconfig tweaking",
-      "sha": "78d5530d06a1c11592d2194f5f265918dd3da2b0",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:37:53Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update purgecss config",
-      "sha": "a84ac95c54c65062621453f3c7f7a5e69c04784a",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:33:50Z"
-    },
-    {
-      "author": 1334409,
-      "message": "different purgecss config",
-      "sha": "2f83b037858194096f6e6a2e04b32cd870e46758",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:29:27Z"
-    },
-    {
-      "author": 1334409,
-      "message": "move purgecss config",
-      "sha": "33defe26e923d3275cd48e3d9eb709d9d5903297",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:25:45Z"
-    },
-    {
-      "author": 1334409,
-      "message": "try and require the config",
-      "sha": "33debfae5feeaa7258f3a3330cc5cde6181e6efa",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:23:31Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix the config path",
-      "sha": "03a22cd04981a08e5738faa7b7642d50fae832cf",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:22:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove next prev from pages and bring back tailwidn plugin",
-      "sha": "56c5e62e6590a92537d6492479949c6a35a86452",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:18:33Z"
-    },
-    {
-      "author": 1334409,
-      "message": "change help copy",
-      "sha": "89f6b63d49199f1805a7129e36719ae2be69166e",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:03:28Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add relations docs",
-      "sha": "ec8b2dd6a21c5fba114de45caf4d6ede31be04b2",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T13:03:07Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix tailwind",
-      "sha": "ba027ebbbb13e5189431e0e5503305eabbfeecc9",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T12:22:09Z"
-    },
-    {
-      "author": 1334409,
-      "message": "remove tailwind vuepress plufin",
-      "sha": "72b9d23b4de196974ec942da107b3ec32c9084d4",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T12:18:01Z"
-    },
-    {
-      "author": 1334409,
-      "message": "install tailwind native",
-      "sha": "03714b1914c4ba91ce661498169f179dab0d7b2c",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T12:14:20Z"
-    },
-    {
-      "author": 1334409,
-      "message": "purge with the dist dir",
-      "sha": "8bf831d476fb012ca5063da0fc2ed675750da314",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T12:04:24Z"
-    },
-    {
-      "author": 1334409,
-      "message": "new purge config",
-      "sha": "d99dc0cf679f948a7bbf02224c6f169ff22be246",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T12:00:06Z"
-    },
-    {
-      "author": 1334409,
-      "message": "temporarely remove tailwind",
-      "sha": "bf16c139ef2a85df734bae235be5463132aa1baf",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T11:52:54Z"
-    },
-    {
-      "author": 1334409,
-      "message": "better purge options",
-      "sha": "734f22a53df107c6ae369d57989840fa9c8d605d",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T11:05:55Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add purge path to tailwind",
-      "sha": "807373b009b681724d4bc368d1739da5819530f2",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T11:01:54Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add back-to-top link",
-      "sha": "b0bb5ede1a5047979c4efd2019babbe255e2a79d",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T10:58:15Z"
-    },
-    {
-      "author": 1334409,
-      "message": "move dashboard at the end",
-      "sha": "23b21e163810618d3dfaa4c106d7f527d563c488",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T10:56:27Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix list styles",
-      "sha": "c5016fbf2572236339430663a09b816383290fd8",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T10:56:17Z"
-    },
-    {
-      "author": 1334409,
-      "message": "improve docs and redesign like app",
-      "sha": "74b811877d15cd16b1ec925365d84516228c2614",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-14T10:22:45Z"
-    },
-    {
-      "author": 1334409,
-      "message": "eject theme",
-      "sha": "2efdd348465334e2e6b16139c2c93185f910d62a",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-13T21:43:21Z"
-    },
-    {
-      "author": 1334409,
-      "message": "add CI and heroku instructions",
-      "sha": "ce923d6cd1af84a5c152b4b0a40fa95125e64ad5",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-13T17:28:16Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge branch 'master' of https://github.com/AvocadoHQ/docs",
-      "sha": "c9acde53dc9a663608b0ae88a64cf72af760f49e",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-13T17:06:06Z"
-    },
-    {
-      "author": 1334409,
-      "message": "update install instructions to incude token",
-      "sha": "d5104a2ad86eb86dfe79d02b9b2cec3e6fc9aa4c",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-13T17:04:03Z"
-    },
-    {
-      "author": 23171533,
-      "message": "docs: as_link_to_resource docs",
-      "sha": "06a7fbbf6b4c9e809dbef89524263931b07dbeb3",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-12T15:58:03Z"
-    },
-    {
-      "author": 1334409,
-      "message": "fix: fix relative path",
-      "sha": "c46b307bf5a3b7838017fe03d8f1bc866da24158",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-11T10:47:20Z"
-    },
-    {
-      "author": 1334409,
-      "message": "docs: add dashboard docs",
-      "sha": "33a79fcb8a0a9725319279ec3c02349a00d46570",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-11T10:22:22Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: remove router redirect",
-      "sha": "b98959d672fd522eeb9fc7713cc057dd0ee48298",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-10T15:39:39Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add gem for early access users",
-      "sha": "02f8cec3be8b1381a1733368dc1b4890dafb417b",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-10T09:23:18Z"
-    },
-    {
-      "author": 1334409,
-      "message": "docs: add link to early access",
-      "sha": "4048844dd6f89ef8b5f4783cc15800c0a524ace2",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-10T08:21:04Z"
-    },
-    {
-      "author": 1334409,
-      "message": "docs: more fields",
-      "sha": "0443f5a546cb86d9ec5a548a5060fd8a0de951ce",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-10T08:14:35Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: remove default theme from config",
-      "sha": "0dfb039d5150ca892c425d5e988c9b6a86475cfd",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-10T06:43:47Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: add proper pwa config",
-      "sha": "9be582d71d930f454b70eaa080de614adbcfc133",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-10T06:41:05Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: initial fields tweaks",
-      "sha": "b873e2c206dda15a715a1c0a039277ce72fba71e",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-09T18:27:08Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: use netlify.toml for redirects",
-      "sha": "6e1fc09973f9525fdb29699b8c6155d4f6c6e4e6",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-09T16:59:48Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: move _redirects",
-      "sha": "7b841352fdff95aac2383b650dbdb297a6e93754",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-09T16:56:23Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add _redirects file",
-      "sha": "900d9bc48701f1c075f44c3e3a105b4e70755e85",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-09T16:50:37Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: update to grid, filters",
-      "sha": "206caaccf6515a9d782141666f7e18a980726a93",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-09T16:15:49Z"
-    },
-    {
-      "author": 1334409,
-      "message": "Merge pull request #1 from AvocadoHQ/feature_update_docs\n\nupdate relations and fields a bit",
-      "sha": "e9e88cd8337b50e8084c108c809fc2c34c559062",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-09T14:27:08Z"
-    },
-    {
-      "author": 23171533,
-      "message": "update relations and fields a bit",
-      "sha": "74e553beb19da8cb71dc9d5423573bc029dcb78c",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-08-07T18:02:09Z"
-    },
-    {
-      "author": 23171533,
-      "message": "chore: add themes preview link for code field",
-      "sha": "2053f7357944da23a0b55e8d10abb3b1ee101e8f",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-07-08T15:06:17Z"
-    },
-    {
-      "author": 23171533,
-      "message": "feat: docs for hidden and code fields",
-      "sha": "8222fdea9abb61f641b348f8aa6f918a864b62e2",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-07-08T15:00:31Z"
-    },
-    {
-      "author": 23171533,
-      "message": "feat: docs for badge, country, currency and gravatar fields",
-      "sha": "c6009aa572ff0964e358509a62dd61fce07c8a2a",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-07-01T17:57:39Z"
-    },
-    {
-      "author": 23171533,
-      "message": "keyvalue-field-docs",
-      "sha": "36c7e8ef5fec5000726aa70c0ef08db76dead1cd",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-28T18:41:52Z"
-    },
-    {
-      "author": 23171533,
-      "message": "refactor status-field-docs",
-      "sha": "b6d90fabedbaf9faa176b040632d603fdb5ce94f",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-28T11:46:24Z"
-    },
-    {
-      "author": 23171533,
-      "message": "status-field-docs",
-      "sha": "363846ae1f803d52180516d186ba795f08f89ca4",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-28T11:44:11Z"
-    },
-    {
-      "author": 23171533,
-      "message": "refactor heading-field-doc",
-      "sha": "20b22cdb3551d8a4b4db1c1aa57b90fb51c0231d",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-28T11:34:38Z"
-    },
-    {
-      "author": 23171533,
-      "message": "heading-field-docs",
-      "sha": "e238402432ea414b6b131adcc4b7b10c8c9ea34c",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-28T11:34:12Z"
-    },
-    {
-      "author": 23171533,
-      "message": "heading-field-doc",
-      "sha": "96145d4fb2abfcce48ed48152925a14b1bfbc769",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-28T09:25:52Z"
-    },
-    {
-      "author": 23171533,
-      "message": "Create README.md",
-      "sha": "45dba3bbee09034d476fe788676617d7ddac0647",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-25T18:52:50Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: fix missing quotes",
-      "sha": "c43adc40a31b45b9c4a7d57cba0015318b617116",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T17:33:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: camelCase to snake_case",
-      "sha": "51c15a40c0a113689c0ca537a2d453e8119079bb",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T17:21:59Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: remove buildMenu function",
-      "sha": "7251b10de71e73a8271ae5a7edd789d9107f3add",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T17:18:51Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add logo & versions",
-      "sha": "49d8316eb4d8ca219dc7ed1c10db1fd235510e7c",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T17:18:27Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: show everything in the sidebar",
-      "sha": "f242a4633a8e3c06c363c13f9de0d1df84247972",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T17:11:09Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: add a global sidebar",
-      "sha": "cb25c2023de2245de6abbe1f6ee4e270eaec5f11",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T16:54:15Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add belongs to notes and some install tweaks",
-      "sha": "5f5ecb2d77a86f5e4cfd3766e4b87291c42a8369",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T15:46:32Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: split up fields and fields reference",
-      "sha": "ac96f91ec2f23abec4a0a0071ea296c032059fe9",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T07:31:00Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: add authorization documentation",
-      "sha": "646e62f75de897710d5b99e68a14137c5f90c093",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T07:11:18Z"
-    },
-    {
-      "author": 1334409,
-      "message": "docs: ad generator docs",
-      "sha": "c8d6eb1b0297ab9a4691ac2c3101f490d732941b",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-10T06:52:53Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: added all fields",
-      "sha": "e17dc2d5b2313d35567018d564178f781bec6ab3",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-09T17:03:56Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: tiny tweaks",
-      "sha": "3e09cbe8b15a7c138d2f590c92c8279235c5aa39",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-09T15:56:14Z"
-    },
-    {
-      "author": 1334409,
-      "message": "refactor: build with vuepress for the time being",
-      "sha": "751a227dc3126e38becefef3f44a7f3594687454",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-09T15:48:20Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: initial commit",
-      "sha": "63dde8a3198f2da19f249eaf80dac412d86782d1",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-09T15:46:40Z"
-    },
-    {
-      "author": 1334409,
-      "message": "chore: some initial work",
-      "sha": "9d390211b8084bce9c434d5edf3492bbbf462c83",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-08T15:26:21Z"
-    },
-    {
-      "author": 1334409,
-      "message": "initial commit",
-      "sha": "5f362d4a62299051900c1e9fa3b7e8eb9929f0f9",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-08T11:39:02Z"
-    },
-    {
-      "author": 1334409,
-      "message": "initial commit",
-      "sha": "3941bfebf38766f990f66697e0ae831effd67c2a",
-      "orgName": "avo-hq",
-      "repoName": "docs",
-      "createdAt": "2020-06-08T11:38:17Z"
     },
     {
       "author": 1334409,
@@ -20222,25 +20270,41 @@
       "id": 1334409,
       "login": "adrianthedev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-      "commitsCount": 1871,
+      "commitsCount": 1873,
       "firstCommitAt": "2020-03-28T15:37:35Z",
-      "lastCommitAt": "2024-01-06T17:20:22Z"
+      "lastCommitAt": "2024-01-07T11:07:48Z"
     },
     {
       "id": 69730720,
       "login": "Paul-Bob",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69730720?v=4",
-      "commitsCount": 182,
+      "commitsCount": 184,
       "firstCommitAt": "2022-05-03T21:00:12Z",
-      "lastCommitAt": "2024-01-04T13:42:17Z"
+      "lastCommitAt": "2024-01-08T10:03:25Z"
     },
     {
-      "id": 5301131,
-      "login": "lorint",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5301131?v=4",
-      "commitsCount": 6,
-      "firstCommitAt": "2023-01-03T05:11:03Z",
-      "lastCommitAt": "2023-02-27T18:28:15Z"
+      "id": 23717796,
+      "login": "depfu[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/715?v=4",
+      "commitsCount": 88,
+      "firstCommitAt": "2023-12-15T09:56:13Z",
+      "lastCommitAt": "2024-01-08T08:18:12Z"
+    },
+    {
+      "id": 64327383,
+      "login": "kakeruAoyama",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64327383?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2023-12-22T21:30:23Z",
+      "lastCommitAt": "2023-12-22T21:30:23Z"
+    },
+    {
+      "id": 12682792,
+      "login": "bryszard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12682792?v=4",
+      "commitsCount": 4,
+      "firstCommitAt": "2023-08-09T14:46:16Z",
+      "lastCommitAt": "2023-12-19T12:59:40Z"
     },
     {
       "id": 7141798,
@@ -20283,28 +20347,12 @@
       "lastCommitAt": "2022-05-16T18:29:25Z"
     },
     {
-      "id": 23717796,
-      "login": "depfu[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/715?v=4",
-      "commitsCount": 86,
-      "firstCommitAt": "2023-12-15T09:56:13Z",
-      "lastCommitAt": "2024-01-06T15:33:31Z"
-    },
-    {
-      "id": 64327383,
-      "login": "kakeruAoyama",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64327383?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2023-12-22T21:30:23Z",
-      "lastCommitAt": "2023-12-22T21:30:23Z"
-    },
-    {
-      "id": 12682792,
-      "login": "bryszard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12682792?v=4",
-      "commitsCount": 4,
-      "firstCommitAt": "2023-08-09T14:46:16Z",
-      "lastCommitAt": "2023-12-19T12:59:40Z"
+      "id": 5301131,
+      "login": "lorint",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5301131?v=4",
+      "commitsCount": 6,
+      "firstCommitAt": "2023-01-03T05:11:03Z",
+      "lastCommitAt": "2023-02-27T18:28:15Z"
     },
     {
       "id": 4217871,
@@ -20347,14 +20395,6 @@
       "lastCommitAt": "2023-10-20T16:27:20Z"
     },
     {
-      "id": 3110565,
-      "login": "ddmck",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3110565?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2023-10-09T11:48:18Z",
-      "lastCommitAt": "2023-10-09T11:48:18Z"
-    },
-    {
       "id": 43936240,
       "login": "PedroAugustoRamalhoDuarte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43936240?v=4",
@@ -20377,6 +20417,14 @@
       "commitsCount": 105,
       "firstCommitAt": "2020-05-13T17:16:40Z",
       "lastCommitAt": "2021-09-09T12:02:12Z"
+    },
+    {
+      "id": 3110565,
+      "login": "ddmck",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3110565?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2023-10-09T11:48:18Z",
+      "lastCommitAt": "2023-10-09T11:48:18Z"
     },
     {
       "id": 4095923,
@@ -20475,14 +20523,6 @@
       "lastCommitAt": "2023-05-26T12:46:44Z"
     },
     {
-      "id": 60799999,
-      "login": "JeremasPosta",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60799999?v=4",
-      "commitsCount": 3,
-      "firstCommitAt": "2023-01-27T13:22:15Z",
-      "lastCommitAt": "2023-05-15T15:56:22Z"
-    },
-    {
       "id": 32097294,
       "login": "michebble",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32097294?v=4",
@@ -20497,6 +20537,14 @@
       "commitsCount": 2,
       "firstCommitAt": "2021-04-12T12:53:50Z",
       "lastCommitAt": "2021-04-12T13:23:52Z"
+    },
+    {
+      "id": 60799999,
+      "login": "JeremasPosta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60799999?v=4",
+      "commitsCount": 3,
+      "firstCommitAt": "2023-01-27T13:22:15Z",
+      "lastCommitAt": "2023-05-15T15:56:22Z"
     },
     {
       "id": 6041919,
